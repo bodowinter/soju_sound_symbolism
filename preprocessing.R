@@ -2,6 +2,10 @@
 ## June 7, 2017
 ## Function for loading in data
 
+##------------------------------------------------------------------
+## Load stuff:
+##------------------------------------------------------------------
+
 ## Load in libraries:
 
 library(tidyverse)
@@ -17,6 +21,7 @@ setwd(file.path(mainPath, 'raw_data/'))
 
 mycols_long <- colnames(read.csv('qualtrics_long_column_names.csv', header = T))
 mycols_short <- colnames(read.csv('qualtrics_short_column_names.csv', header = T))
+mycols_soju_question <- colnames(read.csv('qualtrics_soju_content_question.csv', header = T))
 
 ## Load in experiment files:
 
@@ -32,6 +37,10 @@ male <- read.csv('qualtrics_E3_male.csv', header = F,
 	stringsAsFactors = F)
 female <- read.csv('qualtrics_E3_female.csv', header = F,
 	stringsAsFactors = F)
+percent15 <- read.csv('qualtrics_E4_15percent.csv', header = F,
+	stringsAsFactors = F)
+percent30 <- read.csv('qualtrics_E4_30percent.csv', header = F,
+	stringsAsFactors = F)
 
 ## Name columns:
 
@@ -41,6 +50,14 @@ colnames(rough) <- mycols_short		# earlier version of experiment
 colnames(smooth) <- mycols_long
 colnames(male) <- mycols_long
 colnames(female) <- mycols_long
+colnames(percent15) <- mycols_soju_question
+colnames(percent30) <- mycols_soju_question
+
+
+
+##------------------------------------------------------------------
+## Data carpentry:
+##------------------------------------------------------------------
 
 ## Create function for extracting responses:
 
@@ -88,6 +105,7 @@ extract_resp <- function(xdata) {
 	# Append info from main frame:
 
 	myconds$Gender <- xdata$Gender
+	myconds$Age <- xdata$Age
 	myconds$Native <- xdata$Native
 	myconds$ID <- xdata$V1
 	myconds$KoreanVisit <- xdata$KoreanVisit
@@ -102,18 +120,22 @@ extract_resp <- function(xdata) {
 	if (any(colnames(xdata) == 'Qualitative.question')) {
 		myconds$Qualitative <- xdata$Qualitative.question
 		}
+
+	if (any(colnames(xdata) == 'Qualitative')) {
+		myconds$Qualitative <- xdata$Qualitative
+		}
+
+	anyqual <- any(colnames(xdata) == 'Qualitative')
+	anyqual <- !(anyqual | any(colnames(xdata) == 'Qualitative.question'))
+	if (anyqual) {
+		myconds$Qualitative <- NA
+		}
 	
 	# Reshuffle columns in better order:
 	
-	if (any(colnames(xdata) == 'Qualitative.question')) {
-		myconds <- select(myconds,
-			ID, Gender, Native,
-			KoreanVisit:KoreanFriends, FirstGender:SecondResp, Qualitative)
-		} else {
-			myconds <- select(myconds,
-				ID, Gender, Native, KoreanVisit:KoreanFriends,
-				FirstGender:SecondResp)	
-			}
+	myconds <- select(myconds,
+		ID, Gender, Age, Native,
+		KoreanVisit:KoreanFriends, FirstGender:SecondResp, Qualitative)
 	
 	# Return to outside function:
 
@@ -128,10 +150,8 @@ rough <- extract_resp(rough)
 smooth <- extract_resp(smooth)
 male <- extract_resp(male)
 female <- extract_resp(female)
-
-## Append empty qualitative question for 'rough' pilot:
-
-rough$Qualitative <- NA
+percent15 <- extract_resp(percent15)
+percent30 <- extract_resp(percent30)
 
 ## Function for making into long form:
 
@@ -173,6 +193,8 @@ rough <- make_long(rough)
 smooth <- make_long(smooth)
 male <- make_long(male)
 female <- make_long(female)
+percent15 <- make_long(percent15)
+percent30 <- make_long(percent30)
 
 ## Function for creating a response type column:
 
@@ -208,6 +230,8 @@ rough <- create_resp(rough)
 smooth <- create_resp(smooth)
 male <- create_resp(male)
 female <- create_resp(female)
+percent15 <- create_resp(percent15)
+percent30 <- create_resp(percent30)
 
 ## Append what question was asked: harder? softer? etc. :
 
@@ -217,12 +241,21 @@ rough$Question <- 'rough'
 smooth$Question <- 'smooth'
 male$Question <- 'male'
 female$Question <- 'female'
+percent15$Question <- '15%'
+percent30$Question <- '30%'
 
 ## Put them into experiment files:
 
 E1 <- rbind(hard, soft)
 E2 <- rbind(rough, smooth)
 E3 <- rbind(male, female)
+E4 <- rbind(percent15, percent30)
+
+
+
+##------------------------------------------------------------------
+## Write:
+##------------------------------------------------------------------
 
 ## Write to table:
 
@@ -230,5 +263,6 @@ setwd(file.path(mainPath, 'processed_data/'))
 write_csv(E1, 'E1_hardness.csv')
 write_csv(E2, 'E2_roughness.csv')
 write_csv(E3, 'E3_gender.csv')
+write_csv(E4, 'E4_soju_content.csv')
 
 
