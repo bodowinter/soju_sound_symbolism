@@ -1,6 +1,6 @@
 ## Bodo Winter
 ## June 7, 2017
-## Function for loading in data
+## Preprocessing data
 
 ##------------------------------------------------------------------
 ## Load stuff:
@@ -19,28 +19,37 @@ setwd(file.path(mainPath, 'raw_data/'))
 
 ## Load in column names:
 
-mycols_long <- colnames(read.csv('qualtrics_long_column_names.csv', header = T))
-mycols_short <- colnames(read.csv('qualtrics_short_column_names.csv', header = T))
-mycols_soju_question <- colnames(read.csv('qualtrics_soju_content_question.csv', header = T))
+mycols_long <- colnames(read.csv('qualtrics_long_column_names.csv', header = TRUE))
+mycols_short <- colnames(read.csv('qualtrics_short_column_names.csv', header = TRUE))
+mycols_soju_question <- colnames(read.csv('qualtrics_soju_content_question.csv', header = TRUE))
+mycols_new <- colnames(read.csv('qualtrics_soju_new_column_names.csv', header = TRUE))
 
 ## Load in experiment files:
 
-hard <- read.csv('qualtrics_E1_hard.csv', header = F,
-	stringsAsFactors = F)
-soft <- read.csv('qualtrics_E1_soft.csv', header = F,
-	stringsAsFactors = F)
-rough <- read.csv('qualtrics_E2_rough.csv', header = F,
-	stringsAsFactors = F)
-smooth <- read.csv('qualtrics_E2_smooth.csv', header = F,
-	stringsAsFactors = F)
-male <- read.csv('qualtrics_E3_male.csv', header = F,
-	stringsAsFactors = F)
+hard <- read.csv('qualtrics_E1_hard.csv', header = FALSE,
+	stringsAsFactors = FALSE)
+soft <- read.csv('qualtrics_E1_soft.csv', header = FALSE,
+	stringsAsFactors = FALSE)
+rough <- read.csv('qualtrics_E2_rough.csv', header = FALSE,
+	stringsAsFactors = FALSE)
+smooth <- read.csv('qualtrics_E2_smooth.csv', header = FALSE,
+	stringsAsFactors = FALSE)
+male <- read.csv('qualtrics_E3_male.csv', header = FALSE,
+	stringsAsFactors = FALSE)
 female <- read.csv('qualtrics_E3_female.csv', header = F,
-	stringsAsFactors = F)
-percent15 <- read.csv('qualtrics_E4_15percent.csv', header = F,
-	stringsAsFactors = F)
-percent30 <- read.csv('qualtrics_E4_30percent.csv', header = F,
-	stringsAsFactors = F)
+	stringsAsFactors = FALSE)
+percent15 <- read.csv('qualtrics_E4_15percent.csv', header = FALSE,
+	stringsAsFactors = FALSE)
+percent30 <- read.csv('qualtrics_E4_30percent.csv', header = FALSE,
+	stringsAsFactors = FALSE)
+sweet <- read.csv('Harkness_SWEET.csv', header = FALSE,
+	stringsAsFactors = FALSE)
+bitter <- read.csv('Harkness_BITTER.csv', header = FALSE,
+	stringsAsFactors = FALSE)
+pleasant <- read.csv('Harkness_PLEASANT.csv', header = FALSE,
+	stringsAsFactors = FALSE)
+unpleasant <- read.csv('Harkness_UNPLEASANT.csv', header = FALSE,
+	stringsAsFactors = FALSE)
 
 ## Name columns:
 
@@ -52,6 +61,10 @@ colnames(male) <- mycols_long
 colnames(female) <- mycols_long
 colnames(percent15) <- mycols_soju_question
 colnames(percent30) <- mycols_soju_question
+colnames(sweet) <- mycols_new
+colnames(bitter) <- mycols_new
+colnames(pleasant) <- mycols_new
+colnames(unpleasant) <- mycols_new
 
 
 
@@ -152,6 +165,11 @@ male <- extract_resp(male)
 female <- extract_resp(female)
 percent15 <- extract_resp(percent15)
 percent30 <- extract_resp(percent30)
+sweet <- extract_resp(sweet)
+bitter <- extract_resp(bitter)
+pleasant <- extract_resp(pleasant)
+unpleasant <- extract_resp(unpleasant)
+
 
 ## Function for making into long form:
 
@@ -195,6 +213,10 @@ male <- make_long(male)
 female <- make_long(female)
 percent15 <- make_long(percent15)
 percent30 <- make_long(percent30)
+sweet <- make_long(sweet)
+bitter <- make_long(bitter)
+pleasant <- make_long(pleasant)
+unpleasant <- make_long(unpleasant)
 
 ## Function for creating a response type column:
 
@@ -232,6 +254,10 @@ male <- create_resp(male)
 female <- create_resp(female)
 percent15 <- create_resp(percent15)
 percent30 <- create_resp(percent30)
+sweet <- create_resp(sweet)
+bitter <- create_resp(bitter)
+pleasant <- create_resp(pleasant)
+unpleasant <- create_resp(unpleasant)
 
 ## Append what question was asked: harder? softer? etc. :
 
@@ -243,6 +269,10 @@ male$Question <- 'male'
 female$Question <- 'female'
 percent15$Question <- '15%'
 percent30$Question <- '30%'
+sweet$Question <- 'sweet'
+bitter$Question <- 'bitter'
+pleasant$Question <- 'pleasant'
+unpleasant$Question <- 'unpleasant'
 
 ## Put them into experiment files:
 
@@ -250,7 +280,8 @@ E1 <- rbind(hard, soft)
 E2 <- rbind(rough, smooth)
 E3 <- rbind(male, female)
 E4 <- rbind(percent15, percent30)
-
+E5 <- rbind(sweet, bitter)
+E6 <- rbind(pleasant, unpleasant)
 
 
 ##------------------------------------------------------------------
@@ -264,5 +295,7 @@ write_csv(E1, 'E1_hardness.csv')
 write_csv(E2, 'E2_roughness.csv')
 write_csv(E3, 'E3_gender.csv')
 write_csv(E4, 'E4_soju_content.csv')
+write_csv(E5, 'E5_taste.csv')
+write_csv(E6, 'E6_pleasant.csv')
 
 
