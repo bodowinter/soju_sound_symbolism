@@ -1,0 +1,439 @@
+ID,Gender,Age,Native,KoreanVisit,KoreanDrama,KoreanLanguage,SojuQuestion,KoreanRestaurant,KoreanFriends,Qualitative,Condition,StimGender,Resp,RespType,Question
+R_10r3CxJkfaNA3AM,male,34,English,Never,Never,None,No,Maybe,Yes,Not really sure,KhyaKheu,Female,First,Khya,pleasant
+R_10r3CxJkfaNA3AM,male,34,English,Never,Never,None,No,Maybe,Yes,Not really sure,KhyaKheu,Male,First,Khya,pleasant
+R_10UdtqFj8e0fDXt,female,35,english,Lived 0-5 years,Occasionally,Advanced,Maybe,Yes,Maybe,The pleasant of voice.,KheuKhya,Male,First,Kheu,pleasant
+R_10UdtqFj8e0fDXt,female,35,english,Lived 0-5 years,Occasionally,Advanced,Maybe,Yes,Maybe,The pleasant of voice.,KheuKhya,Female,First,Kheu,pleasant
+R_12SJdP4Ee0uW76r,female,40,English,Never,Never,None,No,Maybe,Yes,It almost seemed like a higher pitch made the sound lighter and less intimidating. ,KhyaKheu,Female,First,Khya,pleasant
+R_12SJdP4Ee0uW76r,female,40,English,Never,Never,None,No,Maybe,Yes,It almost seemed like a higher pitch made the sound lighter and less intimidating. ,KheuKhya,Male,First,Kheu,pleasant
+R_1dcRVjRH0bCO3bW,male,24,English,Never,Never,None,No,No,No,I thought both sounds weren't very pleasant sounding but i chose the one that was easier on my ears to listen to.,KhyaKheu,Male,First,Khya,pleasant
+R_1dcRVjRH0bCO3bW,male,24,English,Never,Never,None,No,No,No,I thought both sounds weren't very pleasant sounding but i chose the one that was easier on my ears to listen to.,KheuKhya,Female,First,Kheu,pleasant
+R_1dNspwFvIghtnRL,male,29,english,Never,Rarely,None,No,Maybe,No,while listening i feel and selected the sound which is natural to me.,KhyaKheu,Male,First,Khya,pleasant
+R_1dNspwFvIghtnRL,male,29,english,Never,Rarely,None,No,Maybe,No,while listening i feel and selected the sound which is natural to me.,KhyaKheu,Female,Second,Kheu,pleasant
+R_1E6FhI2ahV8zxl0,male,24,english,Short visit(s),Occasionally,Native-like,Maybe,Maybe,Yes,no,KheuKhya,Female,Second,Khya,pleasant
+R_1E6FhI2ahV8zxl0,male,24,english,Short visit(s),Occasionally,Native-like,Maybe,Maybe,Yes,no,KhyaKheu,Male,First,Khya,pleasant
+R_1F5sd7oqhLFYgEX,male,39,English,Never,Never,None,No,No,Yes,None,KhyaKheu,Male,Second,Kheu,pleasant
+R_1F5sd7oqhLFYgEX,male,39,English,Never,Never,None,No,No,Yes,None,KheuKhya,Female,Second,Khya,pleasant
+R_1GEtKfiu2fRIrg4,female,28,ENGLISH,Never,Never,None,No,No,No,NA,KheuKhya,Female,First,Kheu,pleasant
+R_1GEtKfiu2fRIrg4,female,28,ENGLISH,Never,Never,None,No,No,No,NA,KhyaKheu,Male,Second,Kheu,pleasant
+R_1gTJto4CiwASBG8,female,44,english,Never,Never,None,No,No,No,I chose the one that sounded less like a cat hiss.,KhyaKheu,Male,First,Khya,pleasant
+R_1gTJto4CiwASBG8,female,44,english,Never,Never,None,No,No,No,I chose the one that sounded less like a cat hiss.,KheuKhya,Female,Second,Khya,pleasant
+R_1hYek5tlJM9AWSE,male,34,English,Never,Don't know,None,No,No,No,The first one sounded raspy.,KhyaKheu,Male,Second,Kheu,pleasant
+R_1hYek5tlJM9AWSE,male,34,English,Never,Don't know,None,No,No,No,The first one sounded raspy.,KhyaKheu,Female,First,Khya,pleasant
+R_1K9lJ6q1ahK4na4,male,30,English,Never,Rarely,None,No,No,Maybe,They just sounded nicer.,KheuKhya,Female,Second,Khya,pleasant
+R_1K9lJ6q1ahK4na4,male,30,English,Never,Rarely,None,No,No,Maybe,They just sounded nicer.,KheuKhya,Male,Second,Khya,pleasant
+R_1kFhMQySW0xX6Yc,,NA,,,,,,,,,KhyaKheu,Female,First,Khya,pleasant
+R_1kFhMQySW0xX6Yc,,NA,,,,,,,,,KhyaKheu,Female,First,Khya,pleasant
+R_1mQuceVhwlbv6Kk,male,23,English,Short visit(s),Regularly,None,Maybe,Maybe,No,I went with my gut feeling based on the many emotions I was experiencing for the sake of the boys,KheuKhya,Male,Second,Khya,pleasant
+R_1mQuceVhwlbv6Kk,male,23,English,Short visit(s),Regularly,None,Maybe,Maybe,No,I went with my gut feeling based on the many emotions I was experiencing for the sake of the boys,KhyaKheu,Female,First,Khya,pleasant
+R_1mV5IefazWFe7K8,female,52,English,Lived 0-5 years,Never,None,Yes,Yes,No,I chose the one that did no grate on my nerves as bad.,KheuKhya,Male,Second,Khya,pleasant
+R_1mV5IefazWFe7K8,female,52,English,Lived 0-5 years,Never,None,Yes,Yes,No,I chose the one that did no grate on my nerves as bad.,KheuKhya,Female,Second,Khya,pleasant
+R_1mWb38nZaVJ4Zvk,male,42,English,,,,,,,The sound that was more pleasant and not rough. ,KheuKhya,Male,First,Kheu,pleasant
+R_1mWb38nZaVJ4Zvk,male,42,English,,,,,,,The sound that was more pleasant and not rough. ,KhyaKheu,Female,First,Khya,pleasant
+R_1OTfGIfG5m84hF8,,NA,,,,,,,,,NA,NA,NA,NA,pleasant
+R_1OTfGIfG5m84hF8,,NA,,,,,,,,,NA,NA,NA,NA,pleasant
+R_1rD5kbtw2rZK0pN,female,25,english,Short visit(s),Occasionally,Intermediate,Yes,Maybe,Maybe,it is about sounds,KheuKhya,Female,Second,Khya,pleasant
+R_1rD5kbtw2rZK0pN,female,25,english,Short visit(s),Occasionally,Intermediate,Yes,Maybe,Maybe,it is about sounds,KhyaKheu,Male,Second,Kheu,pleasant
+R_1rx1xWiQ7Xk5Pyd,female,27,English,Never,Never,None,No,No,No,I just went with my feelings and if they didn't hurt my ears.,KheuKhya,Female,Second,Khya,pleasant
+R_1rx1xWiQ7Xk5Pyd,female,27,English,Never,Never,None,No,No,No,I just went with my feelings and if they didn't hurt my ears.,KhyaKheu,Male,First,Khya,pleasant
+R_21o0tMBVMe9lgcx,male,40,english,Never,Never,None,Yes,Maybe,Yes,sounds with more elements more pleasing,KheuKhya,Female,Second,Khya,pleasant
+R_21o0tMBVMe9lgcx,male,40,english,Never,Never,None,Yes,Maybe,Yes,sounds with more elements more pleasing,KhyaKheu,Male,First,Khya,pleasant
+R_21sw8ggJWQ5K594,male,53,english,Never,Never,None,No,Yes,Yes,maybe the lower sounding volume was more pleasant to me?,KhyaKheu,Female,First,Khya,pleasant
+R_21sw8ggJWQ5K594,male,53,english,Never,Never,None,No,Yes,Yes,maybe the lower sounding volume was more pleasant to me?,KheuKhya,Male,First,Kheu,pleasant
+R_22RdFFvbEn2qosH,male,29,English,Lived 0-5 years,Occasionally,None,No,Maybe,Maybe,it was slight variant from other.,KhyaKheu,Male,Second,Kheu,pleasant
+R_22RdFFvbEn2qosH,male,29,English,Lived 0-5 years,Occasionally,None,No,Maybe,Maybe,it was slight variant from other.,KheuKhya,Female,Second,Khya,pleasant
+R_233kxUgpY7Kl694,female,42,ENGLISH,Short visit(s),Occasionally,None,Maybe,Yes,Maybe,BY NOISE,KheuKhya,Female,Second,Khya,pleasant
+R_233kxUgpY7Kl694,female,42,ENGLISH,Short visit(s),Occasionally,None,Maybe,Yes,Maybe,BY NOISE,KheuKhya,Male,First,Kheu,pleasant
+R_23TuEJngwnFLSgh,male,24,English,Never,Never,None,No,Yes,No,How pleasant the sounds were to my ears influenced my judgment the most,KhyaKheu,Female,First,Khya,pleasant
+R_23TuEJngwnFLSgh,male,24,English,Never,Never,None,No,Yes,No,How pleasant the sounds were to my ears influenced my judgment the most,KhyaKheu,Male,Second,Kheu,pleasant
+R_27f1luBrabyhDXl,male,25,English,Never,Regularly,None,No,No,Yes,I just went with my instinct and how harsh they sounded to determine which was more pleasant.,KhyaKheu,Male,First,Khya,pleasant
+R_27f1luBrabyhDXl,male,25,English,Never,Regularly,None,No,No,Yes,I just went with my instinct and how harsh they sounded to determine which was more pleasant.,KheuKhya,Female,Second,Khya,pleasant
+R_2ahvWyG7kgftTUl,female,28,english,Never,Never,None,No,Maybe,Maybe," i choose the answer,  because the sound is loudly and clearly",KheuKhya,Female,First,Kheu,pleasant
+R_2ahvWyG7kgftTUl,female,28,english,Never,Never,None,No,Maybe,Maybe," i choose the answer,  because the sound is loudly and clearly",KheuKhya,Male,Second,Khya,pleasant
+R_2aVI7kr7Dja4xAH,female,39,English,Never,Rarely,None,No,Yes,No,I chose the clearer one.,KheuKhya,Male,First,Kheu,pleasant
+R_2aVI7kr7Dja4xAH,female,39,English,Never,Rarely,None,No,Yes,No,I chose the clearer one.,KheuKhya,Female,Second,Khya,pleasant
+R_2bJYCcmeBdLzYMi,male,55,English,Never,Never,None,No,Yes,Yes,They sounded very similar. I just went with my gut reaction. ,KhyaKheu,Female,First,Khya,pleasant
+R_2bJYCcmeBdLzYMi,male,55,English,Never,Never,None,No,Yes,Yes,They sounded very similar. I just went with my gut reaction. ,KheuKhya,Male,First,Kheu,pleasant
+R_2CdDJNKxvSJ2MsF,male,33,english,Never,Rarely,None,Yes,Yes,No,Well...  it just sounded nicer overall?,KhyaKheu,Female,First,Khya,pleasant
+R_2CdDJNKxvSJ2MsF,male,33,english,Never,Rarely,None,Yes,Yes,No,Well...  it just sounded nicer overall?,KhyaKheu,Male,Second,Kheu,pleasant
+R_2chm8L5KcxHDjRb,female,43,english,Never,Never,None,No,Yes,No,I think maybe the second was softer or more feminine.,KhyaKheu,Male,Second,Kheu,pleasant
+R_2chm8L5KcxHDjRb,female,43,english,Never,Never,None,No,Yes,No,I think maybe the second was softer or more feminine.,KheuKhya,Female,Second,Khya,pleasant
+R_2CKAzGk7A0twGfS,male,27,English,Lived 0-5 years,Regularly,Intermediate,Yes,Maybe,Maybe,the quality of the sound made my judgement,KheuKhya,Male,Second,Khya,pleasant
+R_2CKAzGk7A0twGfS,male,27,English,Lived 0-5 years,Regularly,Intermediate,Yes,Maybe,Maybe,the quality of the sound made my judgement,KheuKhya,Female,First,Kheu,pleasant
+R_2Ckbp2phgP72HJx,female,51,English,Never,Never,None,No,Yes,No,The first one sounded softer and the second one sounded harsher.,KhyaKheu,Female,First,Khya,pleasant
+R_2Ckbp2phgP72HJx,female,51,English,Never,Never,None,No,Yes,No,The first one sounded softer and the second one sounded harsher.,KhyaKheu,Male,First,Khya,pleasant
+R_2dAtFMGhYtoU93f,male,27,English,Short visit(s),Rarely,None,No,Yes,Maybe,i through the pleasant sounds,KheuKhya,Male,Second,Khya,pleasant
+R_2dAtFMGhYtoU93f,male,27,English,Short visit(s),Rarely,None,No,Yes,Maybe,i through the pleasant sounds,KhyaKheu,Female,Second,Kheu,pleasant
+R_2f2s3Sr4V55JHcn,female,31,english,Never,Rarely,None,Yes,Maybe,No,one sounded more clashing,KhyaKheu,Male,First,Khya,pleasant
+R_2f2s3Sr4V55JHcn,female,31,english,Never,Rarely,None,Yes,Maybe,No,one sounded more clashing,KhyaKheu,Female,First,Khya,pleasant
+R_2QikvtaCFizT5ux,male,24,English and Korean,Never,Occasionally,Native-like,Yes,Yes,Yes,I just went with my gut feeling,KhyaKheu,Male,Second,Kheu,pleasant
+R_2QikvtaCFizT5ux,male,24,English and Korean,Never,Occasionally,Native-like,Yes,Yes,Yes,I just went with my gut feeling,KheuKhya,Female,Second,Khya,pleasant
+R_2SDk4NKUFN8tNyE,male,30,English,Short visit(s),Never,None,Maybe,Maybe,No,No it is different.,KhyaKheu,Female,First,Khya,pleasant
+R_2SDk4NKUFN8tNyE,male,30,English,Short visit(s),Never,None,Maybe,Maybe,No,No it is different.,KheuKhya,Male,First,Kheu,pleasant
+R_2SdxFi3dIp9uq8B,male,50,possible,Short visit(s),Rarely,Intermediate,Yes,Yes,Yes,good sound,KhyaKheu,Female,Second,Kheu,pleasant
+R_2SdxFi3dIp9uq8B,male,50,possible,Short visit(s),Rarely,Intermediate,Yes,Yes,Yes,good sound,KheuKhya,Male,Second,Khya,pleasant
+R_2SqT46r6qishmbZ,female,49,English,Never,Never,None,No,No,No,The louder ones were less pleasant becasue they sounded like sneezes and I pictured the snot flying further with the louder ones.,KheuKhya,Male,First,Kheu,pleasant
+R_2SqT46r6qishmbZ,female,49,English,Never,Never,None,No,No,No,The louder ones were less pleasant becasue they sounded like sneezes and I pictured the snot flying further with the louder ones.,KhyaKheu,Female,First,Khya,pleasant
+R_2TsHkyJf29EBdDr,male,38,English,Never,Never,None,No,Maybe,No,both sound like a cat coughing up hairball ,KhyaKheu,Male,First,Khya,pleasant
+R_2TsHkyJf29EBdDr,male,38,English,Never,Never,None,No,Maybe,No,both sound like a cat coughing up hairball ,KheuKhya,Female,Second,Khya,pleasant
+R_2TTd51NFkYpViuV,male,32,Bangla,Never,Occasionally,None,No,Maybe,No,"No,Thanks.",KheuKhya,Female,First,Kheu,pleasant
+R_2TTd51NFkYpViuV,male,32,Bangla,Never,Occasionally,None,No,Maybe,No,"No,Thanks.",KhyaKheu,Male,Second,Kheu,pleasant
+R_2TWTs5p6DyphxTv,male,24,English,Never,Rarely,None,No,No,No,"They were both pretty jarring, but the higher pitched one was slightly less so.",KhyaKheu,Male,First,Khya,pleasant
+R_2TWTs5p6DyphxTv,male,24,English,Never,Rarely,None,No,No,No,"They were both pretty jarring, but the higher pitched one was slightly less so.",KhyaKheu,Female,First,Khya,pleasant
+R_2uNWbjMIRiRxnDJ,male,34,English,Never,Rarely,None,No,No,Yes,"I don't really know how to explain it, but the first sound in both cases just sounded a little crisper, or ""cleaner.""",KhyaKheu,Female,First,Khya,pleasant
+R_2uNWbjMIRiRxnDJ,male,34,English,Never,Rarely,None,No,No,Yes,"I don't really know how to explain it, but the first sound in both cases just sounded a little crisper, or ""cleaner.""",KhyaKheu,Male,First,Khya,pleasant
+R_2VjAbdpZ1wpksRI,male,32,english,Never,Occasionally,None,Maybe,Maybe,No,the pleasantness was based for me on how loud it was,KheuKhya,Female,Second,Khya,pleasant
+R_2VjAbdpZ1wpksRI,male,32,english,Never,Occasionally,None,Maybe,Maybe,No,the pleasantness was based for me on how loud it was,KhyaKheu,Male,First,Khya,pleasant
+R_2wmoqP2WeQgrF3g,male,28,ENGLISH,Lived 0-5 years,Regularly,None,Yes,Yes,Maybe,very nice for him,KheuKhya,Male,First,Kheu,pleasant
+R_2wmoqP2WeQgrF3g,male,28,ENGLISH,Lived 0-5 years,Regularly,None,Yes,Yes,Maybe,very nice for him,KhyaKheu,Female,Second,Kheu,pleasant
+R_2wsoFMjrnSIEBSn,female,32,English,Never,Rarely,None,No,Yes,No,the one that sounded more like crashing waves was better,KhyaKheu,Male,Second,Kheu,pleasant
+R_2wsoFMjrnSIEBSn,female,32,English,Never,Rarely,None,No,Yes,No,the one that sounded more like crashing waves was better,KhyaKheu,Female,Second,Kheu,pleasant
+R_2XmOTVa5nHTjHtQ,female,50,English,Lived 0-5 years,Occasionally,Intermediate,Maybe,Maybe,Maybe,good,KhyaKheu,Female,Second,Kheu,pleasant
+R_2XmOTVa5nHTjHtQ,female,50,English,Lived 0-5 years,Occasionally,Intermediate,Maybe,Maybe,Maybe,good,KheuKhya,Male,Second,Khya,pleasant
+R_2z6kzSHUxVBhjKt,female,39,English,Short visit(s),Occasionally,Novice,Yes,Yes,Yes,"For the first pair of sounds, I liked the less throaty sound and quality of the second sound and I liked the slight variation in tone. For the second pair of sounds, I preferred the first sound because it sounded older and a bit deeper -- I found the second sound in this pair creepy as it sounded like a disembodied child's voice.",KheuKhya,Male,Second,Khya,pleasant
+R_2z6kzSHUxVBhjKt,female,39,English,Short visit(s),Occasionally,Novice,Yes,Yes,Yes,"For the first pair of sounds, I liked the less throaty sound and quality of the second sound and I liked the slight variation in tone. For the second pair of sounds, I preferred the first sound because it sounded older and a bit deeper -- I found the second sound in this pair creepy as it sounded like a disembodied child's voice.",KheuKhya,Female,First,Kheu,pleasant
+R_2z8RySGHy4cRIgY,female,31,english,Never,Never,None,No,No,No,I chose the ones I did because they sounded like a refreshing drink being opened.,KheuKhya,Male,First,Kheu,pleasant
+R_2z8RySGHy4cRIgY,female,31,english,Never,Never,None,No,No,No,I chose the ones I did because they sounded like a refreshing drink being opened.,KhyaKheu,Female,First,Khya,pleasant
+R_30kJlT1lTPPwlNP,female,35,English,Never,Regularly,None,Yes,Yes,Yes,I feel the the 2 i chose had a softer range.  The others were jarring for a moment.,KhyaKheu,Female,First,Khya,pleasant
+R_30kJlT1lTPPwlNP,female,35,English,Never,Regularly,None,Yes,Yes,Yes,I feel the the 2 i chose had a softer range.  The others were jarring for a moment.,KhyaKheu,Male,Second,Kheu,pleasant
+R_30vFi3h0acuA8Md,male,29,English. ,Lived 5+ years,Never,None,Maybe,No,Maybe,The volume of the noises. ,KheuKhya,Male,Second,Khya,pleasant
+R_30vFi3h0acuA8Md,male,29,English. ,Lived 5+ years,Never,None,Maybe,No,Maybe,The volume of the noises. ,KhyaKheu,Female,Second,Kheu,pleasant
+R_30wyRI4z43XxnER,male,28,English,Never,Never,None,No,No,No,The feeling that the sounds gave me throughout my body when I heard them influenced my judgement. The sound that appeared more soothing is the one I chose as pleasant.,KhyaKheu,Female,First,Khya,pleasant
+R_30wyRI4z43XxnER,male,28,English,Never,Never,None,No,No,No,The feeling that the sounds gave me throughout my body when I heard them influenced my judgement. The sound that appeared more soothing is the one I chose as pleasant.,KheuKhya,Male,First,Kheu,pleasant
+R_31mxTnrjzZjXHUU,female,44,English,Never,Don't know,Native-like,Maybe,Yes,No,very good,KheuKhya,Female,First,Kheu,pleasant
+R_31mxTnrjzZjXHUU,female,44,English,Never,Don't know,Native-like,Maybe,Yes,No,very good,KhyaKheu,Male,Second,Kheu,pleasant
+R_31smEZETKj5MDZe,male,46,Nepali,Never,Occasionally,None,No,Maybe,Maybe,I prefer the smooth sound over the abrupt or loud sound.,KheuKhya,Female,Second,Khya,pleasant
+R_31smEZETKj5MDZe,male,46,Nepali,Never,Occasionally,None,No,Maybe,Maybe,I prefer the smooth sound over the abrupt or loud sound.,KheuKhya,Male,First,Kheu,pleasant
+R_31uqVO7aCt8GwMA,female,55,english,Never,Rarely,None,No,No,Yes,"I think the softer sounds were more pleasant to me, but not 100% sure.",KheuKhya,Female,Second,Khya,pleasant
+R_31uqVO7aCt8GwMA,female,55,english,Never,Rarely,None,No,No,Yes,"I think the softer sounds were more pleasant to me, but not 100% sure.",KhyaKheu,Male,First,Khya,pleasant
+R_32JZJA9eHpkWAcm,male,47,ENGLISH,Lived 0-5 years,Occasionally,None,Yes,Maybe,Maybe,DIFFERENT SOUNDS IN PLEASANT,KhyaKheu,Male,Second,Kheu,pleasant
+R_32JZJA9eHpkWAcm,male,47,ENGLISH,Lived 0-5 years,Occasionally,None,Yes,Maybe,Maybe,DIFFERENT SOUNDS IN PLEASANT,KheuKhya,Female,First,Kheu,pleasant
+R_338xruSXSCF5Ukc,female,35,English,Never,Rarely,None,Maybe,Yes,Yes,To me one of each pair always sounded more harsh than the other. / ,KheuKhya,Female,Second,Khya,pleasant
+R_338xruSXSCF5Ukc,female,35,English,Never,Rarely,None,Maybe,Yes,Yes,To me one of each pair always sounded more harsh than the other. / ,KheuKhya,Male,First,Kheu,pleasant
+R_3DdxjwJ46mMGQpu,male,41,english,Short visit(s),Rarely,Intermediate,Maybe,No,Maybe,because they were much softer and easier to watch,KhyaKheu,Female,First,Khya,pleasant
+R_3DdxjwJ46mMGQpu,male,41,english,Short visit(s),Rarely,Intermediate,Maybe,No,Maybe,because they were much softer and easier to watch,KhyaKheu,Male,Second,Kheu,pleasant
+R_3EaIZ4z1Hax49Es,,NA,,,,,,,,,NA,NA,NA,NA,pleasant
+R_3EaIZ4z1Hax49Es,,NA,,,,,,,,,NA,NA,NA,NA,pleasant
+R_3EseHibiuKbVDId,male,26,English and spanish,Short visit(s),Never,None,No,Maybe,No,just based on the ease to my ear for sure.,KhyaKheu,Male,First,Khya,pleasant
+R_3EseHibiuKbVDId,male,26,English and spanish,Short visit(s),Never,None,No,Maybe,No,just based on the ease to my ear for sure.,KhyaKheu,Female,Second,Kheu,pleasant
+R_3Ev4ZpVlzYDizgT,female,36,english,Never,Never,None,No,Maybe,No,no idea,KhyaKheu,Female,Second,Kheu,pleasant
+R_3Ev4ZpVlzYDizgT,female,36,english,Never,Never,None,No,Maybe,No,no idea,KheuKhya,Male,Second,Khya,pleasant
+R_3fwSv5vdmnYFxYI,male,25,"english,hindi,spanish",Lived 0-5 years,Occasionally,None,Yes,Yes,Maybe,it should be more pleasing while doing surveys,KheuKhya,Male,First,Kheu,pleasant
+R_3fwSv5vdmnYFxYI,male,25,"english,hindi,spanish",Lived 0-5 years,Occasionally,None,Yes,Yes,Maybe,it should be more pleasing while doing surveys,KheuKhya,Female,Second,Khya,pleasant
+R_3HSlvdWTvdTrUQn,female,38,english,Never,Rarely,None,No,Yes,No,"I don't know, I just went with my intuition.",KheuKhya,Male,Second,Khya,pleasant
+R_3HSlvdWTvdTrUQn,female,38,english,Never,Rarely,None,No,Yes,No,"I don't know, I just went with my intuition.",KheuKhya,Female,Second,Khya,pleasant
+R_3HuJfjunXJfAnqr,female,28,ENGLISH,Lived 5+ years,Regularly,Native-like,Yes,Maybe,Yes,NOTHING,KheuKhya,Female,Second,Khya,pleasant
+R_3HuJfjunXJfAnqr,female,28,ENGLISH,Lived 5+ years,Regularly,Native-like,Yes,Maybe,Yes,NOTHING,KhyaKheu,Male,Second,Kheu,pleasant
+R_3I6x1VQkWCY4R4f,male,29,English,Never,Occasionally,None,Maybe,Yes,No,"I was just reacting to how the sounds felt in my ears. The ones that didn't make me ""wince"" were the more pleasant. ",KhyaKheu,Female,First,Khya,pleasant
+R_3I6x1VQkWCY4R4f,male,29,English,Never,Occasionally,None,Maybe,Yes,No,"I was just reacting to how the sounds felt in my ears. The ones that didn't make me ""wince"" were the more pleasant. ",KheuKhya,Male,First,Kheu,pleasant
+R_3iPhuRS9mTFdGyf,male,50,English,Never,Rarely,None,No,Yes,No,I guess the one with the less hard consonant sounded more pleasant?,KheuKhya,Female,Second,Khya,pleasant
+R_3iPhuRS9mTFdGyf,male,50,English,Never,Rarely,None,No,Yes,No,I guess the one with the less hard consonant sounded more pleasant?,KhyaKheu,Male,First,Khya,pleasant
+R_3IQ2PvcwDkRTHFQ,female,26,English,Never,Never,Native-like,No,No,No,None,KhyaKheu,Female,First,Khya,pleasant
+R_3IQ2PvcwDkRTHFQ,female,26,English,Never,Never,Native-like,No,No,No,None,KhyaKheu,Male,First,Khya,pleasant
+R_3jUHNWltSKOWqOm,male,19,English,Never,Never,None,No,No,No,"I think I gravitated towards the sounds that were the least harsh. I believe I preferred the sounds that were smoother and easier on my own ears. I'm still not entirely sure what the sounds were exactly, but hopefully my response can help with the research.",KheuKhya,Female,Second,Khya,pleasant
+R_3jUHNWltSKOWqOm,male,19,English,Never,Never,None,No,No,No,"I think I gravitated towards the sounds that were the least harsh. I believe I preferred the sounds that were smoother and easier on my own ears. I'm still not entirely sure what the sounds were exactly, but hopefully my response can help with the research.",KhyaKheu,Male,Second,Kheu,pleasant
+R_3lFSkQgsbX6RXSz,female,30,english,Never,Don't know,None,No,No,No,second sound is pleasant thats why i choosed,KheuKhya,Female,Second,Khya,pleasant
+R_3lFSkQgsbX6RXSz,female,30,english,Never,Don't know,None,No,No,No,second sound is pleasant thats why i choosed,KheuKhya,Male,Second,Khya,pleasant
+R_3lyudKwLzobzO9q,female,50,english,Never,Rarely,None,Yes,Yes,Yes,how loud the sound was and how pleasing to the ear,KheuKhya,Female,Second,Khya,pleasant
+R_3lyudKwLzobzO9q,female,50,english,Never,Rarely,None,Yes,Yes,Yes,how loud the sound was and how pleasing to the ear,KheuKhya,Male,First,Kheu,pleasant
+R_3M4prWZiZzHKX11,male,19,English,Never,Never,None,No,Maybe,No,I think the crisper the sound was the more I liked it. I think it sounded so pleasant because it sounded kind of like a beat in a song.,KhyaKheu,Male,Second,Kheu,pleasant
+R_3M4prWZiZzHKX11,male,19,English,Never,Never,None,No,Maybe,No,I think the crisper the sound was the more I liked it. I think it sounded so pleasant because it sounded kind of like a beat in a song.,KhyaKheu,Female,Second,Kheu,pleasant
+R_3mfnKX142VA6hia,female,30,English,Never,Rarely,None,No,No,Yes,They were the same on both pages but the length of the clip was modified.,KhyaKheu,Male,Second,Kheu,pleasant
+R_3mfnKX142VA6hia,female,30,English,Never,Rarely,None,No,No,Yes,They were the same on both pages but the length of the clip was modified.,KheuKhya,Female,Second,Khya,pleasant
+R_3mmXD5ECw0E3xOi,female,44,English,Never,Never,None,No,Yes,No,I just rated them on the way I felt when listening.,KheuKhya,Male,Second,Khya,pleasant
+R_3mmXD5ECw0E3xOi,female,44,English,Never,Never,None,No,Yes,No,I just rated them on the way I felt when listening.,KhyaKheu,Female,First,Khya,pleasant
+R_3MzLznpEKzCFXlq,male,57,English,Never,Never,None,No,Yes,No,I thought the more pleasant tones were a bit softer,KhyaKheu,Female,Second,Kheu,pleasant
+R_3MzLznpEKzCFXlq,male,57,English,Never,Never,None,No,Yes,No,I thought the more pleasant tones were a bit softer,KheuKhya,Male,Second,Khya,pleasant
+R_3qJOYANZeDnB8JU,female,31,English,Never,Never,None,Yes,Yes,No,"The ones I picked weren't as ""harsh"" on the ears. Im listening with noise canceling headphones so harsh noises hurt a little more. ",KheuKhya,Male,Second,Khya,pleasant
+R_3qJOYANZeDnB8JU,female,31,English,Never,Never,None,Yes,Yes,No,"The ones I picked weren't as ""harsh"" on the ears. Im listening with noise canceling headphones so harsh noises hurt a little more. ",KheuKhya,Female,Second,Khya,pleasant
+R_3RmwG9hIYWb1kHx,female,27,english,Never,Regularly,None,Maybe,Maybe,Maybe,good survey,KheuKhya,Male,First,Kheu,pleasant
+R_3RmwG9hIYWb1kHx,female,27,english,Never,Regularly,None,Maybe,Maybe,Maybe,good survey,KheuKhya,Female,First,Kheu,pleasant
+R_3s5fJVYGdR0JXZv,female,29,english,Short visit(s),Rarely,Novice,No,No,Maybe,the sound was something different. and i am happy to hear.,KheuKhya,Male,Second,Khya,pleasant
+R_3s5fJVYGdR0JXZv,female,29,english,Short visit(s),Rarely,Novice,No,No,Maybe,the sound was something different. and i am happy to hear.,KheuKhya,Female,Second,Khya,pleasant
+R_3syrVueNvL92qfv,male,37,English and Spanish,Never,Rarely,None,No,Yes,Yes,"The first in both had a much harsher ""start"" to them",KhyaKheu,Male,Second,Kheu,pleasant
+R_3syrVueNvL92qfv,male,37,English and Spanish,Never,Rarely,None,No,Yes,Yes,"The first in both had a much harsher ""start"" to them",KhyaKheu,Female,Second,Kheu,pleasant
+R_4GCJOsfqvVJuYc9,,NA,,,,,,,,,NA,NA,NA,NA,pleasant
+R_4GCJOsfqvVJuYc9,,NA,,,,,,,,,NA,NA,NA,NA,pleasant
+R_6KkC5LgL1KvrReh,male,55,English,Never,Never,None,No,No,No,"I think I chose the one that sounded softer, less harsh",KhyaKheu,Male,Second,Kheu,pleasant
+R_6KkC5LgL1KvrReh,male,55,English,Never,Never,None,No,No,No,"I think I chose the one that sounded softer, less harsh",KheuKhya,Female,First,Kheu,pleasant
+R_6xr6yjt8P9aUwyB,female,29,english,Never,Never,None,No,Yes,Yes,The first sound I picked sound like a person sneezing. the second sound I picked sounded like a can of soda opening. They sounded safe.,KheuKhya,Female,Second,Khya,pleasant
+R_6xr6yjt8P9aUwyB,female,29,english,Never,Never,None,No,Yes,Yes,The first sound I picked sound like a person sneezing. the second sound I picked sounded like a can of soda opening. They sounded safe.,KheuKhya,Male,Second,Khya,pleasant
+R_8ce4bEsx9lA25Nv,female,44,English,Never,Never,None,No,No,No,The ones that sounded less pleasant sounded a little sharper in tone. The ones I rated as more pleasant tended to sound smoother.,KhyaKheu,Male,Second,Kheu,pleasant
+R_8ce4bEsx9lA25Nv,female,44,English,Never,Never,None,No,No,No,The ones that sounded less pleasant sounded a little sharper in tone. The ones I rated as more pleasant tended to sound smoother.,KheuKhya,Female,First,Kheu,pleasant
+R_9nr5qXmd4EHSuuB,male,20,English,Never,Rarely,None,No,Maybe,No,I mainly just chose the sound that was least loud and just didn't feel so dominant! ,KhyaKheu,Female,First,Khya,pleasant
+R_9nr5qXmd4EHSuuB,male,20,English,Never,Rarely,None,No,Maybe,No,I mainly just chose the sound that was least loud and just didn't feel so dominant! ,KheuKhya,Male,First,Kheu,pleasant
+R_A5lK1ET58ItpTuV,male,32,English,Never,Rarely,None,No,Yes,No,"The ones I chose sounded more ""flat"" and not as accented or emotional as the other. Sounded to me like they were making a ""cat"" sound.",KheuKhya,Male,First,Kheu,pleasant
+R_A5lK1ET58ItpTuV,male,32,English,Never,Rarely,None,No,Yes,No,"The ones I chose sounded more ""flat"" and not as accented or emotional as the other. Sounded to me like they were making a ""cat"" sound.",KheuKhya,Female,First,Kheu,pleasant
+R_a8XPPPzvbaY6xGx,female,38,yes,Lived 0-5 years,Occasionally,Intermediate,Yes,Maybe,Yes,right information,KhyaKheu,Female,First,Khya,pleasant
+R_a8XPPPzvbaY6xGx,female,38,yes,Lived 0-5 years,Occasionally,Intermediate,Yes,Maybe,Yes,right information,KhyaKheu,Male,First,Khya,pleasant
+R_b71xuOGTCEZFt9T,male,42,english,Never,Never,None,No,No,No,How hard or harsh the sound was I judged as unpleasant,KhyaKheu,Male,First,Khya,pleasant
+R_b71xuOGTCEZFt9T,male,42,english,Never,Never,None,No,No,No,How hard or harsh the sound was I judged as unpleasant,KhyaKheu,Female,Second,Kheu,pleasant
+R_cYGh9x5ARVduw3D,female,26,English,Never,Occasionally,None,Yes,Maybe,No,Sound level influenced my judgment.,KheuKhya,Female,First,Kheu,pleasant
+R_cYGh9x5ARVduw3D,female,26,English,Never,Occasionally,None,Yes,Maybe,No,Sound level influenced my judgment.,KheuKhya,Male,Second,Khya,pleasant
+R_dbAhpMOrz65v7Pj,male,29,English,Never,Never,None,No,No,No,I chose the one that was less annoying to hear. They sounded like noises a cat would make.,KheuKhya,Male,Second,Khya,pleasant
+R_dbAhpMOrz65v7Pj,male,29,English,Never,Never,None,No,No,No,I chose the one that was less annoying to hear. They sounded like noises a cat would make.,KheuKhya,Female,Second,Khya,pleasant
+R_DMIo6k5ZnQ3Q8F3,female,40,English,Never,Occasionally,None,No,Yes,Yes,If it seemed more like a whisper I guess that made it more appealing.  Not certain thought.  Just went with my gut.,KheuKhya,Female,Second,Khya,pleasant
+R_DMIo6k5ZnQ3Q8F3,female,40,English,Never,Occasionally,None,No,Yes,Yes,If it seemed more like a whisper I guess that made it more appealing.  Not certain thought.  Just went with my gut.,KhyaKheu,Male,First,Khya,pleasant
+R_e5qK86102Vzkkpj,male,25,ENGLISH,Short visit(s),Occasionally,Intermediate,Yes,Yes,Yes,IDENTIFYING THE PLEASANT SOUND,KheuKhya,Male,First,Kheu,pleasant
+R_e5qK86102Vzkkpj,male,25,ENGLISH,Short visit(s),Occasionally,Intermediate,Yes,Yes,Yes,IDENTIFYING THE PLEASANT SOUND,KhyaKheu,Female,Second,Kheu,pleasant
+R_oXGNfEYNS8h059f,female,40,English,Never,Never,None,No,No,No,don't know why,KhyaKheu,Female,First,Khya,pleasant
+R_oXGNfEYNS8h059f,female,40,English,Never,Never,None,No,No,No,don't know why,KheuKhya,Male,First,Kheu,pleasant
+R_PO37cCqRD0YrOa5,male,36,English,Never,Never,None,No,Maybe,No,I just did as i was asked an picked the one that felt most pleasant without thinking about it too much.,KhyaKheu,Female,First,Khya,pleasant
+R_PO37cCqRD0YrOa5,male,36,English,Never,Never,None,No,Maybe,No,I just did as i was asked an picked the one that felt most pleasant without thinking about it too much.,KhyaKheu,Male,Second,Kheu,pleasant
+R_Pvqo2MqLRplKeUp,female,28,ENGLISH,Short visit(s),Rarely,None,Yes,Maybe,Yes,MY JUDGEMENT BASED ON WHAT I HEAR ON THAT AUDIO.,KheuKhya,Male,First,Kheu,pleasant
+R_Pvqo2MqLRplKeUp,female,28,ENGLISH,Short visit(s),Rarely,None,Yes,Maybe,Yes,MY JUDGEMENT BASED ON WHAT I HEAR ON THAT AUDIO.,KhyaKheu,Female,Second,Kheu,pleasant
+R_qKocXAWyClOx8lP,male,41,english,Short visit(s),Rarely,None,No,Maybe,No,yeah it was ball reflects on bat sound.,KheuKhya,Female,First,Kheu,pleasant
+R_qKocXAWyClOx8lP,male,41,english,Short visit(s),Rarely,None,No,Maybe,No,yeah it was ball reflects on bat sound.,KheuKhya,Male,Second,Khya,pleasant
+R_qL2qQdRFmPx8Jdn,male,27,English,Never,Never,None,No,Yes,No,I'm really not sure.,KhyaKheu,Male,First,Khya,pleasant
+R_qL2qQdRFmPx8Jdn,male,27,English,Never,Never,None,No,Yes,No,I'm really not sure.,KhyaKheu,Female,First,Khya,pleasant
+R_RrdqWbRkViLhhQt,male,47,English,Never,Never,None,No,No,No,In the first option the one I chose sounded less intense. In the second set of choices the bottom choice did not appear. I waited and it only appeared just as I advanced the page.,KhyaKheu,Male,First,Khya,pleasant
+R_RrdqWbRkViLhhQt,male,47,English,Never,Never,None,No,No,No,In the first option the one I chose sounded less intense. In the second set of choices the bottom choice did not appear. I waited and it only appeared just as I advanced the page.,KhyaKheu,Female,First,Khya,pleasant
+R_s6SdJWagsI5Wrkt,female,36,English,Never,Never,None,No,Yes,Yes,One seemed to sound smoother than the other,KhyaKheu,Male,First,Khya,pleasant
+R_s6SdJWagsI5Wrkt,female,36,English,Never,Never,None,No,Yes,Yes,One seemed to sound smoother than the other,KhyaKheu,Female,First,Khya,pleasant
+R_shaL6BYU5aWkqsN,female,53,english,Never,Never,None,No,No,No,No idea really,KheuKhya,Male,Second,Khya,pleasant
+R_shaL6BYU5aWkqsN,female,53,english,Never,Never,None,No,No,No,No idea really,KhyaKheu,Female,Second,Kheu,pleasant
+R_shFoRwHVXRWpYB3,female,22,"English, Chinese",Never,Regularly,None,Yes,Yes,Yes,Sharp sounds were less pleasant soft sounds more,KhyaKheu,Male,Second,Kheu,pleasant
+R_shFoRwHVXRWpYB3,female,22,"English, Chinese",Never,Regularly,None,Yes,Yes,Yes,Sharp sounds were less pleasant soft sounds more,KhyaKheu,Female,First,Khya,pleasant
+R_SUCOEjjwLvB5UuR,male,32,English,Never,Never,None,No,Yes,No,I made the choice on the more pleasant sound but how soft and less noisy hard the sound was.,KheuKhya,Male,Second,Khya,pleasant
+R_SUCOEjjwLvB5UuR,male,32,English,Never,Never,None,No,Yes,No,I made the choice on the more pleasant sound but how soft and less noisy hard the sound was.,KhyaKheu,Female,Second,Kheu,pleasant
+R_Tnfh82msewqJAJP,female,30,English,Never,Never,None,No,Yes,No,Sharper sounds seemed a bit more unpleasant for me.,KhyaKheu,Male,First,Khya,pleasant
+R_Tnfh82msewqJAJP,female,30,English,Never,Never,None,No,Yes,No,Sharper sounds seemed a bit more unpleasant for me.,KheuKhya,Female,Second,Khya,pleasant
+R_u2LcGzBBwYuuxJ7,male,26,English,Never,Never,None,No,No,No,I picked the less annoying one.,KheuKhya,Female,Second,Khya,pleasant
+R_u2LcGzBBwYuuxJ7,male,26,English,Never,Never,None,No,No,No,I picked the less annoying one.,KheuKhya,Male,Second,Khya,pleasant
+R_UF12qodQM5A3Pt7,female,32,english,Short visit(s),Rarely,Novice,Yes,Maybe,Maybe,none,KheuKhya,Female,First,Kheu,pleasant
+R_UF12qodQM5A3Pt7,female,32,english,Short visit(s),Rarely,Novice,Yes,Maybe,Maybe,none,KheuKhya,Male,First,Kheu,pleasant
+R_uk4AbFwC0hetLAl,male,18,English,Never,Never,None,No,Yes,Yes,I just picked the one that i liked better,KhyaKheu,Male,First,Khya,pleasant
+R_uk4AbFwC0hetLAl,male,18,English,Never,Never,None,No,Yes,Yes,I just picked the one that i liked better,KheuKhya,Female,Second,Khya,pleasant
+R_uyWsAba8NcOVL6p,male,22,English,Never,Rarely,None,No,No,No,Some just sounded less harsh than the other options,KhyaKheu,Female,First,Khya,pleasant
+R_uyWsAba8NcOVL6p,male,22,English,Never,Rarely,None,No,No,No,Some just sounded less harsh than the other options,KhyaKheu,Male,First,Khya,pleasant
+R_V3g5gFZmXBLp8sN,male,34,english,Never,Occasionally,None,Yes,Yes,No,"the caaaaah sound seemed to go on longer, like an echo, which i preferred ",KheuKhya,Female,Second,Khya,pleasant
+R_V3g5gFZmXBLp8sN,male,34,english,Never,Occasionally,None,Yes,Yes,No,"the caaaaah sound seemed to go on longer, like an echo, which i preferred ",KheuKhya,Male,Second,Khya,pleasant
+R_Wd3nTdKyMGm7IEp,female,32,engloish,Never,Never,Native-like,No,No,No,no,KheuKhya,Male,Second,Khya,pleasant
+R_Wd3nTdKyMGm7IEp,female,32,engloish,Never,Never,Native-like,No,No,No,no,KhyaKheu,Female,First,Khya,pleasant
+R_Xt8qr1sFxvUtrDb,male,25,english,Short visit(s),Regularly,Advanced,Yes,Maybe,Yes,"To wonder too openly, or intensely, about the meaning of life sounds like a peculiar, ill-fated and unintentionally comedic pastime. It isn<d5>t anything an ordinary mortal should be doing <d0> or would get very far by doing. A select few might be equipped to take on the task and discover the answer in their own lives, but such ambition isn<d5>t for most of us. Meaningful lives are for extraordinary people: great saints, artists, scholars, scientists, doctors, activists, explorers, national leaders<c9>. If ever we did discover the meaning, it would <d0> we suspect <d0> in any case be incomprehensible, perhaps written in Latin or in computer code. It wouldn<d5>t be anything that could orient or illuminate our activities. Without always acknowledging it, we are <d0> in the background <d0> operating with a remarkably ungenerous perspective on the meaning of life.",KhyaKheu,Male,First,Khya,pleasant
+R_Xt8qr1sFxvUtrDb,male,25,english,Short visit(s),Regularly,Advanced,Yes,Maybe,Yes,"To wonder too openly, or intensely, about the meaning of life sounds like a peculiar, ill-fated and unintentionally comedic pastime. It isn<d5>t anything an ordinary mortal should be doing <d0> or would get very far by doing. A select few might be equipped to take on the task and discover the answer in their own lives, but such ambition isn<d5>t for most of us. Meaningful lives are for extraordinary people: great saints, artists, scholars, scientists, doctors, activists, explorers, national leaders<c9>. If ever we did discover the meaning, it would <d0> we suspect <d0> in any case be incomprehensible, perhaps written in Latin or in computer code. It wouldn<d5>t be anything that could orient or illuminate our activities. Without always acknowledging it, we are <d0> in the background <d0> operating with a remarkably ungenerous perspective on the meaning of life.",KhyaKheu,Female,Second,Kheu,pleasant
+R_YbHjkkApk4MdLcB,female,28,English,Lived 0-5 years,Regularly,None,Yes,Yes,Maybe,sound is very long,KheuKhya,Female,First,Kheu,pleasant
+R_YbHjkkApk4MdLcB,female,28,English,Lived 0-5 years,Regularly,None,Yes,Yes,Maybe,sound is very long,KheuKhya,Male,Second,Khya,pleasant
+R_YRoBk3tYiEEticp,male,38,English,Never,Never,None,No,Yes,No,"I chose the one that was less harsh, because neither was pleasant",KhyaKheu,Female,Second,Kheu,pleasant
+R_YRoBk3tYiEEticp,male,38,English,Never,Never,None,No,Yes,No,"I chose the one that was less harsh, because neither was pleasant",KheuKhya,Male,First,Kheu,pleasant
+R_ZCVhceaA4CCm35L,male,53,english,Never,Don't know,None,No,No,No,softer sound,KhyaKheu,Female,First,Khya,pleasant
+R_ZCVhceaA4CCm35L,male,53,english,Never,Don't know,None,No,No,No,softer sound,KhyaKheu,Male,First,Khya,pleasant
+R_0eu8BXUZyHfp9D3,male,35,English,Never,Never,None,No,Yes,No,"I think its the loud clicking sounded, its too high pitched. The softer one sounded much better. I think it more or less has something to do with the way the sound was recorded on the microphone.",KheuKhya,Female,First,Kheu,unpleasant
+R_0eu8BXUZyHfp9D3,male,35,English,Never,Never,None,No,Yes,No,"I think its the loud clicking sounded, its too high pitched. The softer one sounded much better. I think it more or less has something to do with the way the sound was recorded on the microphone.",KheuKhya,Male,First,Kheu,unpleasant
+R_0MNVNhJ57fvGVLr,,NA,,,,,,,,WHichever one seemed more raspier/high pitched,KhyaKheu,Male,Second,Kheu,unpleasant
+R_0MNVNhJ57fvGVLr,,NA,,,,,,,,WHichever one seemed more raspier/high pitched,KhyaKheu,Female,Second,Kheu,unpleasant
+R_10qJhBq6OLuneHQ,female,34,English,Never,Never,None,No,Maybe,No,"The sounds sounded very similar, but one always seemed to have a rougher edge to it. ",KhyaKheu,Male,Second,Kheu,unpleasant
+R_10qJhBq6OLuneHQ,female,34,English,Never,Never,None,No,Maybe,No,"The sounds sounded very similar, but one always seemed to have a rougher edge to it. ",KhyaKheu,Female,First,Khya,unpleasant
+R_1B0gUgz5NRHP48F,male,27,English,Never,Rarely,None,Yes,No,No,I think the sharper sounds were more unpleasant. ,KheuKhya,Female,Second,Khya,unpleasant
+R_1B0gUgz5NRHP48F,male,27,English,Never,Rarely,None,Yes,No,No,I think the sharper sounds were more unpleasant. ,KhyaKheu,Male,First,Khya,unpleasant
+R_1C1Q1Mv7uUouIzK,male,24,ENGLISH,Lived 0-5 years,Regularly,None,Yes,Yes,Yes,NICE TRY,KhyaKheu,Female,First,Khya,unpleasant
+R_1C1Q1Mv7uUouIzK,male,24,ENGLISH,Lived 0-5 years,Regularly,None,Yes,Yes,Yes,NICE TRY,KhyaKheu,Male,Second,Kheu,unpleasant
+R_1CJfrchlPYgk5Vg,female,25,English,Never,Occasionally,None,Yes,Yes,No,The louder and longer sounds were more unpleasant to me. ,KheuKhya,Male,Second,Khya,unpleasant
+R_1CJfrchlPYgk5Vg,female,25,English,Never,Occasionally,None,Yes,Yes,No,The louder and longer sounds were more unpleasant to me. ,KhyaKheu,Female,Second,Kheu,unpleasant
+R_1DOxqdKSEN8dv8x,male,45,Engilsh,Lived 0-5 years,Rarely,Intermediate,Maybe,Yes,Yes,What does it take to ask for what you want<d1>and then get it? There seems to be a magical art behind creating a great ask,KhyaKheu,Female,First,Khya,unpleasant
+R_1DOxqdKSEN8dv8x,male,45,Engilsh,Lived 0-5 years,Rarely,Intermediate,Maybe,Yes,Yes,What does it take to ask for what you want<d1>and then get it? There seems to be a magical art behind creating a great ask,KheuKhya,Male,Second,Khya,unpleasant
+R_1EhuF0cnVq0v1NQ,female,29,English,Never,Never,None,No,Maybe,No,"I listened to my body language and resistances towards each noise. I decided which one I would listen to again if I had to make a choice, and which one I would rather not hear again. ",KhyaKheu,Male,First,Khya,unpleasant
+R_1EhuF0cnVq0v1NQ,female,29,English,Never,Never,None,No,Maybe,No,"I listened to my body language and resistances towards each noise. I decided which one I would listen to again if I had to make a choice, and which one I would rather not hear again. ",KheuKhya,Female,First,Kheu,unpleasant
+R_1ex7raCUO5rXnKI,male,29,English and Pidgin ,Never,Rarely,None,No,Yes,Yes,I just went by which noise was more annoying to me. ,KhyaKheu,Male,First,Khya,unpleasant
+R_1ex7raCUO5rXnKI,male,29,English and Pidgin ,Never,Rarely,None,No,Yes,Yes,I just went by which noise was more annoying to me. ,KheuKhya,Female,Second,Khya,unpleasant
+R_1EZpLJbCRENld04,male,65,English ,Lived 0-5 years,Regularly,Advanced,Maybe,Yes,Maybe,very good performing,KhyaKheu,Female,Second,Kheu,unpleasant
+R_1EZpLJbCRENld04,male,65,English ,Lived 0-5 years,Regularly,Advanced,Maybe,Yes,Maybe,very good performing,KhyaKheu,Male,First,Khya,unpleasant
+R_1flSmIyUdemthF0,female,37,English,Never,Rarely,None,No,Yes,No,"The sounds that I said sounded more unpleasant sounded ""harder"", ""harsher"", and sort of more aggressive than the other sound. However, I did not find any of the sounds unbearably unpleasant by any means. I noticed the sounds had some similarities. They all started with a K sound. The way the sounds were finished was different. I am pretty sure the MORE PLEASANT ones ended in a softer more breathy sound and a vowel type sound. ",KhyaKheu,Male,First,Khya,unpleasant
+R_1flSmIyUdemthF0,female,37,English,Never,Rarely,None,No,Yes,No,"The sounds that I said sounded more unpleasant sounded ""harder"", ""harsher"", and sort of more aggressive than the other sound. However, I did not find any of the sounds unbearably unpleasant by any means. I noticed the sounds had some similarities. They all started with a K sound. The way the sounds were finished was different. I am pretty sure the MORE PLEASANT ones ended in a softer more breathy sound and a vowel type sound. ",KheuKhya,Female,First,Kheu,unpleasant
+R_1ghywlR8h2QQtWr,female,44,English ,Never,Never,None,No,No,No,"The first 2 audio files, I found the second was more crisp and sharp which startled me a little. The 2nd set of files, the second one had a creepy echo. ",KhyaKheu,Female,Second,Kheu,unpleasant
+R_1ghywlR8h2QQtWr,female,44,English ,Never,Never,None,No,No,No,"The first 2 audio files, I found the second was more crisp and sharp which startled me a little. The 2nd set of files, the second one had a creepy echo. ",KheuKhya,Male,Second,Khya,unpleasant
+R_1giQPupg67dnWpW,male,52,English (US),Never,Rarely,None,No,Yes,No,"Just sounded more ""harsh""",KheuKhya,Female,First,Kheu,unpleasant
+R_1giQPupg67dnWpW,male,52,English (US),Never,Rarely,None,No,Yes,No,"Just sounded more ""harsh""",KhyaKheu,Male,First,Khya,unpleasant
+R_1i26VE1XivYvJbT,female,28,English,Never,Never,None,No,No,No,"The higher pitch was what made me choose each sound as unpleasant.  I noticed that it sounded like a snake at first.  However, the second time, it sounded like a person making a ""caa"" sound.",KheuKhya,Female,Second,Khya,unpleasant
+R_1i26VE1XivYvJbT,female,28,English,Never,Never,None,No,No,No,"The higher pitch was what made me choose each sound as unpleasant.  I noticed that it sounded like a snake at first.  However, the second time, it sounded like a person making a ""caa"" sound.",KheuKhya,Male,Second,Khya,unpleasant
+R_1I5wfFipe5lqpIS,male,49,ENGLISH,Lived 5+ years,Regularly,Advanced,No,Yes,Yes,nothing,KheuKhya,Female,Second,Khya,unpleasant
+R_1I5wfFipe5lqpIS,male,49,ENGLISH,Lived 5+ years,Regularly,Advanced,No,Yes,Yes,nothing,KhyaKheu,Male,First,Khya,unpleasant
+R_1imoe7uZWkvaYm0,male,20,English,Lived 5+ years,Don't know,None,No,No,No,What influenced my judgement was that both were very annoying sounds but one of the sounds were more irritating to my ears than the other sound which made me choose the unpleasant sound over the other sound.,KheuKhya,Male,Second,Khya,unpleasant
+R_1imoe7uZWkvaYm0,male,20,English,Lived 5+ years,Don't know,None,No,No,No,What influenced my judgement was that both were very annoying sounds but one of the sounds were more irritating to my ears than the other sound which made me choose the unpleasant sound over the other sound.,KhyaKheu,Female,First,Khya,unpleasant
+R_1jw9m6vk0ueqWZR,female,36,English,Never,Never,None,No,Yes,No,The higher pitch on the first one was more unpleasant.  The other one seemed louder on the second and more unpleasant.  They sounded like coming from same person.,KhyaKheu,Female,First,Khya,unpleasant
+R_1jw9m6vk0ueqWZR,female,36,English,Never,Never,None,No,Yes,No,The higher pitch on the first one was more unpleasant.  The other one seemed louder on the second and more unpleasant.  They sounded like coming from same person.,KheuKhya,Male,Second,Khya,unpleasant
+R_1kNtvFQtpQhdbeK,male,44,enhglish,Never,Occasionally,None,No,No,Maybe,it sounded less harsh ,KheuKhya,Female,Second,Khya,unpleasant
+R_1kNtvFQtpQhdbeK,male,44,enhglish,Never,Occasionally,None,No,No,Maybe,it sounded less harsh ,KheuKhya,Male,Second,Khya,unpleasant
+R_1KqhKW6emjSSw5w,female,28,ENGLISH,Never,Rarely,Intermediate,Maybe,Yes,Yes,"What does it take to ask for what you want<d1>and then get it? There seems to be a magical art behind creating a great ask, and we all know stories of people who seem to get exactly what they want whenever they ask. Magicians who bend and will the world to their ways. Why is this? What are they doing that no one else seems to be doing? How do they ask for what they want and seem to get it every time?",KhyaKheu,Female,First,Khya,unpleasant
+R_1KqhKW6emjSSw5w,female,28,ENGLISH,Never,Rarely,Intermediate,Maybe,Yes,Yes,"What does it take to ask for what you want<d1>and then get it? There seems to be a magical art behind creating a great ask, and we all know stories of people who seem to get exactly what they want whenever they ask. Magicians who bend and will the world to their ways. Why is this? What are they doing that no one else seems to be doing? How do they ask for what they want and seem to get it every time?",KhyaKheu,Male,Second,Kheu,unpleasant
+R_1kTatvmyIuEwG5F,female,24,ENglish,Never,Regularly,None,No,Yes,No,no.,KhyaKheu,Male,First,Khya,unpleasant
+R_1kTatvmyIuEwG5F,female,24,ENglish,Never,Regularly,None,No,Yes,No,no.,KheuKhya,Female,First,Kheu,unpleasant
+R_1kTeWHnL26aZmdn,female,63,english,Never,Never,None,No,No,No,i think because it was louder,KheuKhya,Male,Second,Khya,unpleasant
+R_1kTeWHnL26aZmdn,female,63,english,Never,Never,None,No,No,No,i think because it was louder,KhyaKheu,Female,Second,Kheu,unpleasant
+R_1lbC2mJIwtX214m,male,18,English,Never,Rarely,None,No,No,Maybe,"The second sound on both sections just sounded less harsh to me, it sounded like the first sound was more grating and harsh.",KheuKhya,Male,First,Kheu,unpleasant
+R_1lbC2mJIwtX214m,male,18,English,Never,Rarely,None,No,No,Maybe,"The second sound on both sections just sounded less harsh to me, it sounded like the first sound was more grating and harsh.",KheuKhya,Female,First,Kheu,unpleasant
+R_1lgh5FxsBdcDJzv,female,49,English,Lived 0-5 years,Occasionally,Advanced,Maybe,Maybe,Yes,This sound is really unpleasant one.,KheuKhya,Female,First,Kheu,unpleasant
+R_1lgh5FxsBdcDJzv,female,49,English,Lived 0-5 years,Occasionally,Advanced,Maybe,Maybe,Yes,This sound is really unpleasant one.,KheuKhya,Male,Second,Khya,unpleasant
+R_1ltuLGckv6MWt1D,male,28,English,Lived 0-5 years,Rarely,Advanced,Maybe,Yes,Maybe,good,KheuKhya,Male,First,Kheu,unpleasant
+R_1ltuLGckv6MWt1D,male,28,English,Lived 0-5 years,Rarely,Advanced,Maybe,Yes,Maybe,good,KhyaKheu,Female,Second,Kheu,unpleasant
+R_1lzNC3QbXPvTSDY,male,28,ENGLISH,Short visit(s),Rarely,Intermediate,No,Maybe,Maybe,IMPROVE THE VOLUME OF THIS EXPERIMENT,KhyaKheu,Female,First,Khya,unpleasant
+R_1lzNC3QbXPvTSDY,male,28,ENGLISH,Short visit(s),Rarely,Intermediate,No,Maybe,Maybe,IMPROVE THE VOLUME OF THIS EXPERIMENT,KhyaKheu,Male,Second,Kheu,unpleasant
+R_1MYs99QwOdqO1Tu,,NA,,,,,,,,,KhyaKheu,Male,Second,Kheu,unpleasant
+R_1MYs99QwOdqO1Tu,,NA,,,,,,,,,KheuKhya,Female,First,Kheu,unpleasant
+R_1Om0zLErNML1a8g,female,32,English,Short visit(s),Occasionally,None,Maybe,Yes,No,no comments,KhyaKheu,Female,First,Khya,unpleasant
+R_1Om0zLErNML1a8g,female,32,English,Short visit(s),Occasionally,None,Maybe,Yes,No,no comments,KhyaKheu,Male,Second,Kheu,unpleasant
+R_1OxiUzeYdZwUBPH,female,28,English,Never,Rarely,None,No,Maybe,No,I almost imagined the faces being made as the sound was produced. I think this influenced my opinion.,KhyaKheu,Male,First,Khya,unpleasant
+R_1OxiUzeYdZwUBPH,female,28,English,Never,Rarely,None,No,Maybe,No,I almost imagined the faces being made as the sound was produced. I think this influenced my opinion.,KhyaKheu,Female,Second,Kheu,unpleasant
+R_1OZHK63m4utk902,female,29,english,Never,Occasionally,Novice,Yes,Yes,Yes,it sounded harsher,KheuKhya,Female,First,Kheu,unpleasant
+R_1OZHK63m4utk902,female,29,english,Never,Occasionally,Novice,Yes,Yes,Yes,it sounded harsher,KhyaKheu,Male,First,Khya,unpleasant
+R_1QKl4LDoO3kjMZe,male,21,English,Never,Never,None,No,No,Yes,The second one sounds like it's being said directly into my ear.,KheuKhya,Male,Second,Khya,unpleasant
+R_1QKl4LDoO3kjMZe,male,21,English,Never,Never,None,No,No,Yes,The second one sounds like it's being said directly into my ear.,KheuKhya,Female,Second,Khya,unpleasant
+R_1rqMPgZrYDfTuZc,female,26,English,Never,Occasionally,None,No,Yes,Yes,the higher and lower pitches,KhyaKheu,Female,Second,Kheu,unpleasant
+R_1rqMPgZrYDfTuZc,female,26,English,Never,Occasionally,None,No,Yes,Yes,the higher and lower pitches,KhyaKheu,Male,Second,Kheu,unpleasant
+R_21Gwwg7pn6ZpNoD,male,30,ENGLISH,Never,Don't know,None,No,Maybe,No,enjoyed  / ,KhyaKheu,Female,Second,Kheu,unpleasant
+R_21Gwwg7pn6ZpNoD,male,30,ENGLISH,Never,Don't know,None,No,Maybe,No,enjoyed  / ,KhyaKheu,Male,First,Khya,unpleasant
+R_21mO2d3ugGNg0OW,male,38,english,Never,Rarely,None,Yes,Maybe,Maybe,its really good to be hear,KheuKhya,Female,First,Kheu,unpleasant
+R_21mO2d3ugGNg0OW,male,38,english,Never,Rarely,None,Yes,Maybe,Maybe,its really good to be hear,KheuKhya,Male,Second,Khya,unpleasant
+R_21t9US4K4hS5dBX,male,50,English,Lived 0-5 years,Regularly,None,Yes,Yes,Yes,Nice,KhyaKheu,Male,First,Khya,unpleasant
+R_21t9US4K4hS5dBX,male,50,English,Lived 0-5 years,Regularly,None,Yes,Yes,Yes,Nice,KheuKhya,Female,First,Kheu,unpleasant
+R_24BIwrtk93Gn0gM,female,70,English,Never,Never,None,No,No,No,"1st set choice was based on volume; 2nd set was not really different.  All four were rather a harsh breathe like sound, perhaps exasperation?",KhyaKheu,Female,Second,Kheu,unpleasant
+R_24BIwrtk93Gn0gM,female,70,English,Never,Never,None,No,No,No,"1st set choice was based on volume; 2nd set was not really different.  All four were rather a harsh breathe like sound, perhaps exasperation?",KhyaKheu,Male,Second,Kheu,unpleasant
+R_24j6SzoYo2T3e7V,male,32,English,Never,Rarely,None,No,Yes,Yes,"If it just sounded deeper and ""heavier"", then I would select it as the more unpleasant of the two sounds. It just sounds like it would belong in a horror movie.",KheuKhya,Male,First,Kheu,unpleasant
+R_24j6SzoYo2T3e7V,male,32,English,Never,Rarely,None,No,Yes,Yes,"If it just sounded deeper and ""heavier"", then I would select it as the more unpleasant of the two sounds. It just sounds like it would belong in a horror movie.",KheuKhya,Female,First,Kheu,unpleasant
+R_25FyDhYufebNEN0,female,29,English,Never,Rarely,None,No,Maybe,No,"Not sure, just listened to if it sounded more obnoxious or just a noise.",KhyaKheu,Male,First,Khya,unpleasant
+R_25FyDhYufebNEN0,female,29,English,Never,Rarely,None,No,Maybe,No,"Not sure, just listened to if it sounded more obnoxious or just a noise.",KheuKhya,Female,First,Kheu,unpleasant
+R_28TxPQwA6zw7juC,male,33,English.,Never,Rarely,Novice,Maybe,Maybe,Yes,I can easily judge.,KhyaKheu,Female,Second,Kheu,unpleasant
+R_28TxPQwA6zw7juC,male,33,English.,Never,Rarely,Novice,Maybe,Maybe,Yes,I can easily judge.,KheuKhya,Male,Second,Khya,unpleasant
+R_29aJSsNfieCHWCW,female,36,English,Never,Occasionally,None,No,Yes,No,I just went with my instinctual reaction ,KhyaKheu,Female,First,Khya,unpleasant
+R_29aJSsNfieCHWCW,female,36,English,Never,Occasionally,None,No,Yes,No,I just went with my instinctual reaction ,KheuKhya,Male,First,Kheu,unpleasant
+R_2aKWJLsDMYYKrCG,male,36,English,Never,Never,None,No,Yes,Yes,I just went with gut feeling,KhyaKheu,Male,Second,Kheu,unpleasant
+R_2aKWJLsDMYYKrCG,male,36,English,Never,Never,None,No,Yes,Yes,I just went with gut feeling,KhyaKheu,Female,Second,Kheu,unpleasant
+R_2bU9eek5Enbv7iN,male,32,English,Never,Never,None,No,Yes,Yes,The pitch of the noise influenced my decision and is a very unpleasant sound to listen to. I didn't notice anything else unusual about the sounds. ,KhyaKheu,Male,Second,Kheu,unpleasant
+R_2bU9eek5Enbv7iN,male,32,English,Never,Never,None,No,Yes,Yes,The pitch of the noise influenced my decision and is a very unpleasant sound to listen to. I didn't notice anything else unusual about the sounds. ,KheuKhya,Female,First,Kheu,unpleasant
+R_2BycESwonbpsLff,female,51,English,Never,Rarely,None,No,Yes,No,The one that was more annoying was higher pitched and more trebly.  ,KhyaKheu,Male,First,Khya,unpleasant
+R_2BycESwonbpsLff,female,51,English,Never,Rarely,None,No,Yes,No,The one that was more annoying was higher pitched and more trebly.  ,KhyaKheu,Female,First,Khya,unpleasant
+R_2c7sEpY5GLuevmt,male,28,english,Never,Rarely,None,No,Maybe,Yes,Just more jarring. Something where the first part sounded different than the second.,KheuKhya,Male,Second,Khya,unpleasant
+R_2c7sEpY5GLuevmt,male,28,english,Never,Rarely,None,No,Maybe,Yes,Just more jarring. Something where the first part sounded different than the second.,KhyaKheu,Female,Second,Kheu,unpleasant
+R_2CKak4I7PNsrH4r,male,30,English,Never,Rarely,None,No,Yes,Yes,Usually the louder one is the one I had a problem with.,KheuKhya,Male,First,Kheu,unpleasant
+R_2CKak4I7PNsrH4r,male,30,English,Never,Rarely,None,No,Yes,Yes,Usually the louder one is the one I had a problem with.,KhyaKheu,Female,Second,Kheu,unpleasant
+R_2cvVCATmwk4Oijx,male,31,English,Never,Never,None,Yes,Yes,Yes,"No, the sounds were similar but had different tones.",KhyaKheu,Female,First,Khya,unpleasant
+R_2cvVCATmwk4Oijx,male,31,English,Never,Never,None,Yes,Yes,Yes,"No, the sounds were similar but had different tones.",KhyaKheu,Male,First,Khya,unpleasant
+R_2EvhNKymoW1AaEC,male,38,English,Never,Never,None,No,No,No,I think the more emphasized sounds for me were more unpleasant.  They put me at ease.   ,KhyaKheu,Male,First,Khya,unpleasant
+R_2EvhNKymoW1AaEC,male,38,English,Never,Never,None,No,No,No,I think the more emphasized sounds for me were more unpleasant.  They put me at ease.   ,KhyaKheu,Female,Second,Kheu,unpleasant
+R_2fMIIY1Kz9mNMBP,male,28,english,Lived 0-5 years,Regularly,Advanced,Yes,Yes,Maybe,that very free unpleasant sound,KheuKhya,Female,First,Kheu,unpleasant
+R_2fMIIY1Kz9mNMBP,male,28,english,Lived 0-5 years,Regularly,Advanced,Yes,Yes,Maybe,that very free unpleasant sound,KhyaKheu,Male,First,Khya,unpleasant
+R_2fq8edrd2C1WzUY,,NA,,,,,,,,,NA,NA,NA,NA,unpleasant
+R_2fq8edrd2C1WzUY,,NA,,,,,,,,,NA,NA,NA,NA,unpleasant
+R_2P25ai4HlD8GNtD,male,31,English,Never,Never,None,No,No,No,The sounds I picked as unpleasant had a certain roughness or harshness to them that the other one didn't have to the same intensity.,KheuKhya,Female,First,Kheu,unpleasant
+R_2P25ai4HlD8GNtD,male,31,English,Never,Never,None,No,No,No,The sounds I picked as unpleasant had a certain roughness or harshness to them that the other one didn't have to the same intensity.,KhyaKheu,Male,First,Khya,unpleasant
+R_2q9K1McRCHPvwqz,male,43,English,Never,Occasionally,None,No,No,No,I hate sounds that look like someone is clearing his throat. That is why I believed the second sounds were more unpleasant. ,KhyaKheu,Male,Second,Kheu,unpleasant
+R_2q9K1McRCHPvwqz,male,43,English,Never,Occasionally,None,No,No,No,I hate sounds that look like someone is clearing his throat. That is why I believed the second sounds were more unpleasant. ,KhyaKheu,Female,Second,Kheu,unpleasant
+R_2qz8X65oW2SsfiJ,male,33,english,Short visit(s),Occasionally,Advanced,Maybe,Maybe,No,unpleasant,KheuKhya,Male,First,Kheu,unpleasant
+R_2qz8X65oW2SsfiJ,male,33,english,Short visit(s),Occasionally,Advanced,Maybe,Maybe,No,unpleasant,KheuKhya,Female,First,Kheu,unpleasant
+R_2sTFGhA1EpR6vCr,male,28,ENGLISH,Never,Rarely,Intermediate,Yes,Yes,Yes,THEY ARE SIMILAR AND ONE IS A LITTLE BIT LOUDER THAN THE OTHER,KheuKhya,Female,First,Kheu,unpleasant
+R_2sTFGhA1EpR6vCr,male,28,ENGLISH,Never,Rarely,Intermediate,Yes,Yes,Yes,THEY ARE SIMILAR AND ONE IS A LITTLE BIT LOUDER THAN THE OTHER,KhyaKheu,Male,First,Khya,unpleasant
+R_2TmYK4P8CEZuxnw,female,31,SPANISH,Never,Occasionally,None,No,Yes,Yes,I THINK MY DECISION WAS BASED BASICALLY ON THE SOUND VOLUME,KheuKhya,Female,First,Kheu,unpleasant
+R_2TmYK4P8CEZuxnw,female,31,SPANISH,Never,Occasionally,None,No,Yes,Yes,I THINK MY DECISION WAS BASED BASICALLY ON THE SOUND VOLUME,KheuKhya,Male,First,Kheu,unpleasant
+R_2UgsRPGwv2gQA30,female,36,English,Never,Don't know,None,No,No,No,The unpleasant one had a lower decibel of sound.,KhyaKheu,Female,Second,Kheu,unpleasant
+R_2UgsRPGwv2gQA30,female,36,English,Never,Don't know,None,No,No,No,The unpleasant one had a lower decibel of sound.,KheuKhya,Male,Second,Khya,unpleasant
+R_2uOrMhuBsxgN8YT,male,36,ENGLISH,Short visit(s),Occasionally,Intermediate,Maybe,Yes,No,NICE TRY.,KheuKhya,Male,Second,Khya,unpleasant
+R_2uOrMhuBsxgN8YT,male,36,ENGLISH,Short visit(s),Occasionally,Intermediate,Maybe,Yes,No,NICE TRY.,KhyaKheu,Female,First,Khya,unpleasant
+R_2vizQ52nNgwBR6F,male,34,"english, german",Short visit(s),Occasionally,Intermediate,No,Maybe,No,softer breath as opposes to harder ,KhyaKheu,Male,First,Khya,unpleasant
+R_2vizQ52nNgwBR6F,male,34,"english, german",Short visit(s),Occasionally,Intermediate,No,Maybe,No,softer breath as opposes to harder ,KhyaKheu,Female,Second,Kheu,unpleasant
+R_2woX8qoudiMpUvJ,female,25,English,Never,Never,None,No,No,No,"I think ones that I found more unpleasant were maybe more high-pitched, or it felt like it. Also I might have found the initial first one more unpleasant because it was the first one I heard and was kind of loud and startling.",KheuKhya,Male,First,Kheu,unpleasant
+R_2woX8qoudiMpUvJ,female,25,English,Never,Never,None,No,No,No,"I think ones that I found more unpleasant were maybe more high-pitched, or it felt like it. Also I might have found the initial first one more unpleasant because it was the first one I heard and was kind of loud and startling.",KheuKhya,Female,First,Kheu,unpleasant
+R_2XibptemHT5pbRb,male,28,english,Never,Never,None,No,No,No,The unpleasant sounds sounded like a cat when it hisses ,KhyaKheu,Male,Second,Kheu,unpleasant
+R_2XibptemHT5pbRb,male,28,english,Never,Never,None,No,No,No,The unpleasant sounds sounded like a cat when it hisses ,KheuKhya,Female,Second,Khya,unpleasant
+R_2yflOP1rsfEpjkq,female,33,no,Never,Rarely,None,No,Maybe,Maybe,nothing for the feeling,KheuKhya,Female,First,Kheu,unpleasant
+R_2yflOP1rsfEpjkq,female,33,no,Never,Rarely,None,No,Maybe,Maybe,nothing for the feeling,KheuKhya,Male,First,Kheu,unpleasant
+R_2YrGOgqhmbk18QL,female,30,ENGLISH,Short visit(s),Occasionally,None,Maybe,Maybe,Maybe,THE SOUND IS LIKE A LADY VOICE,KhyaKheu,Male,Second,Kheu,unpleasant
+R_2YrGOgqhmbk18QL,female,30,ENGLISH,Short visit(s),Occasionally,None,Maybe,Maybe,Maybe,THE SOUND IS LIKE A LADY VOICE,KheuKhya,Female,First,Kheu,unpleasant
+R_2zBgeiT7y6HrW1T,female,44,English,Never,Never,None,No,No,Yes,I didn't like the one that sounded more harsh. ,KheuKhya,Male,First,Kheu,unpleasant
+R_2zBgeiT7y6HrW1T,female,44,English,Never,Never,None,No,No,Yes,I didn't like the one that sounded more harsh. ,KheuKhya,Female,First,Kheu,unpleasant
+R_2ZV9ifLPKYbRAaG,male,25,english,Short visit(s),Occasionally,None,Maybe,Maybe,No,no,KheuKhya,Male,Second,Khya,unpleasant
+R_2ZV9ifLPKYbRAaG,male,25,english,Short visit(s),Occasionally,None,Maybe,Maybe,No,no,KhyaKheu,Female,First,Khya,unpleasant
+R_31NrGP9snFeuHQ4,male,49,English,Lived 0-5 years,Regularly,Advanced,Yes,Maybe,Maybe,Good,KhyaKheu,Female,First,Khya,unpleasant
+R_31NrGP9snFeuHQ4,male,49,English,Lived 0-5 years,Regularly,Advanced,Yes,Maybe,Maybe,Good,KheuKhya,Male,Second,Khya,unpleasant
+R_32LwqNKXdtuRBZl,female,33,ENGLISH,Short visit(s),Occasionally,None,No,No,Maybe,THE SECOND SOUND IS UNPLEASANT.THE FIRST SOUND IS VERY HEAVY.,KhyaKheu,Female,Second,Kheu,unpleasant
+R_32LwqNKXdtuRBZl,female,33,ENGLISH,Short visit(s),Occasionally,None,No,No,Maybe,THE SECOND SOUND IS UNPLEASANT.THE FIRST SOUND IS VERY HEAVY.,KheuKhya,Male,First,Kheu,unpleasant
+R_33kA9YpyS8FSUPk,male,22,English,Never,Occasionally,None,No,No,Maybe,I picked the one that is a little bit louder as unpleasant.,KhyaKheu,Female,Second,Kheu,unpleasant
+R_33kA9YpyS8FSUPk,male,22,English,Never,Occasionally,None,No,No,Maybe,I picked the one that is a little bit louder as unpleasant.,KheuKhya,Male,First,Kheu,unpleasant
+R_3efvx3LQRIb4MkG,female,39,English,Never,Never,None,No,No,No,the one that sounded more human,KheuKhya,Female,First,Kheu,unpleasant
+R_3efvx3LQRIb4MkG,female,39,English,Never,Never,None,No,No,No,the one that sounded more human,KhyaKheu,Male,First,Khya,unpleasant
+R_3ENhq8w3hVlr3Hw,male,25,English,Never,Never,None,No,Maybe,No,no,KheuKhya,Female,First,Kheu,unpleasant
+R_3ENhq8w3hVlr3Hw,male,25,English,Never,Never,None,No,Maybe,No,no,KhyaKheu,Male,Second,Kheu,unpleasant
+R_3FULl6xzCrs1oE4,male,28,english,Never,Occasionally,None,Maybe,Maybe,Yes,na,KhyaKheu,Female,Second,Kheu,unpleasant
+R_3FULl6xzCrs1oE4,male,28,english,Never,Occasionally,None,Maybe,Maybe,Yes,na,KheuKhya,Male,First,Kheu,unpleasant
+R_3gTx7AO4jetg86l,male,26,English,Never,Never,None,No,Maybe,No,The particular sound I determined to be more unpleasant was that one that was more grating to my ears like nails on a chalkboard as an example.,KheuKhya,Male,Second,Khya,unpleasant
+R_3gTx7AO4jetg86l,male,26,English,Never,Never,None,No,Maybe,No,The particular sound I determined to be more unpleasant was that one that was more grating to my ears like nails on a chalkboard as an example.,KheuKhya,Female,First,Kheu,unpleasant
+R_3hsanpIefGgz8UP,,NA,,,,,,,,,NA,NA,NA,NA,unpleasant
+R_3hsanpIefGgz8UP,,NA,,,,,,,,,NA,NA,NA,NA,unpleasant
+R_3JaQmBSgCNs5eo9,male,32,english,Never,Never,None,Yes,Yes,No,I chose one as more unpleasant based on how long the sound lingered and how sharp it sounded.,KheuKhya,Female,First,Kheu,unpleasant
+R_3JaQmBSgCNs5eo9,male,32,english,Never,Never,None,Yes,Yes,No,I chose one as more unpleasant based on how long the sound lingered and how sharp it sounded.,KheuKhya,Male,Second,Khya,unpleasant
+R_3MGq2VL4mHVdV9H,male,26,English,Never,Never,None,No,No,Maybe,I make music so I imagined it being a percussive sound such as a clap or a snare/chant. ,KheuKhya,Male,Second,Khya,unpleasant
+R_3MGq2VL4mHVdV9H,male,26,English,Never,Never,None,No,No,Maybe,I make music so I imagined it being a percussive sound such as a clap or a snare/chant. ,KhyaKheu,Female,First,Khya,unpleasant
+R_3mla06TQyOy8HS8,male,25,english,Short visit(s),Rarely,Advanced,Maybe,Maybe,No,no ideas,KhyaKheu,Female,Second,Kheu,unpleasant
+R_3mla06TQyOy8HS8,male,25,english,Short visit(s),Rarely,Advanced,Maybe,Maybe,No,no ideas,KheuKhya,Male,Second,Khya,unpleasant
+R_3MoFafsqX3LGFZb,female,36,english,Lived 0-5 years,Occasionally,Intermediate,Maybe,Yes,Yes, I am prepared to answer any questions you may have about my ... you are open to making changes but you also have a certain,KheuKhya,Female,First,Kheu,unpleasant
+R_3MoFafsqX3LGFZb,female,36,english,Lived 0-5 years,Occasionally,Intermediate,Maybe,Yes,Yes, I am prepared to answer any questions you may have about my ... you are open to making changes but you also have a certain,KhyaKheu,Male,First,Khya,unpleasant
+R_3MurHCBlrBA5OXm,male,25,english,Short visit(s),Rarely,None,No,Maybe,Maybe,nothing,KheuKhya,Male,First,Kheu,unpleasant
+R_3MurHCBlrBA5OXm,male,25,english,Short visit(s),Rarely,None,No,Maybe,Maybe,nothing,KhyaKheu,Female,Second,Kheu,unpleasant
+R_3nC8hXXq3TiI4rO,male,38,English and Indonesian,Never,Rarely,None,Yes,Yes,Yes,I think one of the sound is louder and deeper than the other. This makes the sound stand out and clear that it's not a pleasant sound to hear.,KheuKhya,Male,Second,Khya,unpleasant
+R_3nC8hXXq3TiI4rO,male,38,English and Indonesian,Never,Rarely,None,Yes,Yes,Yes,I think one of the sound is louder and deeper than the other. This makes the sound stand out and clear that it's not a pleasant sound to hear.,KhyaKheu,Female,Second,Kheu,unpleasant
+R_3NE8nCv3L46ztmF,male,35,English,Never,Never,None,No,No,No,"I choose the sounds I thought was unpleasant by linking those sounds to things I found unpleasant, such as scratching a chalk board.",KhyaKheu,Male,Second,Kheu,unpleasant
+R_3NE8nCv3L46ztmF,male,35,English,Never,Never,None,No,No,No,"I choose the sounds I thought was unpleasant by linking those sounds to things I found unpleasant, such as scratching a chalk board.",KhyaKheu,Female,First,Khya,unpleasant
+R_3nwrHeoBPbvlrJs,female,27,English,Never,Rarely,None,No,Yes,No,"I ascertained the most ""unpleasant"" sound to be the one that was the most harsh and sharp.",KhyaKheu,Male,First,Khya,unpleasant
+R_3nwrHeoBPbvlrJs,female,27,English,Never,Rarely,None,No,Yes,No,"I ascertained the most ""unpleasant"" sound to be the one that was the most harsh and sharp.",KheuKhya,Female,Second,Khya,unpleasant
+R_3O91WpuFJl9jGQk,female,29,English,Never,Don't know,None,No,Yes,No,no,KhyaKheu,Male,First,Khya,unpleasant
+R_3O91WpuFJl9jGQk,female,29,English,Never,Don't know,None,No,Yes,No,no,KhyaKheu,Female,Second,Kheu,unpleasant
+R_3PaXpdgLuxj8PlC,male,33,English,Never,Never,None,No,Yes,Yes,nothing in particular made them unpleasant,KhyaKheu,Female,First,Khya,unpleasant
+R_3PaXpdgLuxj8PlC,male,33,English,Never,Never,None,No,Yes,Yes,nothing in particular made them unpleasant,KheuKhya,Male,First,Kheu,unpleasant
+R_3PSnWjlq5GS3VSA,female,29,English,Never,Never,None,No,No,No,no,KhyaKheu,Female,Second,Kheu,unpleasant
+R_3PSnWjlq5GS3VSA,female,29,English,Never,Never,None,No,No,No,no,KheuKhya,Male,Second,Khya,unpleasant
+R_3QPmaue0REG0qHC,female,39,English,Never,Never,None,No,Yes,No,I think the pitch of the sound influenced my decision. I also pictured someone making the sounds with their mouth. I found all the sounds to be unpleasant.,KheuKhya,Female,First,Kheu,unpleasant
+R_3QPmaue0REG0qHC,female,39,English,Never,Never,None,No,Yes,No,I think the pitch of the sound influenced my decision. I also pictured someone making the sounds with their mouth. I found all the sounds to be unpleasant.,KhyaKheu,Male,First,Khya,unpleasant
+R_3rHWCbktOy9O0ym,male,30,English,Short visit(s),Rarely,None,Maybe,Yes,Maybe,very nice,KheuKhya,Male,Second,Khya,unpleasant
+R_3rHWCbktOy9O0ym,male,30,English,Short visit(s),Rarely,None,Maybe,Yes,Maybe,very nice,KhyaKheu,Female,Second,Kheu,unpleasant
+R_3yB9QNSJiwMfeaR,male,23,English,Never,Don't know,None,No,No,No,"If it sounded more vicious and angry, I marked it as unpleasant. I didn't notice anything else, however. ",KhyaKheu,Female,Second,Kheu,unpleasant
+R_3yB9QNSJiwMfeaR,male,23,English,Never,Don't know,None,No,No,No,"If it sounded more vicious and angry, I marked it as unpleasant. I didn't notice anything else, however. ",KhyaKheu,Male,First,Khya,unpleasant
+R_4JvFluJR3CVAA3D,male,25,English,Short visit(s),Occasionally,Intermediate,No,Yes,Maybe,No,KheuKhya,Male,First,Kheu,unpleasant
+R_4JvFluJR3CVAA3D,male,25,English,Short visit(s),Occasionally,Intermediate,No,Yes,Maybe,No,KheuKhya,Female,Second,Khya,unpleasant
+R_57NGYoO1llxpWtb,male,35,English,Never,Rarely,None,No,Yes,No,"Number two in both cases had more ""theatrical"" flair to it or something. Like I imagined some bad actor on stage with spread jazz hands making the noises or something. So I was amused. Something like a cha-cha-cha musical theater thing. This made it easy to pick number one as the more unpleasant sound. ",KheuKhya,Female,First,Kheu,unpleasant
+R_57NGYoO1llxpWtb,male,35,English,Never,Rarely,None,No,Yes,No,"Number two in both cases had more ""theatrical"" flair to it or something. Like I imagined some bad actor on stage with spread jazz hands making the noises or something. So I was amused. Something like a cha-cha-cha musical theater thing. This made it easy to pick number one as the more unpleasant sound. ",KheuKhya,Male,First,Kheu,unpleasant
+R_6lEgixJGxO552St,male,40,english,Never,Never,None,Maybe,Yes,No,i just went off how i felt when i heard the sounds,KheuKhya,Female,First,Kheu,unpleasant
+R_6lEgixJGxO552St,male,40,english,Never,Never,None,Maybe,Yes,No,i just went off how i felt when i heard the sounds,KheuKhya,Male,Second,Khya,unpleasant
+R_8CAN4lix0tigZot,female,33,english,Never,Never,None,No,Yes,Maybe,They were both similar and the differences were subtle,KheuKhya,Male,Second,Khya,unpleasant
+R_8CAN4lix0tigZot,female,33,english,Never,Never,None,No,Yes,Maybe,They were both similar and the differences were subtle,KhyaKheu,Female,First,Khya,unpleasant
+R_9G3D1JLZVUCiW7T,male,29,English,Never,Occasionally,None,No,Yes,No,How loud the sound was. ,KheuKhya,Female,First,Kheu,unpleasant
+R_9G3D1JLZVUCiW7T,male,29,English,Never,Occasionally,None,No,Yes,No,How loud the sound was. ,KheuKhya,Male,First,Kheu,unpleasant
+R_Ao2gGaaB8sAZLu9,female,42,English,Never,Never,None,No,No,No,what sounded more annoying to me ,KheuKhya,Male,Second,Khya,unpleasant
+R_Ao2gGaaB8sAZLu9,female,42,English,Never,Never,None,No,No,No,what sounded more annoying to me ,KheuKhya,Female,First,Kheu,unpleasant
+R_cUZZM5K1ZJtzYHL,female,52,english,Never,Never,None,No,No,No,the one that was more intensed,KheuKhya,Male,Second,Khya,unpleasant
+R_cUZZM5K1ZJtzYHL,female,52,english,Never,Never,None,No,No,No,the one that was more intensed,KheuKhya,Female,First,Kheu,unpleasant
+R_DobcA334SPDgqNb,male,39,English,Lived 0-5 years,Occasionally,None,Maybe,Maybe,Maybe,na,KheuKhya,Female,Second,Khya,unpleasant
+R_DobcA334SPDgqNb,male,39,English,Lived 0-5 years,Occasionally,None,Maybe,Maybe,Maybe,na,KhyaKheu,Male,Second,Kheu,unpleasant
+R_em8VmRp11OlTUid,female,34,English,Never,Rarely,None,No,No,Yes,I noticed that some sounds had differentiating pitches and length.,KhyaKheu,Female,First,Khya,unpleasant
+R_em8VmRp11OlTUid,female,34,English,Never,Rarely,None,No,No,Yes,I noticed that some sounds had differentiating pitches and length.,KhyaKheu,Male,Second,Kheu,unpleasant
+R_eyRHogB8LoeFk77,male,38,English,Lived 0-5 years,Regularly,Advanced,Maybe,Yes,Yes,Nothing audio is normal and easy to identify which is one unpleasant,KhyaKheu,Male,Second,Kheu,unpleasant
+R_eyRHogB8LoeFk77,male,38,English,Lived 0-5 years,Regularly,Advanced,Maybe,Yes,Yes,Nothing audio is normal and easy to identify which is one unpleasant,KheuKhya,Female,First,Kheu,unpleasant
+R_O9ZLuQUI3RS7Hih,male,33,english,Never,Never,None,No,No,No,the sounds were unpleasant,KheuKhya,Female,Second,Khya,unpleasant
+R_O9ZLuQUI3RS7Hih,male,33,english,Never,Never,None,No,No,No,the sounds were unpleasant,KhyaKheu,Male,Second,Kheu,unpleasant
+R_p4av1ur1aqHbGrn,male,31,English,Never,Never,None,No,No,No,Personal judgment. I just went with whichever ones irked me the most. ,KhyaKheu,Male,Second,Kheu,unpleasant
+R_p4av1ur1aqHbGrn,male,31,English,Never,Never,None,No,No,No,Personal judgment. I just went with whichever ones irked me the most. ,KheuKhya,Female,Second,Khya,unpleasant
+R_Q01jhR6lxWbrrnb,male,43,ENGLISH,Never,Never,None,No,No,Yes,intensity of the sound,KheuKhya,Female,Second,Khya,unpleasant
+R_Q01jhR6lxWbrrnb,male,43,ENGLISH,Never,Never,None,No,No,Yes,intensity of the sound,KheuKhya,Male,First,Kheu,unpleasant
+R_qDEvKUAVt84Q7AJ,male,28,ENGLISH,Short visit(s),Regularly,None,Maybe,Maybe,Maybe,no it was good to here the sound,KheuKhya,Male,Second,Khya,unpleasant
+R_qDEvKUAVt84Q7AJ,male,28,ENGLISH,Short visit(s),Regularly,None,Maybe,Maybe,Maybe,no it was good to here the sound,KheuKhya,Female,Second,Khya,unpleasant
+R_sk6wJg6Bka4kuBj,female,43,English,Never,Regularly,Novice,No,No,No,Just listened to what was more harsh to my ears,KhyaKheu,Female,Second,Kheu,unpleasant
+R_sk6wJg6Bka4kuBj,female,43,English,Never,Regularly,Novice,No,No,No,Just listened to what was more harsh to my ears,KheuKhya,Male,First,Kheu,unpleasant
+R_SO7rlu2xvbp7OCJ,,NA,,,,,,,,,NA,NA,NA,NA,unpleasant
+R_SO7rlu2xvbp7OCJ,,NA,,,,,,,,,NA,NA,NA,NA,unpleasant
+R_szDf764BL0ei8rD,male,28,English,Short visit(s),Rarely,Advanced,Yes,Yes,Maybe,in pleasent,KhyaKheu,Male,First,Khya,unpleasant
+R_szDf764BL0ei8rD,male,28,English,Short visit(s),Rarely,Advanced,Yes,Yes,Maybe,in pleasent,KheuKhya,Female,First,Kheu,unpleasant
+R_TgYRRwnrYrDGvjb,male,46,English,Never,Never,None,No,Maybe,No,"I don't know what influenced my decision, I just went with my gut feeling.",KheuKhya,Male,First,Kheu,unpleasant
+R_TgYRRwnrYrDGvjb,male,46,English,Never,Never,None,No,Maybe,No,"I don't know what influenced my decision, I just went with my gut feeling.",KheuKhya,Female,First,Kheu,unpleasant
+R_TkphkVE89XnaOeR,male,39,English,Never,Regularly,Novice,Yes,No,Yes,"The thing that influenced my judgment was the sharper, breathier nature of each of the first samples. They sound more like a hiss, which makes them sound more unpleasant. ",KhyaKheu,Female,First,Khya,unpleasant
+R_TkphkVE89XnaOeR,male,39,English,Never,Regularly,Novice,Yes,No,Yes,"The thing that influenced my judgment was the sharper, breathier nature of each of the first samples. They sound more like a hiss, which makes them sound more unpleasant. ",KhyaKheu,Male,First,Khya,unpleasant
+R_vVn1k1gDPKlyMEN,male,33,English.Yes i can speak multiple languages.,Never,Rarely,Novice,No,Maybe,Maybe,Its basically known about the sounds.So i choosed.,KheuKhya,Female,Second,Khya,unpleasant
+R_vVn1k1gDPKlyMEN,male,33,English.Yes i can speak multiple languages.,Never,Rarely,Novice,No,Maybe,Maybe,Its basically known about the sounds.So i choosed.,KheuKhya,Male,Second,Khya,unpleasant
+R_XtedJ5icN2Vyvqp,male,33,English,Never,Never,None,No,Yes,Yes,I really just went but gut feel.  Nothing really stood out all that much,KheuKhya,Male,First,Kheu,unpleasant
+R_XtedJ5icN2Vyvqp,male,33,English,Never,Never,None,No,Yes,Yes,I really just went but gut feel.  Nothing really stood out all that much,KheuKhya,Female,Second,Khya,unpleasant
+R_Xzarv5TbYq5OBbz,male,20,english,Never,Rarely,None,No,Maybe,No,The ones that are more drawn out sound worse,KheuKhya,Male,Second,Khya,unpleasant
+R_Xzarv5TbYq5OBbz,male,20,english,Never,Rarely,None,No,Maybe,No,The ones that are more drawn out sound worse,KhyaKheu,Female,Second,Kheu,unpleasant
+R_yxxkPkJY67xLWWR,female,33,english,Never,Never,None,No,No,No,it kind of hurt my ears to hear the unpleasant ones,KheuKhya,Female,First,Kheu,unpleasant
+R_yxxkPkJY67xLWWR,female,33,english,Never,Never,None,No,No,No,it kind of hurt my ears to hear the unpleasant ones,KhyaKheu,Male,Second,Kheu,unpleasant
+R_z20gXN9SCJIRfBT,female,33,english,Lived 0-5 years,Regularly,None,Maybe,Yes,Maybe,it is very nice,KhyaKheu,Female,First,Khya,unpleasant
+R_z20gXN9SCJIRfBT,female,33,english,Lived 0-5 years,Regularly,None,Maybe,Yes,Maybe,it is very nice,KhyaKheu,Male,Second,Kheu,unpleasant
+R_z6d4ET2bue0hm5r,female,19,English,Never,Regularly,None,No,Yes,Yes,"The second ones sounded much more lower and harsher. The lower the tone, the more it sounded more unpleasant.",KhyaKheu,Male,Second,Kheu,unpleasant
+R_z6d4ET2bue0hm5r,female,19,English,Never,Regularly,None,No,Yes,Yes,"The second ones sounded much more lower and harsher. The lower the tone, the more it sounded more unpleasant.",KhyaKheu,Female,Second,Kheu,unpleasant
+R_zTCUCf5PMZdp4Tn,male,29,ENGLISH,Short visit(s),Regularly,None,Yes,Yes,Yes,very surprise voice,KhyaKheu,Male,Second,Kheu,unpleasant
+R_zTCUCf5PMZdp4Tn,male,29,ENGLISH,Short visit(s),Regularly,None,Yes,Yes,Yes,very surprise voice,KhyaKheu,Female,Second,Kheu,unpleasant

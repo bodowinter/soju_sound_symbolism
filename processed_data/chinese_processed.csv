@@ -1,0 +1,139 @@
+ID,Gender,Age,Native,KoreanVisit,KoreanDrama,KoreanLanguage,SojuQuestion,KoreanRestaurant,KoreanFriends,Question,Qualitative,Condition,StimGender,RespType
+R_10GJqquuD6BRP6p,女,23,中文,从未去过,经常,初级,否,是,是,hart,音色,KheuKhya,Male,Kheu
+R_10GJqquuD6BRP6p,女,23,中文,从未去过,经常,初级,否,是,是,hart,音色,KhyaKheu,Female,Kheu
+R_10oQ7w8PD35uhZq,女,27,Mandarin， Chinese,从未去过,从不,无,是,是,否,hart,the first one sounds like keeeee. / the second one sounds like kaaaa. / I think kaaaa is more strong if I had to choose.,KhyaKheu,Female,Kheu
+R_10oQ7w8PD35uhZq,女,27,Mandarin， Chinese,从未去过,从不,无,是,是,否,hart,the first one sounds like keeeee. / the second one sounds like kaaaa. / I think kaaaa is more strong if I had to choose.,KheuKhya,Male,Khya
+R_1BVE5TExaVpEBuy,男,27,汉语普通话,从未去过,偶尔,初级,是,是,不确定,hart,consonant 的力度，开口程度,KhyaKheu,Female,Kheu
+R_1BVE5TExaVpEBuy,男,27,汉语普通话,从未去过,偶尔,初级,是,是,不确定,hart,consonant 的力度，开口程度,KheuKhya,Male,Kheu
+R_1C3XJNgVObEca2h,女,28,朝鲜语/汉语,短期访问（一次或多次）,偶尔,中级,是,是,是,weich,后舌更用力发出的音，听着更温柔可爱一些，可能因为更接近小朋友发音？,KheuKhya,Female,Khya
+R_1C3XJNgVObEca2h,女,28,朝鲜语/汉语,短期访问（一次或多次）,偶尔,中级,是,是,是,weich,后舌更用力发出的音，听着更温柔可爱一些，可能因为更接近小朋友发音？,KheuKhya,Male,Khya
+R_1eEhY9Y10oSNnBK,女,23,中文,短期访问（一次或多次）,经常,初级,是,是,是,weich,无,KheuKhya,Male,Kheu
+R_1eEhY9Y10oSNnBK,女,23,中文,短期访问（一次或多次）,经常,初级,是,是,是,weich,无,KheuKhya,Female,Kheu
+R_1eshhjidBuWNB22,女,34,英语,短期访问（一次或多次）,经常,无,是,是,否,hart,元音 / 播放顺序,KhyaKheu,Male,Kheu
+R_1eshhjidBuWNB22,女,34,英语,短期访问（一次或多次）,经常,无,是,是,否,hart,元音 / 播放顺序,KheuKhya,Female,Khya
+R_1FkUKoA4ChSrItO,男,30,汉语,从未去过,很少,无,是,是,否,weich,声音的强度和锐度,KheuKhya,Female,Khya
+R_1FkUKoA4ChSrItO,男,30,汉语,从未去过,很少,无,是,是,否,weich,声音的强度和锐度,KheuKhya,Male,Khya
+R_1gSGYB8uBJ33Vw8,,NA,,,,,,,,weich,,KhyaKheu,Male,Khya
+R_1gSGYB8uBJ33Vw8,,NA,,,,,,,,weich,,KheuKhya,Female,Khya
+R_1ilfJhh2f6Rxaz7,女,22,普通话，闽南语,从未去过,很少,无,否,是,否,weich,字母发音,KheuKhya,Female,Kheu
+R_1ilfJhh2f6Rxaz7,女,22,普通话，闽南语,从未去过,很少,无,否,是,否,weich,字母发音,KheuKhya,Male,Khya
+R_1ImH9fPWOTRJRhA,女,25,汉语,从未去过,很少,无,否,是,否,weich,刚睡醒,KheuKhya,Male,Khya
+R_1ImH9fPWOTRJRhA,女,25,汉语,从未去过,很少,无,否,是,否,weich,刚睡醒,KheuKhya,Female,Khya
+R_1iqTqymuSJ0cj3E,女,32,Chinese ,从未去过,从不,无,否,是,是,hart,sound volume,KheuKhya,Female,Kheu
+R_1iqTqymuSJ0cj3E,女,32,Chinese ,从未去过,从不,无,否,是,是,hart,sound volume,KhyaKheu,Male,Khya
+R_1Legr6QfgOqHgDq,女,23,中文,从未去过,经常,初级,否,是,否,weich,发音时开口的大小，我感觉开口小的音听起来更柔和。,KhyaKheu,Female,Khya
+R_1Legr6QfgOqHgDq,女,23,中文,从未去过,经常,初级,否,是,否,weich,发音时开口的大小，我感觉开口小的音听起来更柔和。,KheuKhya,Male,Kheu
+R_1MYFeLqOYRruETo,女,23,汉语,从未去过,经常,无,是,是,否,weich,听到的先后顺序 / 当听到第一个后，耳朵已经适应了这种刺激的环境，所以第二个听起来可能相对柔和些,KhyaKheu,Female,Kheu
+R_1MYFeLqOYRruETo,女,23,汉语,从未去过,经常,无,是,是,否,weich,听到的先后顺序 / 当听到第一个后，耳朵已经适应了这种刺激的环境，所以第二个听起来可能相对柔和些,KheuKhya,Male,Khya
+R_1oBeKBAGLeUgcn5,女,26,中文,从未去过,经常,无,是,是,否,hart,找不到音频点开地方着急影响了我的判断,KhyaKheu,Male,Khya
+R_1oBeKBAGLeUgcn5,女,26,中文,从未去过,经常,无,是,是,否,hart,找不到音频点开地方着急影响了我的判断,KhyaKheu,Female,Kheu
+R_1ONO1FNiKoDO8uJ,女,28,汉语,从未去过,不确定,无,是,是,否,weich,第一个音频助词听起来并不会有尖锐的感觉，而第二更强烈些,KhyaKheu,Male,Khya
+R_1ONO1FNiKoDO8uJ,女,28,汉语,从未去过,不确定,无,是,是,否,weich,第一个音频助词听起来并不会有尖锐的感觉，而第二更强烈些,KhyaKheu,Female,Khya
+R_1OWiGRBNq4OTTfD,,NA,,,,,,,,weich,,KheuKhya,Female,Khya
+R_1OWiGRBNq4OTTfD,,NA,,,,,,,,weich,,KhyaKheu,Male,Khya
+R_1pyw9aroZej63XH,,NA,,,,,,,,hart,,KheuKhya,Male,Khya
+R_1pyw9aroZej63XH,,NA,,,,,,,,hart,,KheuKhya,Male,Khya
+R_1Q6hrqEq7eHDWlw,女,25,中文,从未去过,偶尔,无,否,是,否,hart,发音方式和声调,KheuKhya,Male,Kheu
+R_1Q6hrqEq7eHDWlw,女,25,中文,从未去过,偶尔,无,否,是,否,hart,发音方式和声调,KheuKhya,Male,Kheu
+R_1rCFn4XluyoAFQg,女,28,中文,从未去过,偶尔,无,是,是,是,weich,声音的高低和响度,KheuKhya,Male,Khya
+R_1rCFn4XluyoAFQg,女,28,中文,从未去过,偶尔,无,是,是,是,weich,声音的高低和响度,KheuKhya,Female,Khya
+R_25zNyIXVN7ZPyDx,,NA,,,,,,,,weich,,KheuKhya,Male,Kheu
+R_25zNyIXVN7ZPyDx,,NA,,,,,,,,weich,,KheuKhya,Male,Kheu
+R_2691xQZmCMnD8HP,女,30,中文,从未去过,偶尔,无,否,是,否,hart,声音长短，短的听起来更铿锵有力所以觉得硬,KhyaKheu,Male,Kheu
+R_2691xQZmCMnD8HP,女,30,中文,从未去过,偶尔,无,否,是,否,hart,声音长短，短的听起来更铿锵有力所以觉得硬,KhyaKheu,Female,Kheu
+R_27IhPqBPoNCwrty,男,36,中文,从未去过,很少,无,是,是,否,weich,先後次序會有影響。 / 以及沒有第三選項。,KheuKhya,Female,Khya
+R_27IhPqBPoNCwrty,男,36,中文,从未去过,很少,无,是,是,否,weich,先後次序會有影響。 / 以及沒有第三選項。,KheuKhya,Male,Khya
+R_2962D4qffh7bv1M,女,24,汉语,从未去过,偶尔,无,否,是,否,hart,音频，音量 / ,KhyaKheu,Male,Kheu
+R_2962D4qffh7bv1M,女,24,汉语,从未去过,偶尔,无,否,是,否,hart,音频，音量 / ,KheuKhya,Female,Kheu
+R_2dScwxY9RO7J5uO,,NA,,,,,,,,weich,,KhyaKheu,Male,Kheu
+R_2dScwxY9RO7J5uO,,NA,,,,,,,,weich,,KhyaKheu,Male,Kheu
+R_2dsgjd40qUjlBXY,女,24,汉语,从未去过,很少,无,是,是,是,weich,听到的先后顺序,KhyaKheu,Female,Kheu
+R_2dsgjd40qUjlBXY,女,24,汉语,从未去过,很少,无,是,是,是,weich,听到的先后顺序,KhyaKheu,Male,Khya
+R_2DTuAYT4n8LFKOo,女,27,汉语,从未去过,偶尔,无,否,是,否,hart,声音的大小，还有外在环境,KheuKhya,Female,Kheu
+R_2DTuAYT4n8LFKOo,女,27,汉语,从未去过,偶尔,无,否,是,否,hart,声音的大小，还有外在环境,KheuKhya,Male,Kheu
+R_2OTM4NkNKPHzb2x,女,27,朝鲜语,短期访问（一次或多次）,偶尔,中级,是,是,是,hart,口型,KheuKhya,Male,Khya
+R_2OTM4NkNKPHzb2x,女,27,朝鲜语,短期访问（一次或多次）,偶尔,中级,是,是,是,hart,口型,KheuKhya,Male,Kheu
+R_2pSl7l3yCiyCDX4,女,21,中文,从未去过,偶尔,初级,否,是,否,hart,半天点不上 都不知道哪个是第一个哪个是第二个,KhyaKheu,Female,Kheu
+R_2pSl7l3yCiyCDX4,女,21,中文,从未去过,偶尔,初级,否,是,否,hart,半天点不上 都不知道哪个是第一个哪个是第二个,KhyaKheu,Male,Kheu
+R_2q4qEcqwSlhekH1,女,26,汉语,从未去过,经常,初级,是,是,是,weich,音量问题,KhyaKheu,Male,Khya
+R_2q4qEcqwSlhekH1,女,26,汉语,从未去过,经常,初级,是,是,是,weich,音量问题,KhyaKheu,Female,Kheu
+R_2rDuEJjs9whsPIS,,NA,,,,,,,,weich,,KhyaKheu,Female,Khya
+R_2rDuEJjs9whsPIS,,NA,,,,,,,,weich,,KhyaKheu,Male,Khya
+R_2sQD1qtXC55PKK5,男,29,Chinese,从未去过,偶尔,无,否,否,否,weich,"I think it is the vowels following the plosives that influence the ""softness"" of the perception. forward vowels sounds softened compared with middle / back vowels.",KheuKhya,Female,Khya
+R_2sQD1qtXC55PKK5,男,29,Chinese,从未去过,偶尔,无,否,否,否,weich,"I think it is the vowels following the plosives that influence the ""softness"" of the perception. forward vowels sounds softened compared with middle / back vowels.",KhyaKheu,Male,Khya
+R_2Tt608g8ADgMjdV,,NA,,,,,,,,hart,,KhyaKheu,Male,Kheu
+R_2Tt608g8ADgMjdV,,NA,,,,,,,,hart,,KhyaKheu,Male,Kheu
+R_2TuRCEgZDLixOJS,女,27,汉语,从未去过,很少,无,否,是,否,weich,keng或者是eng的声音更柔和  而ka的声音感觉是比较尖锐的,KheuKhya,Female,Kheu
+R_2TuRCEgZDLixOJS,女,27,汉语,从未去过,很少,无,否,是,否,weich,keng或者是eng的声音更柔和  而ka的声音感觉是比较尖锐的,KheuKhya,Male,Kheu
+R_2uvqgEn1Rn6LyZ4,女,27,中文,从未去过,偶尔,无,否,否,否,weich,强弱,KhyaKheu,Female,Kheu
+R_2uvqgEn1Rn6LyZ4,女,27,中文,从未去过,偶尔,无,否,否,否,weich,强弱,KhyaKheu,Male,Khya
+R_2VR1SR2NyhXstQR,女,30,中文,从未去过,偶尔,无,是,是,否,weich,刺耳程度,KheuKhya,Female,Khya
+R_2VR1SR2NyhXstQR,女,30,中文,从未去过,偶尔,无,是,是,否,weich,刺耳程度,KhyaKheu,Male,Kheu
+R_2wAbpXukBr1SBK9,女,28,方言,从未去过,偶尔,无,否,是,否,hart,更尖锐，更短促的声音让人感觉更强硬,KheuKhya,Female,Kheu
+R_2wAbpXukBr1SBK9,女,28,方言,从未去过,偶尔,无,否,是,否,hart,更尖锐，更短促的声音让人感觉更强硬,KheuKhya,Male,Kheu
+R_2wdxC7vtHax9ucQ,男,27,汉语,从未去过,很少,无,否,不确定,否,hart,语气的轻重,KhyaKheu,Male,Kheu
+R_2wdxC7vtHax9ucQ,男,27,汉语,从未去过,很少,无,否,不确定,否,hart,语气的轻重,KheuKhya,Female,Kheu
+R_30tPajQa8wRmZhl,女,28,汉语,短期访问（一次或多次）,经常,无,是,是,是,hart,手机话筒声音,KheuKhya,Male,Kheu
+R_30tPajQa8wRmZhl,女,28,汉语,短期访问（一次或多次）,经常,无,是,是,是,hart,手机话筒声音,KheuKhya,Male,Khya
+R_3CTxKcePHtfWpae,,NA,,,,,,,,hart,,KheuKhya,Female,Khya
+R_3CTxKcePHtfWpae,,NA,,,,,,,,hart,,KhyaKheu,Male,Khya
+R_3DtBXUQoGMzOtNI,女,27,中文,从未去过,经常,初级,否,是,不确定,weich,无法提供具体语境，对于母语为中文的人来说依然有些难以判断,KhyaKheu,Male,Kheu
+R_3DtBXUQoGMzOtNI,女,27,中文,从未去过,经常,初级,否,是,不确定,weich,无法提供具体语境，对于母语为中文的人来说依然有些难以判断,KhyaKheu,Female,Kheu
+R_3dXRV6vHQDvMeZk,其他,30,汉语,短期访问（一次或多次）,经常,初级,否,是,是,hart,我认为影响判断的重要因素最重要的是在我头脑中形成的“声音形象”：这是一个怎样的发音人？怎样的语言背景？他/她发出这个声音是怎样的社会意义？ /  / 我是带着耳机完成判断的。我想到了我觉得被突然恐吓的声音形象，让我立刻回忆起一次走在英格兰大街上被三个骑自行车迎面而来的白人青年男性无理由的、莫名其妙地突然恐吓—只因为我长着一张亚洲脸。我站在原地望了他们的背影很久。这样的行为在我的文化中是不可接受的：中国人之间不会这样发出这样的声音互相恐吓或对待远道而来的外国公民。我认为这样的声音暴力、野蛮、无教养，为他们的女王和他们所谓的信仰丢脸。,KhyaKheu,Female,Khya
+R_3dXRV6vHQDvMeZk,其他,30,汉语,短期访问（一次或多次）,经常,初级,否,是,是,hart,我认为影响判断的重要因素最重要的是在我头脑中形成的“声音形象”：这是一个怎样的发音人？怎样的语言背景？他/她发出这个声音是怎样的社会意义？ /  / 我是带着耳机完成判断的。我想到了我觉得被突然恐吓的声音形象，让我立刻回忆起一次走在英格兰大街上被三个骑自行车迎面而来的白人青年男性无理由的、莫名其妙地突然恐吓—只因为我长着一张亚洲脸。我站在原地望了他们的背影很久。这样的行为在我的文化中是不可接受的：中国人之间不会这样发出这样的声音互相恐吓或对待远道而来的外国公民。我认为这样的声音暴力、野蛮、无教养，为他们的女王和他们所谓的信仰丢脸。,KheuKhya,Male,Khya
+R_3EteZv8CTN2D7rd,,NA,,,,,,,,hart,,KheuKhya,Female,Kheu
+R_3EteZv8CTN2D7rd,,NA,,,,,,,,hart,,KheuKhya,Male,Khya
+R_3F4gWs8XW7gymU1,女,29,中文,从未去过,经常,初级,否,是,是,weich,感觉是qia和ke两个音让我来辨别哪个更柔和，读音听起来跟现实中不太一样，更像小孩子读的。我在猜这个问卷到底在考察我什么。其实有点不懂。 /  / 哪些因素影响我的判断：1.听起来马上让我想起韩语发音，感觉这两个发音在韩语中比较常见。语言接触影响我的判断。2.听单个发音，和听一个短语一句话有区别，如果在一句话中来听可能会影响我的选择。,KheuKhya,Male,Khya
+R_3F4gWs8XW7gymU1,女,29,中文,从未去过,经常,初级,否,是,是,weich,感觉是qia和ke两个音让我来辨别哪个更柔和，读音听起来跟现实中不太一样，更像小孩子读的。我在猜这个问卷到底在考察我什么。其实有点不懂。 /  / 哪些因素影响我的判断：1.听起来马上让我想起韩语发音，感觉这两个发音在韩语中比较常见。语言接触影响我的判断。2.听单个发音，和听一个短语一句话有区别，如果在一句话中来听可能会影响我的选择。,KhyaKheu,Female,Kheu
+R_3fP0uZoCNcXHmyr,,NA,,,,,,,,weich,,KhyaKheu,Male,Kheu
+R_3fP0uZoCNcXHmyr,,NA,,,,,,,,weich,,KhyaKheu,Male,Kheu
+R_3j7ee0DFqxGZxly,女,20,中文,从未去过,很少,无,否,是,否,weich,有点吓人…,KheuKhya,Female,Khya
+R_3j7ee0DFqxGZxly,女,20,中文,从未去过,很少,无,否,是,否,weich,有点吓人…,KhyaKheu,Male,Kheu
+R_3JacFSmr0EcSGga,女,26,韩语 汉语,短期访问（一次或多次）,偶尔,初级,是,是,是,hart,无,KhyaKheu,Female,Kheu
+R_3JacFSmr0EcSGga,女,26,韩语 汉语,短期访问（一次或多次）,偶尔,初级,是,是,是,hart,无,KheuKhya,Male,Khya
+R_3jSWnB8MIdK9B95,女,23,汉语,从未去过,很少,无,否,不确定,否,weich,时间太短,KheuKhya,Male,Kheu
+R_3jSWnB8MIdK9B95,女,23,汉语,从未去过,很少,无,否,不确定,否,weich,时间太短,KheuKhya,Female,Khya
+R_3kcRMmZUppAbx6G,男,20,中文,从未去过,偶尔,无,是,是,否,weich,太短,KheuKhya,Male,Khya
+R_3kcRMmZUppAbx6G,男,20,中文,从未去过,偶尔,无,是,是,否,weich,太短,KhyaKheu,Female,Kheu
+R_3kGucXdLPf4jjbA,,NA,,,,,,,,weich,,KhyaKheu,Female,Khya
+R_3kGucXdLPf4jjbA,,NA,,,,,,,,weich,,KheuKhya,Male,Kheu
+R_3lRAstoAcs2mZ3p,,NA,,,,,,,,hart,,KhyaKheu,Male,Khya
+R_3lRAstoAcs2mZ3p,,NA,,,,,,,,hart,,KhyaKheu,Female,Khya
+R_3LZPGMgKMXTUZAK,,NA,,,,,,,,hart,,KheuKhya,Female,Kheu
+R_3LZPGMgKMXTUZAK,,NA,,,,,,,,hart,,KheuKhya,Male,Khya
+R_3MiKvdn5phRRLjW,女,21,汉语,从未去过,经常,初级,否,是,否,weich,可能所带感情色彩不同吧,KhyaKheu,Female,Khya
+R_3MiKvdn5phRRLjW,女,21,汉语,从未去过,经常,初级,否,是,否,weich,可能所带感情色彩不同吧,KheuKhya,Male,Khya
+R_3no2TxVJJE70q0v,男,25,中文,从未去过,从不,无,否,是,否,hart,声音本身没有任何意义，但是声音所带来的生活习惯和内心记忆会吧声音进行分类处理。,KheuKhya,Female,Khya
+R_3no2TxVJJE70q0v,男,25,中文,从未去过,从不,无,否,是,否,hart,声音本身没有任何意义，但是声音所带来的生活习惯和内心记忆会吧声音进行分类处理。,KhyaKheu,Male,Khya
+R_3OeshXOH3ykjSOa,男,33,汉语,从未去过,很少,无,是,是,否,hart,直觉或感觉,KhyaKheu,Female,Kheu
+R_3OeshXOH3ykjSOa,男,33,汉语,从未去过,很少,无,是,是,否,hart,直觉或感觉,KheuKhya,Male,Khya
+R_3RlN0PKKgh4YQM7,女,25,中文,从未去过,偶尔,无,不确定,是,否,hart,音频的长短以及不清楚是在何语境中,KheuKhya,Male,Khya
+R_3RlN0PKKgh4YQM7,女,25,中文,从未去过,偶尔,无,不确定,是,否,hart,音频的长短以及不清楚是在何语境中,KhyaKheu,Female,Khya
+R_3sBR9kXI0IzRg37,,NA,,,,,,,,hart,,KheuKhya,Female,Kheu
+R_3sBR9kXI0IzRg37,,NA,,,,,,,,hart,,KhyaKheu,Male,Khya
+R_3soGyYbGHypsqqS,男,23,普通话、吴语,从未去过,从不,无,否,是,否,weich,觉得和元音的开口大小有关，开口小听起来更柔和,KheuKhya,Male,Kheu
+R_3soGyYbGHypsqqS,男,23,普通话、吴语,从未去过,从不,无,否,是,否,weich,觉得和元音的开口大小有关，开口小听起来更柔和,KheuKhya,Female,Kheu
+R_510jDI4kWjZIYAF,其他,18,汉语,从未去过,很少,无,不确定,是,是,weich,没想法,KheuKhya,Female,Kheu
+R_510jDI4kWjZIYAF,其他,18,汉语,从未去过,很少,无,不确定,是,是,weich,没想法,KhyaKheu,Male,Khya
+R_6DqTZ3mNpAitQ4x,女,23,中文,短期访问（一次或多次）,很少,无,否,是,否,weich,第一个音频影响了对第二个音频的判断,KheuKhya,Male,Khya
+R_6DqTZ3mNpAitQ4x,女,23,中文,短期访问（一次或多次）,很少,无,否,是,否,weich,第一个音频影响了对第二个音频的判断,KheuKhya,Female,Khya
+R_9S9LeO0YWiv87T3,女,22,汉语,从未去过,很少,无,否,不确定,否,hart,感觉,KhyaKheu,Male,Khya
+R_9S9LeO0YWiv87T3,女,22,汉语,从未去过,很少,无,否,不确定,否,hart,感觉,KheuKhya,Female,Khya
+R_bmfkkTjglIEx84h,女,20,汉语,从未去过,偶尔,无,否,不确定,否,hart,声音尖锐程度吧,KheuKhya,Male,Kheu
+R_bmfkkTjglIEx84h,女,20,汉语,从未去过,偶尔,无,否,不确定,否,hart,声音尖锐程度吧,KhyaKheu,Female,Kheu
+R_BPLrHm9ZLEZVNOV,男,20,中文,从未去过,从不,无,否,是,否,hart,？,KheuKhya,Male,Khya
+R_BPLrHm9ZLEZVNOV,男,20,中文,从未去过,从不,无,否,是,否,hart,？,KhyaKheu,Female,Kheu
+R_O44uNeKcepksDx7,,NA,,,,,,,,hart,,KheuKhya,Male,Kheu
+R_O44uNeKcepksDx7,,NA,,,,,,,,hart,,KheuKhya,Male,Kheu
+R_qV3eZPy8SEetEpX,女,23,普通话,从未去过,很少,无,否,是,否,hart,1) 声调 / 2)语气 / 3）音量,KheuKhya,Female,Kheu
+R_qV3eZPy8SEetEpX,女,23,普通话,从未去过,很少,无,否,是,否,hart,1) 声调 / 2)语气 / 3）音量,KhyaKheu,Male,Khya
+R_UEeUOuzDeGLRy7v,,NA,,,,,,,,hart,,KhyaKheu,Female,Kheu
+R_UEeUOuzDeGLRy7v,,NA,,,,,,,,hart,,KheuKhya,Male,Khya
+R_uqQngnnKkO8tmzT,女,24,汉语,短期访问（一次或多次）,从不,无,否,是,否,weich,声调，扬的声调比抑的声调听起来柔和,KhyaKheu,Male,Khya
+R_uqQngnnKkO8tmzT,女,24,汉语,短期访问（一次或多次）,从不,无,否,是,否,weich,声调，扬的声调比抑的声调听起来柔和,KheuKhya,Female,Kheu
+R_WBufcRIrlUbNr0d,女,22,中文,从未去过,偶尔,无,否,是,否,weich,发音长短和响度,KheuKhya,Male,Kheu
+R_WBufcRIrlUbNr0d,女,22,中文,从未去过,偶尔,无,否,是,否,weich,发音长短和响度,KhyaKheu,Female,Khya
+R_yqp7267a7b65G8N,男,22,普通话，台湾话,从未去过,经常,无,是,是,否,weich,最后收尾的气声在柔和度上很有影响,KheuKhya,Female,Khya
+R_yqp7267a7b65G8N,男,22,普通话，台湾话,从未去过,经常,无,是,是,否,weich,最后收尾的气声在柔和度上很有影响,KhyaKheu,Male,Kheu
+R_yWUKHbupPUHItP3,,NA,,,,,,,,hart,,KheuKhya,Male,Kheu
+R_yWUKHbupPUHItP3,,NA,,,,,,,,hart,,KheuKhya,Male,Kheu

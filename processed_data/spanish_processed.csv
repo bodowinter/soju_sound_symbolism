@@ -1,0 +1,335 @@
+ID,Gender,Age,Native,KoreanVisit,KoreanDrama,KoreanLanguage,SojuQuestion,KoreanRestaurant,KoreanFriends,Question,Qualitative,Condition,StimGender,RespType
+R_0cXHxFTsIws99QJ,femenino,45,Castellano,Estancias inferiores a 5 años,Nunca,Ninguno,Sí,Sí,No,weich,La verdad es que la dualidad blando-duro no me ha resultado pertinente. La elección ha sido totalmente irracional y forzada por la necesidad de elegir uno de los dos sonidos. ,KheuKhya,Female,Khya
+R_0cXHxFTsIws99QJ,femenino,45,Castellano,Estancias inferiores a 5 años,Nunca,Ninguno,Sí,Sí,No,weich,La verdad es que la dualidad blando-duro no me ha resultado pertinente. La elección ha sido totalmente irracional y forzada por la necesidad de elegir uno de los dos sonidos. ,KheuKhya,Male,Khya
+R_0HBH21k14GYmDqF,femenino,65,Español,Nunca,Nunca,Ninguno,Quizás,Sí,No,weich,El duro es porque me resulta más punzante al oído,KhyaKheu,Female,Khya
+R_0HBH21k14GYmDqF,femenino,65,Español,Nunca,Nunca,Ninguno,Quizás,Sí,No,weich,El duro es porque me resulta más punzante al oído,KheuKhya,Male,Khya
+R_0HdrrfVzZM232PT,femenino,30,Español,Nunca,Ocasionalmente,Ninguno,No,No,No,weich,la intensidad del sonido de los audios.,KheuKhya,Female,Khya
+R_0HdrrfVzZM232PT,femenino,30,Español,Nunca,Ocasionalmente,Ninguno,No,No,No,weich,la intensidad del sonido de los audios.,KhyaKheu,Male,Kheu
+R_0VP8t6TMrL9oVZ7,femenino,31,Español peninsular y catalán,Nunca,Ocasionalmente,Ninguno,Sí,Sí,No,weich,Blando se refiere a un sonido menos intenso y menos estringente ,KheuKhya,Female,Khya
+R_0VP8t6TMrL9oVZ7,femenino,31,Español peninsular y catalán,Nunca,Ocasionalmente,Ninguno,Sí,Sí,No,weich,Blando se refiere a un sonido menos intenso y menos estringente ,KhyaKheu,Male,Khya
+R_12fHsIIgBXqQ4ig,masculino,20,Español,Nunca,Muy pocas veces,Ninguno,No,Quizás,Sí,weich,"La apertura del sonido (acabado en algo más parecido a una ""a"" o una ""o"") influencia, así como la rasposidad del sonido inicial",KhyaKheu,Female,Kheu
+R_12fHsIIgBXqQ4ig,masculino,20,Español,Nunca,Muy pocas veces,Ninguno,No,Quizás,Sí,weich,"La apertura del sonido (acabado en algo más parecido a una ""a"" o una ""o"") influencia, así como la rasposidad del sonido inicial",KhyaKheu,Male,Khya
+R_12gtXi8vOIC0S3A,masculino,43,Español,Nunca,Nunca,Ninguno,No,No,No,hart,"He relacionado ""duro"" con ""fuerte"" o ""intenso""",KhyaKheu,Female,Khya
+R_12gtXi8vOIC0S3A,masculino,43,Español,Nunca,Nunca,Ninguno,No,No,No,hart,"He relacionado ""duro"" con ""fuerte"" o ""intenso""",KheuKhya,Male,Khya
+R_12QKbmopkE8QJjO,femenino,49,ruso,Nunca,Nunca,Ninguno,No,No,No,weich,"Creo que ha sonada con menor intensidad y quizás el volumen era algo más bajo. Por lo menos, esta ha sido mi perceción.",KheuKhya,Male,Khya
+R_12QKbmopkE8QJjO,femenino,49,ruso,Nunca,Nunca,Ninguno,No,No,No,weich,"Creo que ha sonada con menor intensidad y quizás el volumen era algo más bajo. Por lo menos, esta ha sido mi perceción.",KheuKhya,Female,Khya
+R_12rI5O8l3A9ZtQO,masculino,23,Español,Nunca,Nunca,Ninguno,No,Sí,No,hart,"La gravedad de la voz hace que suene mas profundo, y a mi parecer eso me indicaba cual era más 'duro'",KheuKhya,Female,Kheu
+R_12rI5O8l3A9ZtQO,masculino,23,Español,Nunca,Nunca,Ninguno,No,Sí,No,hart,"La gravedad de la voz hace que suene mas profundo, y a mi parecer eso me indicaba cual era más 'duro'",KheuKhya,Male,Khya
+R_1BUHaseczAAsXIJ,femenino,20,Español y árabe,Nunca,Nunca,Ninguno,No,No,No,hart,"He seleccionado uno en concreto porque realmente lo escuchaba más fuerte y creo que también porque he detectado como si el sonido se hubiera hecho con más furia o rabia, me ha sonado como un animal rugiendo.",KhyaKheu,Female,Kheu
+R_1BUHaseczAAsXIJ,femenino,20,Español y árabe,Nunca,Nunca,Ninguno,No,No,No,hart,"He seleccionado uno en concreto porque realmente lo escuchaba más fuerte y creo que también porque he detectado como si el sonido se hubiera hecho con más furia o rabia, me ha sonado como un animal rugiendo.",KhyaKheu,Male,Kheu
+R_1BWoHWrmDnDQm1T,masculino,47,Español,Nunca,Muy pocas veces,Ninguno,No,Sí,No,hart,No lo sé.,KhyaKheu,Female,Kheu
+R_1BWoHWrmDnDQm1T,masculino,47,Español,Nunca,Muy pocas veces,Ninguno,No,Sí,No,hart,No lo sé.,KhyaKheu,Male,Kheu
+R_1DNDDxL8QDI1jeu,masculino,33,Español,Nunca,Nunca,Ninguno,No,No,Sí,weich,He seleccionado en ambos casos los sonidos que me han parecido mas suaves o menos agudos.,KheuKhya,Male,Kheu
+R_1DNDDxL8QDI1jeu,masculino,33,Español,Nunca,Nunca,Ninguno,No,No,Sí,weich,He seleccionado en ambos casos los sonidos que me han parecido mas suaves o menos agudos.,KheuKhya,Female,Khya
+R_1erdLwwv71quxBa,masculino,24,Español,Nunca,Muy pocas veces,Ninguno,Sí,No,No,weich,el sonido que sigue después del primer impacto sonoro fue lo que me hizo tomar esas elecciones ,KhyaKheu,Male,Kheu
+R_1erdLwwv71quxBa,masculino,24,Español,Nunca,Muy pocas veces,Ninguno,Sí,No,No,weich,el sonido que sigue después del primer impacto sonoro fue lo que me hizo tomar esas elecciones ,KhyaKheu,Female,Khya
+R_1g0GXsaWxG8HwE4,femenino,33,español,Nunca,Nunca,Ninguno,No,No,Sí,weich,"El sonido ""k"" que parece que choca.",KheuKhya,Male,Khya
+R_1g0GXsaWxG8HwE4,femenino,33,español,Nunca,Nunca,Ninguno,No,No,Sí,weich,"El sonido ""k"" que parece que choca.",KheuKhya,Female,Khya
+R_1gItbNbf1Hc14iG,femenino,55,castellano,Nunca,Nunca,Ninguno,No,Sí,No,weich,intuición auditiva básicamente ,KhyaKheu,Male,Kheu
+R_1gItbNbf1Hc14iG,femenino,55,castellano,Nunca,Nunca,Ninguno,No,Sí,No,weich,intuición auditiva básicamente ,KhyaKheu,Female,Khya
+R_1gNhuBXUUso1m4s,masculino,38,castellano,Nunca,Nunca,Ninguno,No,No,No,weich,Menor oclusión y mayor exhalación hace que los sonidos se perciban más blandos.,KheuKhya,Female,Khya
+R_1gNhuBXUUso1m4s,masculino,38,castellano,Nunca,Nunca,Ninguno,No,No,No,weich,Menor oclusión y mayor exhalación hace que los sonidos se perciban más blandos.,KheuKhya,Male,Kheu
+R_1GOGh3qo3IYXjbt,femenino,23,Español,Nunca,Nunca,Ninguno,No,Quizás,No,hart,"Me he imaginado a una persona haciendo esos sonidos con la boca. Las opciones que he marcado como más ""blandas"" me sobresaltaban menos.",KheuKhya,Male,Kheu
+R_1GOGh3qo3IYXjbt,femenino,23,Español,Nunca,Nunca,Ninguno,No,Quizás,No,hart,"Me he imaginado a una persona haciendo esos sonidos con la boca. Las opciones que he marcado como más ""blandas"" me sobresaltaban menos.",KhyaKheu,Female,Khya
+R_1I5BV2lLDtrRWWH,masculino,19,Español (Argentina),Nunca,Nunca,Ninguno,No,No,No,hart,"Detecte como un respiro rasposo en los que eran ""duros""",KheuKhya,Male,Kheu
+R_1I5BV2lLDtrRWWH,masculino,19,Español (Argentina),Nunca,Nunca,Ninguno,No,No,No,hart,"Detecte como un respiro rasposo en los que eran ""duros""",KheuKhya,Male,Khya
+R_1jd0qBn8zdVrdmc,femenino,39,Español y gallego,Nunca,Muy pocas veces,Ninguno,No,Quizás,No,weich,"Los sonidos en que se prolongaba más el sonido (el sonido fuerte era al principio del audio pero después se prolongaba en bajo, como una continuación en bajo del sonido) me resultaban más inquietantes, por lo que los seleccioné como más duros. / Realmente no sé el propósito del experimento, aunque imagino que saber que tipo de sonidos son más agradables o nos resultan más inquietantes puede ser interesante para muchas aplicaciones.",KhyaKheu,Female,Khya
+R_1jd0qBn8zdVrdmc,femenino,39,Español y gallego,Nunca,Muy pocas veces,Ninguno,No,Quizás,No,weich,"Los sonidos en que se prolongaba más el sonido (el sonido fuerte era al principio del audio pero después se prolongaba en bajo, como una continuación en bajo del sonido) me resultaban más inquietantes, por lo que los seleccioné como más duros. / Realmente no sé el propósito del experimento, aunque imagino que saber que tipo de sonidos son más agradables o nos resultan más inquietantes puede ser interesante para muchas aplicaciones.",KhyaKheu,Male,Kheu
+R_1JIUZT9TOyWue8U,masculino,57,español,Nunca,Nunca,Ninguno,No,No,No,weich,El blando era más apagado,KhyaKheu,Female,Khya
+R_1JIUZT9TOyWue8U,masculino,57,español,Nunca,Nunca,Ninguno,No,No,No,weich,El blando era más apagado,KheuKhya,Male,Kheu
+R_1kOGEo0MjEs1ueF,masculino,19,Castellano,Nunca,Nunca,Ninguno,No,No,No,weich,La terminacion,KheuKhya,Female,Khya
+R_1kOGEo0MjEs1ueF,masculino,19,Castellano,Nunca,Nunca,Ninguno,No,No,No,weich,La terminacion,KheuKhya,Male,Kheu
+R_1l3M2vHerG0cIs6,masculino,31,Español,Nunca,Muy pocas veces,Ninguno,No,Quizás,No,hart,"Pues no tengo ni idea, la verdad. ",KhyaKheu,Male,Khya
+R_1l3M2vHerG0cIs6,masculino,31,Español,Nunca,Muy pocas veces,Ninguno,No,Quizás,No,hart,"Pues no tengo ni idea, la verdad. ",KhyaKheu,Female,Kheu
+R_1lAxwm7248wWW4q,,,,,,,,,,hart,,KheuKhya,Female,Kheu
+R_1lAxwm7248wWW4q,,,,,,,,,,hart,,KhyaKheu,Male,Kheu
+R_1LUOa4zo0qI45lR,femenino,51,Español,Nunca,Nunca,Ninguno,No,No,No,weich,Just my first impression when listening to it.,KhyaKheu,Female,Khya
+R_1LUOa4zo0qI45lR,femenino,51,Español,Nunca,Nunca,Ninguno,No,No,No,weich,Just my first impression when listening to it.,KheuKhya,Male,Khya
+R_1LvbdGos5KbQK4b,femenino,21,Español,Nunca,Nunca,Ninguno,No,No,No,hart,"Admito que escuche varias veces los audios. Al principio me costo identificar cuál me parecía más duro o blando. Sinceramente no conozco sus significados, pero tomé al 'sonido duro' el que sentí más fuerte y al 'blando' como el más débil.",KheuKhya,Female,Kheu
+R_1LvbdGos5KbQK4b,femenino,21,Español,Nunca,Nunca,Ninguno,No,No,No,hart,"Admito que escuche varias veces los audios. Al principio me costo identificar cuál me parecía más duro o blando. Sinceramente no conozco sus significados, pero tomé al 'sonido duro' el que sentí más fuerte y al 'blando' como el más débil.",KhyaKheu,Male,Kheu
+R_1N2evzLenD1rvvR,,,,,,,,,,hart,Manera inicia sonido,KhyaKheu,Female,Kheu
+R_1N2evzLenD1rvvR,,,,,,,,,,hart,Manera inicia sonido,KheuKhya,Male,Kheu
+R_1o0kLWRoRHsZ9wz,masculino,23,Español,Nunca,Nunca,Ninguno,No,No,No,weich,"Uno de esos sonidos tenía una característica más explosiva, por lo que pude percibir que el gran escape de aire que producía lo hacía el más fuerte. ",KheuKhya,Male,Kheu
+R_1o0kLWRoRHsZ9wz,masculino,23,Español,Nunca,Nunca,Ninguno,No,No,No,weich,"Uno de esos sonidos tenía una característica más explosiva, por lo que pude percibir que el gran escape de aire que producía lo hacía el más fuerte. ",KhyaKheu,Female,Kheu
+R_1onJ7OqHTDUZF2z,masculino,63,"Español, sí y no",Nunca,Nunca,Ninguno,No,No,No,weich,En el primer par de sonidos el segundo es más prolongado. / En el segundo par de sonidos el primero es claramente más suave,KheuKhya,Male,Khya
+R_1onJ7OqHTDUZF2z,masculino,63,"Español, sí y no",Nunca,Nunca,Ninguno,No,No,No,weich,En el primer par de sonidos el segundo es más prolongado. / En el segundo par de sonidos el primero es claramente más suave,KhyaKheu,Female,Khya
+R_1OQ4lVT6ZdLwVBj,femenino,25,Español,Nunca,Regularmente,Ninguno,No,No,No,weich,"En uno de los sonidos parecía haber una especie de fuerza al pronunciar que, a comparación del otro, le daba un aspecto más duro.",KhyaKheu,Male,Khya
+R_1OQ4lVT6ZdLwVBj,femenino,25,Español,Nunca,Regularmente,Ninguno,No,No,No,weich,"En uno de los sonidos parecía haber una especie de fuerza al pronunciar que, a comparación del otro, le daba un aspecto más duro.",KhyaKheu,Female,Khya
+R_1qdLmPNIs9yvW6O,masculino,23,Español,Visitas cortas,Ocasionalmente,Intermedio,Sí,Sí,Quizás,hart,Quizás mi decisión se haya basado en cual de los dos audios era de sonido más grave,KhyaKheu,Male,Kheu
+R_1qdLmPNIs9yvW6O,masculino,23,Español,Visitas cortas,Ocasionalmente,Intermedio,Sí,Sí,Quizás,hart,Quizás mi decisión se haya basado en cual de los dos audios era de sonido más grave,KhyaKheu,Female,Kheu
+R_1QDzfYFGTH7kI40,masculino,36,Español,Nunca,Muy pocas veces,Ninguno,No,No,No,hart,"Me parecían más graves, más sonoros",KheuKhya,Male,Khya
+R_1QDzfYFGTH7kI40,masculino,36,Español,Nunca,Muy pocas veces,Ninguno,No,No,No,hart,"Me parecían más graves, más sonoros",KhyaKheu,Female,Kheu
+R_1rMp7Nh6NXJKWb6,,,,,,,,,,weich,,KheuKhya,Female,Kheu
+R_1rMp7Nh6NXJKWb6,,,,,,,,,,weich,,KheuKhya,Male,Khya
+R_1rw47ECeSRjjyJb,masculino,40,Español,Nunca,Ocasionalmente,Ninguno,No,Quizás,No,hart,Ni idea,KheuKhya,Male,Khya
+R_1rw47ECeSRjjyJb,masculino,40,Español,Nunca,Ocasionalmente,Ninguno,No,Quizás,No,hart,Ni idea,KheuKhya,Male,Khya
+R_1rxcGyF55xesowE,femenino,63,"español, inglés",Nunca,Nunca,Ninguno,No,No,No,weich,"La intensidad de la ""expiración"" fue lo que me hizo decidir.",KheuKhya,Female,Khya
+R_1rxcGyF55xesowE,femenino,63,"español, inglés",Nunca,Nunca,Ninguno,No,No,No,weich,"La intensidad de la ""expiración"" fue lo que me hizo decidir.",KhyaKheu,Male,Kheu
+R_1UsbsZtcdbysigp,masculino,25,Español,Nunca,Nunca,Ninguno,No,No,Sí,hart,Gravedad del sonido,KhyaKheu,Male,Kheu
+R_1UsbsZtcdbysigp,masculino,25,Español,Nunca,Nunca,Ninguno,No,No,Sí,hart,Gravedad del sonido,KhyaKheu,Female,Kheu
+R_20MqRXwF6GOTwLw,masculino,28,Español,Nunca,Nunca,Ninguno,Sí,Sí,No,hart,En el primero la intensidad del sonido /  / En el segundo la duración junto a la prolongación de la 'u',KheuKhya,Female,Kheu
+R_20MqRXwF6GOTwLw,masculino,28,Español,Nunca,Nunca,Ninguno,Sí,Sí,No,hart,En el primero la intensidad del sonido /  / En el segundo la duración junto a la prolongación de la 'u',KheuKhya,Male,Khya
+R_20Zseiqw2c6u2s3,femenino,24,castellano,Nunca,Nunca,Ninguno,No,No,No,hart,mas duro lo interpreto como más fuerte,KheuKhya,Female,Kheu
+R_20Zseiqw2c6u2s3,femenino,24,castellano,Nunca,Nunca,Ninguno,No,No,No,hart,mas duro lo interpreto como más fuerte,KhyaKheu,Male,Kheu
+R_214es42wdnlJ5u6,,,,,,,,,,weich,,KhyaKheu,Female,Khya
+R_214es42wdnlJ5u6,,,,,,,,,,weich,,KhyaKheu,Male,Khya
+R_21EQ6dWv17F42nM,,,,,,,,,,hart,,KhyaKheu,Female,Khya
+R_21EQ6dWv17F42nM,,,,,,,,,,hart,,KhyaKheu,Male,Kheu
+R_21iWaud9OLgMtU2,masculino,42,Español,Nunca,Nunca,Ninguno,No,No,No,weich,"El primer sonido me recordaba más a una especie de estallido, el segundo me parecía sentirlo más ""amortiguado"", menos ""punzante"" al oído que el primero. Encuentro bastante difícil encontrar adjetivos precisos para describir la sensación subjetiva.",KheuKhya,Male,Khya
+R_21iWaud9OLgMtU2,masculino,42,Español,Nunca,Nunca,Ninguno,No,No,No,weich,"El primer sonido me recordaba más a una especie de estallido, el segundo me parecía sentirlo más ""amortiguado"", menos ""punzante"" al oído que el primero. Encuentro bastante difícil encontrar adjetivos precisos para describir la sensación subjetiva.",KheuKhya,Female,Khya
+R_238mXglhxWUKbCp,masculino,46,Español ,Nunca,Nunca,Ninguno,No,No,No,hart,La respuesta tienen que ver con el volumen y la explosividad que he percibido al escuchar los sonidos. ,KhyaKheu,Female,Khya
+R_238mXglhxWUKbCp,masculino,46,Español ,Nunca,Nunca,Ninguno,No,No,No,hart,La respuesta tienen que ver con el volumen y la explosividad que he percibido al escuchar los sonidos. ,KhyaKheu,Male,Kheu
+R_23TB9KGEHyM4a2T,masculino,19,Castellano,Nunca,Muy pocas veces,Ninguno,No,Sí,No,weich,"Ha influido en mis respuestas el volumen de los audios, un audio con un volumen más bajo sería un sonido ""blando"".",KheuKhya,Male,Kheu
+R_23TB9KGEHyM4a2T,masculino,19,Castellano,Nunca,Muy pocas veces,Ninguno,No,Sí,No,weich,"Ha influido en mis respuestas el volumen de los audios, un audio con un volumen más bajo sería un sonido ""blando"".",KheuKhya,Female,Khya
+R_241LeZSW96DSF90,femenino,21,Español,Nunca,Nunca,Ninguno,No,Sí,No,weich,Blando lo identificó como que no es un sonido fuerte,KheuKhya,Female,Khya
+R_241LeZSW96DSF90,femenino,21,Español,Nunca,Nunca,Ninguno,No,Sí,No,weich,Blando lo identificó como que no es un sonido fuerte,KhyaKheu,Male,Kheu
+R_25BCPUOTzw3OnBG,masculino,36,Castellano,Nunca,Nunca,Ninguno,No,Quizás,No,hart,El alargamiento de la detonación final hace que parezcan más duro el primero ,KheuKhya,Female,Kheu
+R_25BCPUOTzw3OnBG,masculino,36,Castellano,Nunca,Nunca,Ninguno,No,Quizás,No,hart,El alargamiento de la detonación final hace que parezcan más duro el primero ,KhyaKheu,Male,Khya
+R_25MUcrSBwCMs9Pv,masculino,39,Español- sí ,Nunca,Nunca,Ninguno,No,Quizás,No,weich,Dentalización en el primer caso y fricatización en el segundo. Esos aspectos han influido en considerarlos más “blandos”. Al escucharlo una sola vez esta respuesta es pura intuición ,KhyaKheu,Female,Khya
+R_25MUcrSBwCMs9Pv,masculino,39,Español- sí ,Nunca,Nunca,Ninguno,No,Quizás,No,weich,Dentalización en el primer caso y fricatización en el segundo. Esos aspectos han influido en considerarlos más “blandos”. Al escucharlo una sola vez esta respuesta es pura intuición ,KheuKhya,Male,Khya
+R_25yojIV3auYnNst,femenino,44,Español ,Nunca,Nunca,Ninguno,No,Sí,No,weich,"El volumen (menos volumen más blando) y la duración (más largo, más blando) ",KhyaKheu,Male,Kheu
+R_25yojIV3auYnNst,femenino,44,Español ,Nunca,Nunca,Ninguno,No,Sí,No,weich,"El volumen (menos volumen más blando) y la duración (más largo, más blando) ",KhyaKheu,Female,Khya
+R_271XEFKd8rPrerh,masculino,26,Español de México,Nunca,Nunca,Ninguno,No,No,Quizás,weich,"No, creo que porque el ruido es menos abrupto, no estoy seguro.",KhyaKheu,Female,Kheu
+R_271XEFKd8rPrerh,masculino,26,Español de México,Nunca,Nunca,Ninguno,No,No,Quizás,weich,"No, creo que porque el ruido es menos abrupto, no estoy seguro.",KheuKhya,Male,Khya
+R_28ZIaXgyXOEtkfN,,,,,,,,,,weich,,KhyaKheu,Male,Kheu
+R_28ZIaXgyXOEtkfN,,,,,,,,,,weich,,KhyaKheu,Male,Kheu
+R_29aYgDzIVRwNYEo,femenino,25,Castellano,Nunca,Nunca,Ninguno,No,Sí,No,weich,La intensidad del sonido.,KhyaKheu,Male,Kheu
+R_29aYgDzIVRwNYEo,femenino,25,Castellano,Nunca,Nunca,Ninguno,No,Sí,No,weich,La intensidad del sonido.,KheuKhya,Female,Khya
+R_29c9J0fdRtgZeDD,,,,,,,,,,weich,,KhyaKheu,Male,Khya
+R_29c9J0fdRtgZeDD,,,,,,,,,,weich,,KhyaKheu,Male,Khya
+R_2anOyetxT6TxM6U,masculino,37,Español,Nunca,Nunca,Ninguno,No,Quizás,No,hart,"Me parece que ha sido el mismo segundo sonido en los dos casos, la /k/",KhyaKheu,Male,Kheu
+R_2anOyetxT6TxM6U,masculino,37,Español,Nunca,Nunca,Ninguno,No,Quizás,No,hart,"Me parece que ha sido el mismo segundo sonido en los dos casos, la /k/",KhyaKheu,Female,Kheu
+R_2BlZOWDyENqSAbV,masculino,32,español,Nunca,Nunca,Ninguno,No,Sí,Sí,hart,para mí tiene que ver con lo que puede ser la presión o el nivel de exhalación. La opción que elegí parece que proviene de un sonido con mucha más presión y por lo tanto más duro,KhyaKheu,Female,Kheu
+R_2BlZOWDyENqSAbV,masculino,32,español,Nunca,Nunca,Ninguno,No,Sí,Sí,hart,para mí tiene que ver con lo que puede ser la presión o el nivel de exhalación. La opción que elegí parece que proviene de un sonido con mucha más presión y por lo tanto más duro,KhyaKheu,Male,Kheu
+R_2CTWtJteezOF4Pa,femenino,31,Español,Nunca,Nunca,Ninguno,No,Sí,No,hart,No sé.,KhyaKheu,Female,Khya
+R_2CTWtJteezOF4Pa,femenino,31,Español,Nunca,Nunca,Ninguno,No,Sí,No,hart,No sé.,KheuKhya,Male,Kheu
+R_2fed055ZlCj82K6,,,,,,,,,,weich,,KheuKhya,Male,Khya
+R_2fed055ZlCj82K6,,,,,,,,,,weich,,KheuKhya,Female,Khya
+R_2fiJTUJnrN9NVnp,femenino,69 ,El español,Nunca,Nunca,Ninguno,No,No,No,weich,No sé lo que puede haber influido.El timbre de cada uno me sirvió para seleccionarlo. He detectado una emisión más explosiva o menos explosiva.,KheuKhya,Female,Kheu
+R_2fiJTUJnrN9NVnp,femenino,69 ,El español,Nunca,Nunca,Ninguno,No,No,No,weich,No sé lo que puede haber influido.El timbre de cada uno me sirvió para seleccionarlo. He detectado una emisión más explosiva o menos explosiva.,KheuKhya,Male,Kheu
+R_2fjTh434QjHtAoo,masculino,32,español,Nunca,Nunca,Ninguno,No,Quizás,No,weich,los sonidos se escuchaban claramente y es por eso que los logre concretar con facilidad,KhyaKheu,Female,Kheu
+R_2fjTh434QjHtAoo,masculino,32,español,Nunca,Nunca,Ninguno,No,Quizás,No,weich,los sonidos se escuchaban claramente y es por eso que los logre concretar con facilidad,KhyaKheu,Male,Khya
+R_2PAaIBqTRtlj6MD,masculino,47,Español,Nunca,Muy pocas veces,Ninguno,No,No,No,hart,"Parecen sonidos de un golpe, seleccioné el que me pareció más duro. / Creo que es la misma grabación de una persona pero desplazada en frecuencia. A frecuencias más altas me pareció más agresivo, más 'duro'.",KhyaKheu,Male,Kheu
+R_2PAaIBqTRtlj6MD,masculino,47,Español,Nunca,Muy pocas veces,Ninguno,No,No,No,hart,"Parecen sonidos de un golpe, seleccioné el que me pareció más duro. / Creo que es la misma grabación de una persona pero desplazada en frecuencia. A frecuencias más altas me pareció más agresivo, más 'duro'.",KheuKhya,Female,Khya
+R_2PBjBqEbwvHe49S,masculino,34,"Español, Inglés, Francés.",Nunca,Muy pocas veces,Ninguno,Sí,Sí,Sí,weich,"Tal vez los segundos suenan más dispersos, más espaciados, con menor intensidad.",KheuKhya,Female,Khya
+R_2PBjBqEbwvHe49S,masculino,34,"Español, Inglés, Francés.",Nunca,Muy pocas veces,Ninguno,Sí,Sí,Sí,weich,"Tal vez los segundos suenan más dispersos, más espaciados, con menor intensidad.",KheuKhya,Male,Khya
+R_2QM9QgnsYI1g8xd,masculino,37,Español,Nunca,Nunca,Ninguno,Quizás,No,No,hart,Duro=más desagradable.,KhyaKheu,Male,Kheu
+R_2QM9QgnsYI1g8xd,masculino,37,Español,Nunca,Nunca,Ninguno,Quizás,No,No,hart,Duro=más desagradable.,KheuKhya,Female,Kheu
+R_2QPVdVFt42jX8jH,masculino,33,español,Nunca,Regularmente,Ninguno,No,No,No,hart,La tonalidad mas grave,KhyaKheu,Female,Kheu
+R_2QPVdVFt42jX8jH,masculino,33,español,Nunca,Regularmente,Ninguno,No,No,No,hart,La tonalidad mas grave,KhyaKheu,Male,Khya
+R_2QVOTm9riHZC4s2,femenino,31,Español,Visitas cortas,Nunca,Ninguno,No,No,Sí,weich,Los sonidos duros suenan mas agresivos porque parece que lo hacen mas rapido y usan consonantes fuertes,KhyaKheu,Female,Khya
+R_2QVOTm9riHZC4s2,femenino,31,Español,Visitas cortas,Nunca,Ninguno,No,No,Sí,weich,Los sonidos duros suenan mas agresivos porque parece que lo hacen mas rapido y usan consonantes fuertes,KhyaKheu,Male,Khya
+R_2QyotBQON0f0Nyb,masculino,23,Español,Nunca,Muy pocas veces,Ninguno,No,Quizás,No,hart,"El sonido que se ""disipa"". Y el orden de escucha, te acostumbras a que empiece fuerte y el segundo no choca tanto",KheuKhya,Male,Kheu
+R_2QyotBQON0f0Nyb,masculino,23,Español,Nunca,Muy pocas veces,Ninguno,No,Quizás,No,hart,"El sonido que se ""disipa"". Y el orden de escucha, te acostumbras a que empiece fuerte y el segundo no choca tanto",KhyaKheu,Female,Khya
+R_2R2L8iN9pniVXWI,femenino,33,Español,Nunca,Nunca,Ninguno,No,No,No,hart,Nada en particular ,KhyaKheu,Female,Kheu
+R_2R2L8iN9pniVXWI,femenino,33,Español,Nunca,Nunca,Ninguno,No,No,No,hart,Nada en particular ,KheuKhya,Male,Kheu
+R_2rGYBWOkkjzCo5d,masculino,20,"Castellano, catalán",Nunca,Muy pocas veces,Ninguno,No,No,No,hart,"Realmente, puedo interpretar ""duro"" como diferentes cosas. He seleccionado los sonidos más... como con más cantidad de sonido... o algo así, pero en algún otro sentido los más duros eran los otros.",KheuKhya,Female,Khya
+R_2rGYBWOkkjzCo5d,masculino,20,"Castellano, catalán",Nunca,Muy pocas veces,Ninguno,No,No,No,hart,"Realmente, puedo interpretar ""duro"" como diferentes cosas. He seleccionado los sonidos más... como con más cantidad de sonido... o algo así, pero en algún otro sentido los más duros eran los otros.",KheuKhya,Male,Khya
+R_2rhVvwS1buJztA0,masculino,44,Español,Nunca,Nunca,Ninguno,No,No,No,hart,"Creo que el primero siempre es un ruido mas mecanico, mientras el segundo suena mas a humano. No obstante me he guiado por la dureza del sonido obviando ese aspecto.",KheuKhya,Male,Khya
+R_2rhVvwS1buJztA0,masculino,44,Español,Nunca,Nunca,Ninguno,No,No,No,hart,"Creo que el primero siempre es un ruido mas mecanico, mientras el segundo suena mas a humano. No obstante me he guiado por la dureza del sonido obviando ese aspecto.",KheuKhya,Male,Kheu
+R_2RPpPvDp5dOwJnw,masculino,25,Español,Nunca,Nunca,Ninguno,No,No,No,hart,El sonido parece más fuerte,KhyaKheu,Male,Kheu
+R_2RPpPvDp5dOwJnw,masculino,25,Español,Nunca,Nunca,Ninguno,No,No,No,hart,El sonido parece más fuerte,KhyaKheu,Female,Kheu
+R_2S6yY5OhZPTzkIM,,,,,,,,,,weich,,KhyaKheu,Male,Kheu
+R_2S6yY5OhZPTzkIM,,,,,,,,,,weich,,KhyaKheu,Female,Khya
+R_2Seq6UG9nDdWsHy,femenino,26,Español,Nunca,Muy pocas veces,Ninguno,Sí,No,No,hart,"El sonido /k/ se sentia mas oscuro, pesado en compracion al otro. ",KhyaKheu,Female,Kheu
+R_2Seq6UG9nDdWsHy,femenino,26,Español,Nunca,Muy pocas veces,Ninguno,Sí,No,No,hart,"El sonido /k/ se sentia mas oscuro, pesado en compracion al otro. ",KheuKhya,Male,Kheu
+R_2SuTJq3bAuyJ3bd,femenino,36,Español,Nunca,Regularmente,Ninguno,Sí,Sí,Sí,weich,La explosión al principio del audio me hace sentirlo más agresivo que al final del mismo.,KheuKhya,Female,Khya
+R_2SuTJq3bAuyJ3bd,femenino,36,Español,Nunca,Regularmente,Ninguno,Sí,Sí,Sí,weich,La explosión al principio del audio me hace sentirlo más agresivo que al final del mismo.,KhyaKheu,Male,Kheu
+R_2uU32AyHVnlxADG,femenino,21,Español,Estancias inferiores a 5 años,Muy pocas veces,Ninguno,Sí,Sí,Sí,hart,"Creo que el orden en que se presentaron influyo mucho, por que al no saber que esperar me tomo de sopresa el primer sonido y eso lo asocie con dureza",KheuKhya,Male,Kheu
+R_2uU32AyHVnlxADG,femenino,21,Español,Estancias inferiores a 5 años,Muy pocas veces,Ninguno,Sí,Sí,Sí,hart,"Creo que el orden en que se presentaron influyo mucho, por que al no saber que esperar me tomo de sopresa el primer sonido y eso lo asocie con dureza",KheuKhya,Male,Kheu
+R_2UYG2zT3bE4lQOc,masculino,36,Español,Nunca,Nunca,Ninguno,No,Sí,No,weich,Diría que la voz,KheuKhya,Female,Khya
+R_2UYG2zT3bE4lQOc,masculino,36,Español,Nunca,Nunca,Ninguno,No,Sí,No,weich,Diría que la voz,KhyaKheu,Male,Kheu
+R_2wdceVuhdfAHg9u,masculino,40,esp,Nunca,Nunca,Ninguno,No,No,No,hart,los que he elegido me parecen mas estridentes ,KheuKhya,Male,Kheu
+R_2wdceVuhdfAHg9u,masculino,40,esp,Nunca,Nunca,Ninguno,No,No,No,hart,los que he elegido me parecen mas estridentes ,KhyaKheu,Female,Kheu
+R_2WOnpIn5QHMgCCh,femenino,49,Castellano,Nunca,Nunca,Ninguno,No,No,No,hart,La fuerza en todos los aparatos necesarios para la producción del sonido,KheuKhya,Female,Kheu
+R_2WOnpIn5QHMgCCh,femenino,49,Castellano,Nunca,Nunca,Ninguno,No,No,No,hart,La fuerza en todos los aparatos necesarios para la producción del sonido,KheuKhya,Male,Kheu
+R_2wS0hgIjy8jkjpM,masculino,44,Español,Nunca,Ocasionalmente,Ninguno,No,Sí,Sí,weich, He interpretado blando o duro como agresivo o más suave y como yo lo he percibido en cuanto a tono. En base a eso he seleccionado lo que me parecía más apropiado,KhyaKheu,Male,Khya
+R_2wS0hgIjy8jkjpM,masculino,44,Español,Nunca,Ocasionalmente,Ninguno,No,Sí,Sí,weich, He interpretado blando o duro como agresivo o más suave y como yo lo he percibido en cuanto a tono. En base a eso he seleccionado lo que me parecía más apropiado,KheuKhya,Female,Khya
+R_2WwKhHMbx2XFSzX,femenino,21,Castellano,Nunca,Nunca,Ninguno,No,No,No,weich,"Cuando hay un sonido más seco lo he identificado como duro, mientras que si es un poquito más prolongado y suave, como blando.  / No, no he detectado ningún aspecto más.",KheuKhya,Female,Khya
+R_2WwKhHMbx2XFSzX,femenino,21,Castellano,Nunca,Nunca,Ninguno,No,No,No,weich,"Cuando hay un sonido más seco lo he identificado como duro, mientras que si es un poquito más prolongado y suave, como blando.  / No, no he detectado ningún aspecto más.",KhyaKheu,Male,Khya
+R_2y1HSh8CRkCcq4z,femenino,44,Español,Nunca,Muy pocas veces,Ninguno,No,Sí,Sí,weich,"El segundo sonido tiene un amago de vocal al final, por eso parecía que fuera blando.",KheuKhya,Male,Khya
+R_2y1HSh8CRkCcq4z,femenino,44,Español,Nunca,Muy pocas veces,Ninguno,No,Sí,Sí,weich,"El segundo sonido tiene un amago de vocal al final, por eso parecía que fuera blando.",KheuKhya,Female,Khya
+R_2Yh4as3tMPSBVRV,femenino,40,Español ,Nunca,Nunca,Ninguno,No,No,No,weich,"Uno de ellos me recordaba a un disparo...  Ese sería el sonido ""duro"". No me hacía sentir bien. ",KheuKhya,Male,Khya
+R_2Yh4as3tMPSBVRV,femenino,40,Español ,Nunca,Nunca,Ninguno,No,No,No,weich,"Uno de ellos me recordaba a un disparo...  Ese sería el sonido ""duro"". No me hacía sentir bien. ",KhyaKheu,Female,Khya
+R_2YtCzkwPwUMgf2M,femenino,34,Español,Nunca,Nunca,Ninguno,No,No,No,hart,Uno me parece más fuerte que otro,KhyaKheu,Female,Kheu
+R_2YtCzkwPwUMgf2M,femenino,34,Español,Nunca,Nunca,Ninguno,No,No,No,hart,Uno me parece más fuerte que otro,KheuKhya,Male,Kheu
+R_2zhE3uLnPClZv6W,,,,,,,,,,weich,,KheuKhya,Female,Khya
+R_2zhE3uLnPClZv6W,,,,,,,,,,weich,,KheuKhya,Male,Khya
+R_31GwoFCPWHNZ468,femenino,32,Castellano,Nunca,Nunca,Ninguno,No,Sí,No,hart,El sonido más duro es el más grave para mí.,KhyaKheu,Male,Kheu
+R_31GwoFCPWHNZ468,femenino,32,Castellano,Nunca,Nunca,Ninguno,No,Sí,No,hart,El sonido más duro es el más grave para mí.,KheuKhya,Female,Kheu
+R_31HG54Kkk4rx1Sb,femenino,32,castellano,Nunca,Ocasionalmente,Ninguno,No,Quizás,No,weich,"para que la percepción sea de ""más blando"", el ruido de la respiración es clave. Mientras más respiración, más suave, por lo menos para mí",KheuKhya,Male,Khya
+R_31HG54Kkk4rx1Sb,femenino,32,castellano,Nunca,Ocasionalmente,Ninguno,No,Quizás,No,weich,"para que la percepción sea de ""más blando"", el ruido de la respiración es clave. Mientras más respiración, más suave, por lo menos para mí",KhyaKheu,Female,Khya
+R_333g2jVruKKAbFN,femenino,48,español,Nunca,Ocasionalmente,Ninguno,No,No,No,hart,"En el primero no sabría identificar el motivo, pero en el segundo es un sonido de A abierta que sí me ha parecido más fuerte que en el otro audio, donde no he identificado nada que resaltase",KheuKhya,Female,Khya
+R_333g2jVruKKAbFN,femenino,48,español,Nunca,Ocasionalmente,Ninguno,No,No,No,hart,"En el primero no sabría identificar el motivo, pero en el segundo es un sonido de A abierta que sí me ha parecido más fuerte que en el otro audio, donde no he identificado nada que resaltase",KheuKhya,Male,Khya
+R_33j1aw8VRtS3Ccp,masculino,26,gallego y castellano.,Nunca,Nunca,Ninguno,No,No,No,weich,"creo que la respuesta se ha basado en lo estridente, la intensidad y la fluided del mismo.  Más  haya tampoco comprendo que ha motivado la respuesta. ",KheuKhya,Male,Khya
+R_33j1aw8VRtS3Ccp,masculino,26,gallego y castellano.,Nunca,Nunca,Ninguno,No,No,No,weich,"creo que la respuesta se ha basado en lo estridente, la intensidad y la fluided del mismo.  Más  haya tampoco comprendo que ha motivado la respuesta. ",KheuKhya,Female,Khya
+R_3dJQLPMZYaaPcmk,femenino,38,castellano,Nunca,Nunca,Ninguno,No,No,No,weich,la sensación de que se propaga en mayor tiempo el sonido,KheuKhya,Female,Khya
+R_3dJQLPMZYaaPcmk,femenino,38,castellano,Nunca,Nunca,Ninguno,No,No,No,weich,la sensación de que se propaga en mayor tiempo el sonido,KheuKhya,Male,Khya
+R_3et3MLl9KVsWn4v,femenino,24,Solo castellano,Nunca,Regularmente,Ninguno,No,Quizás,No,hart,si era más agudo o más grave. ,KhyaKheu,Male,Kheu
+R_3et3MLl9KVsWn4v,femenino,24,Solo castellano,Nunca,Regularmente,Ninguno,No,Quizás,No,hart,si era más agudo o más grave. ,KheuKhya,Female,Kheu
+R_3foUV0PEIvUhQQm,femenino,31,Español,Nunca,Nunca,Ninguno,No,No,Sí,weich,La duración y el impacto de la primera vez,KhyaKheu,Male,Kheu
+R_3foUV0PEIvUhQQm,femenino,31,Español,Nunca,Nunca,Ninguno,No,No,Sí,weich,La duración y el impacto de la primera vez,KheuKhya,Female,Khya
+R_3fwVGiN8LTyLl6Z,,,,,,,,,,hart,,KheuKhya,Male,Khya
+R_3fwVGiN8LTyLl6Z,,,,,,,,,,hart,,KhyaKheu,Female,Khya
+R_3g4WmTSYpTtbJbC,,,,,,,,,,hart,,KheuKhya,Female,Kheu
+R_3g4WmTSYpTtbJbC,,,,,,,,,,hart,,KheuKhya,Male,Kheu
+R_3HBrCzjTLK7NIJR,femenino,22,Castellano ,Nunca,Nunca,Ninguno,No,No,No,hart,El sonido elegi el sonido mas duro elnque me causó dolor de odios y malestar al esucharlo,KheuKhya,Male,Kheu
+R_3HBrCzjTLK7NIJR,femenino,22,Castellano ,Nunca,Nunca,Ninguno,No,No,No,hart,El sonido elegi el sonido mas duro elnque me causó dolor de odios y malestar al esucharlo,KhyaKheu,Female,Kheu
+R_3HuhgV3o960UN7C,,,,,,,,,,hart,,KheuKhya,Male,Khya
+R_3HuhgV3o960UN7C,,,,,,,,,,hart,,KheuKhya,Male,Khya
+R_3irohjVRQr0gWYi,femenino,33 años,Español,Nunca,Nunca,Ninguno,No,Sí,No,weich,"El tono, entre más bajo lo considero más blando.",KhyaKheu,Female,Kheu
+R_3irohjVRQr0gWYi,femenino,33 años,Español,Nunca,Nunca,Ninguno,No,Sí,No,weich,"El tono, entre más bajo lo considero más blando.",KhyaKheu,Male,Kheu
+R_3jcYHQhGAvy31Lg,,,,,,,,,,hart,,KheuKhya,Female,Kheu
+R_3jcYHQhGAvy31Lg,,,,,,,,,,hart,,KheuKhya,Male,Kheu
+R_3JmCB7QLbsT0tg9,,,,,,,,,,hart,,KheuKhya,Female,Kheu
+R_3JmCB7QLbsT0tg9,,,,,,,,,,hart,,KheuKhya,Female,Kheu
+R_3jTXlnZkUO7rm8U,femenino,22,español,Nunca,Nunca,Ninguno,No,Sí,No,weich,no,KhyaKheu,Female,Kheu
+R_3jTXlnZkUO7rm8U,femenino,22,español,Nunca,Nunca,Ninguno,No,Sí,No,weich,no,KhyaKheu,Male,Khya
+R_3kOkSJlSyVl4W39,femenino,34,Español,Nunca,Nunca,Ninguno,Quizás,Sí,No,weich,"El volumen, la duración y el tono el sonido ha sido lo que ha hecho tomar una decisión u otra.",KhyaKheu,Female,Khya
+R_3kOkSJlSyVl4W39,femenino,34,Español,Nunca,Nunca,Ninguno,Quizás,Sí,No,weich,"El volumen, la duración y el tono el sonido ha sido lo que ha hecho tomar una decisión u otra.",KhyaKheu,Male,Khya
+R_3L0l37MENXH3GWn,,,,,,,,,,weich,,KheuKhya,Female,Khya
+R_3L0l37MENXH3GWn,,,,,,,,,,weich,,KhyaKheu,Male,Khya
+R_3lEo2pbSBa8jOo5,femenino,20,Español y Catalán,Nunca,Nunca,Ninguno,No,Sí,Sí,weich,"Porque uno era velar y oclusivo, el otro era más relajado.",KheuKhya,Female,Khya
+R_3lEo2pbSBa8jOo5,femenino,20,Español y Catalán,Nunca,Nunca,Ninguno,No,Sí,Sí,weich,"Porque uno era velar y oclusivo, el otro era más relajado.",KheuKhya,Male,Kheu
+R_3LkfHXDRCbYVpcS,masculino,21,Castellano,Nunca,Nunca,Ninguno,No,No,No,hart,Me pareció más duro el que al principio sonaba más fuerte.,KheuKhya,Female,Kheu
+R_3LkfHXDRCbYVpcS,masculino,21,Castellano,Nunca,Nunca,Ninguno,No,No,No,hart,Me pareció más duro el que al principio sonaba más fuerte.,KheuKhya,Male,Kheu
+R_3m2KMWh0kaGuYxn,,,,,,,,,,weich,,KhyaKheu,Male,Khya
+R_3m2KMWh0kaGuYxn,,,,,,,,,,weich,,KhyaKheu,Female,Khya
+R_3MaIbU1sEehGzrt,femenino,23,Español,Nunca,Muy pocas veces,Ninguno,No,No,No,hart,"El hecho de sentir que oigo un sonido más fuerte, no tan aspirado como en las que marco como más blandas. ",KhyaKheu,Male,Kheu
+R_3MaIbU1sEehGzrt,femenino,23,Español,Nunca,Muy pocas veces,Ninguno,No,No,No,hart,"El hecho de sentir que oigo un sonido más fuerte, no tan aspirado como en las que marco como más blandas. ",KheuKhya,Female,Kheu
+R_3MGp9Daf3LoZE5q,femenino,25,Español,Nunca,Nunca,Ninguno,No,No,No,hart,"El primero me ha parecido un sonido más suave, el segundo más fuerte y más rápido",KhyaKheu,Male,Kheu
+R_3MGp9Daf3LoZE5q,femenino,25,Español,Nunca,Nunca,Ninguno,No,No,No,hart,"El primero me ha parecido un sonido más suave, el segundo más fuerte y más rápido",KhyaKheu,Female,Kheu
+R_3mlcMNnKzYqnQVy,femenino,37,Español,Nunca,Nunca,Ninguno,No,Sí,No,weich,El principio era más explosivo.,KhyaKheu,Female,Khya
+R_3mlcMNnKzYqnQVy,femenino,37,Español,Nunca,Nunca,Ninguno,No,Sí,No,weich,El principio era más explosivo.,KhyaKheu,Male,Khya
+R_3MoFjxd74IAWpKO,femenino,34,Española,Nunca,Nunca,Ninguno,No,No,No,hart,"La parte inicial del sonido fue la que me hizo definir si era más o menos ""duro""",KhyaKheu,Male,Khya
+R_3MoFjxd74IAWpKO,femenino,34,Española,Nunca,Nunca,Ninguno,No,No,No,hart,"La parte inicial del sonido fue la que me hizo definir si era más o menos ""duro""",KhyaKheu,Female,Khya
+R_3Mzf56V73QW9F3E,femenino,25,Español,Nunca,Nunca,Ninguno,No,No,No,weich,"Es el tipo de sonido, los más duros son mas repentinos y suenan un poco más alto, es difícil de poner en palabras",KheuKhya,Female,Khya
+R_3Mzf56V73QW9F3E,femenino,25,Español,Nunca,Nunca,Ninguno,No,No,No,weich,"Es el tipo de sonido, los más duros son mas repentinos y suenan un poco más alto, es difícil de poner en palabras",KhyaKheu,Male,Khya
+R_3noaWHr3KhGhZBv,masculino,55,español,Nunca,Nunca,Ninguno,No,No,No,hart,Sobre todo la agudeza o gravedad del mismo,KheuKhya,Male,Kheu
+R_3noaWHr3KhGhZBv,masculino,55,español,Nunca,Nunca,Ninguno,No,No,No,hart,Sobre todo la agudeza o gravedad del mismo,KheuKhya,Male,Kheu
+R_3NRsJkks7364U4u,femenino,36,Castellano,Nunca,Nunca,Ninguno,No,Quizás,No,hart,"El que catalogo como ""duro"" me parece que suena con más fuerza, con más volumen",KhyaKheu,Female,Kheu
+R_3NRsJkks7364U4u,femenino,36,Castellano,Nunca,Nunca,Ninguno,No,Quizás,No,hart,"El que catalogo como ""duro"" me parece que suena con más fuerza, con más volumen",KhyaKheu,Male,Kheu
+R_3nwn7is9CQys8Dz,,,,,,,,,,weich,,KhyaKheu,Male,Khya
+R_3nwn7is9CQys8Dz,,,,,,,,,,weich,,KheuKhya,Female,Khya
+R_3OoUJIlvaVTJsYO,masculino,25,Español,Nunca,Ocasionalmente,Ninguno,Quizás,Quizás,No,hart,"Intenté articular los sonidos así como los escuché y el que yo escogí como ""duro"" me implicaba más esfuerzo que el otro, tanto en la zona de la garganta como en la expresión facial; creo que relacioné eso con lo ""duro"".",KhyaKheu,Female,Kheu
+R_3OoUJIlvaVTJsYO,masculino,25,Español,Nunca,Ocasionalmente,Ninguno,Quizás,Quizás,No,hart,"Intenté articular los sonidos así como los escuché y el que yo escogí como ""duro"" me implicaba más esfuerzo que el otro, tanto en la zona de la garganta como en la expresión facial; creo que relacioné eso con lo ""duro"".",KheuKhya,Male,Kheu
+R_3Op5CFdGfBdTXYb,,,,,,,,,,hart,,KhyaKheu,Male,Khya
+R_3Op5CFdGfBdTXYb,,,,,,,,,,hart,,KheuKhya,Female,Kheu
+R_3p2MLjBxlh64UlP,femenino,45,español,Nunca,Nunca,Ninguno,No,No,No,weich,I consider the sounds soft or hard because thw impacr they have to my hearing,KhyaKheu,Male,Khya
+R_3p2MLjBxlh64UlP,femenino,45,español,Nunca,Nunca,Ninguno,No,No,No,weich,I consider the sounds soft or hard because thw impacr they have to my hearing,KhyaKheu,Female,Kheu
+R_3p3xXlkNhaX9HLQ,femenino,36,Castellano,Nunca,Nunca,Ninguno,No,No,No,hart,Quizás me han parecido menos duros los que alargan un pelín más el sonido,KheuKhya,Male,Kheu
+R_3p3xXlkNhaX9HLQ,femenino,36,Castellano,Nunca,Nunca,Ninguno,No,No,No,hart,Quizás me han parecido menos duros los que alargan un pelín más el sonido,KheuKhya,Male,Kheu
+R_3PGMvv8KRtVFY4o,masculino,32,Español,Nunca,Nunca,Ninguno,No,Sí,No,hart,En ambos casos he identificado el sonido duro con el que me ha parecido más brusco y cortante,KhyaKheu,Female,Kheu
+R_3PGMvv8KRtVFY4o,masculino,32,Español,Nunca,Nunca,Ninguno,No,Sí,No,hart,En ambos casos he identificado el sonido duro con el que me ha parecido más brusco y cortante,KhyaKheu,Male,Kheu
+R_3phEP3PZiyaXGrK,masculino,21,Espagnole anglais français ,Nunca,Nunca,Ninguno,No,Quizás,Sí,hart,No,KhyaKheu,Female,Khya
+R_3phEP3PZiyaXGrK,masculino,21,Espagnole anglais français ,Nunca,Nunca,Ninguno,No,Quizás,Sí,hart,No,KheuKhya,Male,Khya
+R_3q9vbhaMCNLiHnA,femenino,25,Español,Nunca,Muy pocas veces,Ninguno,No,No,Sí,hart,"Volumen/sonoridad (a mayor volumen o sonoridad, más 'duro')",KhyaKheu,Male,Khya
+R_3q9vbhaMCNLiHnA,femenino,25,Español,Nunca,Muy pocas veces,Ninguno,No,No,Sí,hart,"Volumen/sonoridad (a mayor volumen o sonoridad, más 'duro')",KhyaKheu,Female,Kheu
+R_3qBCBJ9ite61aap,otro,28,Inglés y español,Nunca,Nunca,Ninguno,Sí,Sí,Sí,hart,"Sé lo suficiente de fonética para saber que los sonidos que yo definiría como duros se deberían llamar blandos, pero traté de contestar según los definiría yo. En general, creo que las consonantes oculsivas me parecen más ""duras"".",KheuKhya,Male,Kheu
+R_3qBCBJ9ite61aap,otro,28,Inglés y español,Nunca,Nunca,Ninguno,Sí,Sí,Sí,hart,"Sé lo suficiente de fonética para saber que los sonidos que yo definiría como duros se deberían llamar blandos, pero traté de contestar según los definiría yo. En general, creo que las consonantes oculsivas me parecen más ""duras"".",KhyaKheu,Female,Kheu
+R_3QJeRHsw3ztsCFP,masculino,20,Español,Nunca,Muy pocas veces,Ninguno,No,Sí,No,hart,"Los audios duros eran cortantes, un bufido rápido. Por otro lado, los que considero blandos se disipaban.",KheuKhya,Male,Kheu
+R_3QJeRHsw3ztsCFP,masculino,20,Español,Nunca,Muy pocas veces,Ninguno,No,Sí,No,hart,"Los audios duros eran cortantes, un bufido rápido. Por otro lado, los que considero blandos se disipaban.",KhyaKheu,Female,Kheu
+R_3RaLibCNbXSoBTn,masculino,32,Español,Nunca,Nunca,Ninguno,No,No,No,weich,"Creo que el sonido que me parece más blando en los dos casos es el que alcanza menos intensidad, menos decibelios, el que resulta menos molesto escuchado a través de los auriculares.",KhyaKheu,Male,Khya
+R_3RaLibCNbXSoBTn,masculino,32,Español,Nunca,Nunca,Ninguno,No,No,No,weich,"Creo que el sonido que me parece más blando en los dos casos es el que alcanza menos intensidad, menos decibelios, el que resulta menos molesto escuchado a través de los auriculares.",KheuKhya,Female,Khya
+R_3RgYRZBHOtbFca0,,,,,,,,,,weich,,KheuKhya,Female,Kheu
+R_3RgYRZBHOtbFca0,,,,,,,,,,weich,,KheuKhya,Male,Khya
+R_3sghfmS63ITb0U0,femenino,32,"Español (peninsular), catalán y francés.",Nunca,Nunca,Ninguno,No,Quizás,Sí,hart,Supongo que el énfasis combinado con la duración. Los sonidos más prolongados sonaban un poco más suaves. Los sonidos más duros sonaban más abruptos y cortos.,KheuKhya,Female,Kheu
+R_3sghfmS63ITb0U0,femenino,32,"Español (peninsular), catalán y francés.",Nunca,Nunca,Ninguno,No,Quizás,Sí,hart,Supongo que el énfasis combinado con la duración. Los sonidos más prolongados sonaban un poco más suaves. Los sonidos más duros sonaban más abruptos y cortos.,KhyaKheu,Male,Kheu
+R_3siYgwFNS6HFctQ,femenino,25,Español,Nunca,Nunca,Ninguno,No,Sí,No,weich,Me ha parecido que las más duras eran “plosives”. Creo que las que he reconocido como blandas eran más fricativas. ,KhyaKheu,Male,Khya
+R_3siYgwFNS6HFctQ,femenino,25,Español,Nunca,Nunca,Ninguno,No,Sí,No,weich,Me ha parecido que las más duras eran “plosives”. Creo que las que he reconocido como blandas eran más fricativas. ,KheuKhya,Female,Khya
+R_3suz8gGqXMW3Mk8,,,,,,,,,,weich,,KhyaKheu,Male,Khya
+R_3suz8gGqXMW3Mk8,,,,,,,,,,weich,,KhyaKheu,Male,Khya
+R_3wODVTCQFiAfKZr,,,,,,,,,,weich,,KhyaKheu,Female,Khya
+R_3wODVTCQFiAfKZr,,,,,,,,,,weich,,KhyaKheu,Male,Khya
+R_4GjULCorPwOtrz3,masculino,23,Español,Nunca,Nunca,Ninguno,No,No,No,hart,La agresividad del que produce el sonido,KheuKhya,Female,Kheu
+R_4GjULCorPwOtrz3,masculino,23,Español,Nunca,Nunca,Ninguno,No,No,No,hart,La agresividad del que produce el sonido,KhyaKheu,Male,Kheu
+R_5hc9LJ5D5JyTaff,masculino,34,Castellano,Visitas cortas,Nunca,Ninguno,Sí,Sí,No,weich,"El grado de aspiracion es diferente en ambos, la respiracion al terminar, ",KhyaKheu,Female,Khya
+R_5hc9LJ5D5JyTaff,masculino,34,Castellano,Visitas cortas,Nunca,Ninguno,Sí,Sí,No,weich,"El grado de aspiracion es diferente en ambos, la respiracion al terminar, ",KheuKhya,Male,Khya
+R_6S5I7o0sh7Zd9eh,femenino,19,Español,Nunca,Nunca,Ninguno,No,No,No,hart,"Me parece que a la hora de interpretar cual sonido era mas ""blando"" y cual más ""duro"" tuvo un papel muy importante la rapidez con la que se escuchaban los mismos; es decir, quiza en el primer audio se hacía el sonido más pausadamente y en el otro era más rápido (por asi decirlo) y entonces interpretaba que el más lento era el más blando. Sin embargo en la segunda parte cuando me di cuenta de ello intente responder en base al sonido en si mismo y no como se lo interpretaba.",KheuKhya,Female,Kheu
+R_6S5I7o0sh7Zd9eh,femenino,19,Español,Nunca,Nunca,Ninguno,No,No,No,hart,"Me parece que a la hora de interpretar cual sonido era mas ""blando"" y cual más ""duro"" tuvo un papel muy importante la rapidez con la que se escuchaban los mismos; es decir, quiza en el primer audio se hacía el sonido más pausadamente y en el otro era más rápido (por asi decirlo) y entonces interpretaba que el más lento era el más blando. Sin embargo en la segunda parte cuando me di cuenta de ello intente responder en base al sonido en si mismo y no como se lo interpretaba.",KheuKhya,Male,Kheu
+R_6VTaccp8LUiQS9r,femenino,50,Castellano,Nunca,Nunca,Ninguno,No,No,No,weich,Voz femenina = blando,KheuKhya,Female,Kheu
+R_6VTaccp8LUiQS9r,femenino,50,Castellano,Nunca,Nunca,Ninguno,No,No,No,weich,Voz femenina = blando,KhyaKheu,Male,Kheu
+R_6yDN1VQwihjqfXr,masculino,35,Castellano y Valenciano (Catalán Occidental) ,Nunca,Nunca,Ninguno,No,Sí,No,hart,"Lo que se marca el sonido k y lo lejos que esté del principio de la pista. A más cerca del inicio de la ""palabra"" más duro me suena ",KheuKhya,Female,Kheu
+R_6yDN1VQwihjqfXr,masculino,35,Castellano y Valenciano (Catalán Occidental) ,Nunca,Nunca,Ninguno,No,Sí,No,hart,"Lo que se marca el sonido k y lo lejos que esté del principio de la pista. A más cerca del inicio de la ""palabra"" más duro me suena ",KheuKhya,Male,Kheu
+R_9EwygsCUGzJame5,,,,,,,,,,weich,,KheuKhya,Male,Khya
+R_9EwygsCUGzJame5,,,,,,,,,,weich,,KhyaKheu,Female,Khya
+R_9FGUAU0w951K1l7,masculino,35,castellano,Nunca,Muy pocas veces,Ninguno,No,Sí,Sí,weich,No,KhyaKheu,Female,Kheu
+R_9FGUAU0w951K1l7,masculino,35,castellano,Nunca,Muy pocas veces,Ninguno,No,Sí,Sí,weich,No,KheuKhya,Male,Kheu
+R_9FgyOhaE8PmUaB3,masculino,42,Catalan y Castellano,Nunca,Muy pocas veces,Ninguno,No,No,No,hart,"El sonido 'duro' era hecho como con la boca cerrada mientras que el 'blando' era más vocal, con la 'a'.",KhyaKheu,Male,Kheu
+R_9FgyOhaE8PmUaB3,masculino,42,Catalan y Castellano,Nunca,Muy pocas veces,Ninguno,No,No,No,hart,"El sonido 'duro' era hecho como con la boca cerrada mientras que el 'blando' era más vocal, con la 'a'.",KheuKhya,Female,Kheu
+R_9HN0fM11BvyNp6h,femenino,62,Español,Nunca,Nunca,Ninguno,No,No,No,hart,La prolongación en el tiempo del segundo.,KheuKhya,Male,Kheu
+R_9HN0fM11BvyNp6h,femenino,62,Español,Nunca,Nunca,Ninguno,No,No,No,hart,La prolongación en el tiempo del segundo.,KheuKhya,Male,Kheu
+R_9nu26t0J8c7FcNH,,,,,,,,,,weich,,KhyaKheu,Male,Khya
+R_9nu26t0J8c7FcNH,,,,,,,,,,weich,,KhyaKheu,Female,Khya
+R_BQUbwNBSrFmSaRj,femenino,52,Español,Nunca,Muy pocas veces,Ninguno,No,No,No,weich,"creo que mi elección tiene que ver con el sonido ""K"" ",KhyaKheu,Male,Khya
+R_BQUbwNBSrFmSaRj,femenino,52,Español,Nunca,Muy pocas veces,Ninguno,No,No,No,weich,"creo que mi elección tiene que ver con el sonido ""K"" ",KheuKhya,Female,Khya
+R_BWmgUmAV2A4mBnH,,,,,,,,,,weich,,KheuKhya,Male,Khya
+R_BWmgUmAV2A4mBnH,,,,,,,,,,weich,,KhyaKheu,Female,Khya
+R_bwnw48dOhh7Yvhn,femenino,67,Castellano,Nunca,Nunca,Ninguno,No,Sí,No,hart,"'+Duro= más corto, más enérgico / - Duro= más prolongado",KheuKhya,Male,Kheu
+R_bwnw48dOhh7Yvhn,femenino,67,Castellano,Nunca,Nunca,Ninguno,No,Sí,No,hart,"'+Duro= más corto, más enérgico / - Duro= más prolongado",KheuKhya,Male,Kheu
+R_cCRR6bUT3pHx1rb,masculino,20,Español,Nunca,Nunca,Ninguno,No,No,No,hart,"El criterio para seleccionar el más ""duro"" ha sido porque el  más suave lo identificaba con un suspiro.",KhyaKheu,Male,Khya
+R_cCRR6bUT3pHx1rb,masculino,20,Español,Nunca,Nunca,Ninguno,No,No,No,hart,"El criterio para seleccionar el más ""duro"" ha sido porque el  más suave lo identificaba con un suspiro.",KhyaKheu,Female,Kheu
+R_cH2vTE6Jyi6tSud,masculino,39,"Catalán, Español, Inglés",Nunca,Muy pocas veces,Ninguno,No,Sí,No,weich,uno es más seco mientras que el otro es más largo,KhyaKheu,Male,Khya
+R_cH2vTE6Jyi6tSud,masculino,39,"Catalán, Español, Inglés",Nunca,Muy pocas veces,Ninguno,No,Sí,No,weich,uno es más seco mientras que el otro es más largo,KhyaKheu,Female,Khya
+R_D00z74D9P45mH1n,femenino,40,catalán,Visitas cortas,Nunca,Ninguno,Quizás,Sí,No,weich,"El segundo me recuerda al sonido que hacemos cuando imitamos a un león. Es más explosivo, más agresivo. ",KhyaKheu,Male,Khya
+R_D00z74D9P45mH1n,femenino,40,catalán,Visitas cortas,Nunca,Ninguno,Quizás,Sí,No,weich,"El segundo me recuerda al sonido que hacemos cuando imitamos a un león. Es más explosivo, más agresivo. ",KhyaKheu,Female,Khya
+R_e8umll5bjz4VT4R,femenino,25,Español,Nunca,Nunca,Ninguno,No,No,No,hart,No se,KhyaKheu,Female,Kheu
+R_e8umll5bjz4VT4R,femenino,25,Español,Nunca,Nunca,Ninguno,No,No,No,hart,No se,KhyaKheu,Male,Kheu
+R_OCk5w30tS9l85GN,femenino,27,Español,,,,,,,hart,"Consideré a los sonidos ""duros"" los que percibí con mayor volúmen",KheuKhya,Male,Khya
+R_OCk5w30tS9l85GN,femenino,27,Español,,,,,,,hart,"Consideré a los sonidos ""duros"" los que percibí con mayor volúmen",KheuKhya,Male,Kheu
+R_p3oTw7ovZZ9o0Pn,masculino,41,castellano,Nunca,Muy pocas veces,Ninguno,No,No,No,weich,"Los suenan con la vocal ""a"" suenan mas blandos, mientras que los que suenan con la ""e"" parecen mas duros.",KhyaKheu,Male,Khya
+R_p3oTw7ovZZ9o0Pn,masculino,41,castellano,Nunca,Muy pocas veces,Ninguno,No,No,No,weich,"Los suenan con la vocal ""a"" suenan mas blandos, mientras que los que suenan con la ""e"" parecen mas duros.",KheuKhya,Female,Khya
+R_qCNLwZsISueBkDD,masculino,40,Español ,Visitas cortas,Nunca,Ninguno,Sí,Sí,Quizás,hart,"El segundo ejercicio eran latigazos. El primero exhalaciónes de una chica simulando el ruido de una bala. El primero dellos era más cool, más duro. ",KheuKhya,Male,Kheu
+R_qCNLwZsISueBkDD,masculino,40,Español ,Visitas cortas,Nunca,Ninguno,Sí,Sí,Quizás,hart,"El segundo ejercicio eran latigazos. El primero exhalaciónes de una chica simulando el ruido de una bala. El primero dellos era más cool, más duro. ",KheuKhya,Male,Khya
+R_qDZlvNNk5mrlL4B,,,,,,,,,,weich,,KheuKhya,Male,Kheu
+R_qDZlvNNk5mrlL4B,,,,,,,,,,weich,,KheuKhya,Female,Khya
+R_qEfD5OwES0pLxhD,masculino,24,Castellano,Nunca,Muy pocas veces,Ninguno,No,Sí,Sí,hart,"Creo que considero un sonido más ""duro"" un sonido más repentino, más abrupto, que baje de intensidad más repentinamente en lugar de los que lo hacen poco a poco desvaneciéndose",KheuKhya,Female,Kheu
+R_qEfD5OwES0pLxhD,masculino,24,Castellano,Nunca,Muy pocas veces,Ninguno,No,Sí,Sí,hart,"Creo que considero un sonido más ""duro"" un sonido más repentino, más abrupto, que baje de intensidad más repentinamente en lugar de los que lo hacen poco a poco desvaneciéndose",KhyaKheu,Male,Kheu
+R_R9OuCyvy2YWwYwh,masculino,25,English,Nunca,Nunca,Ninguno,No,No,No,hart,always select the number 1 because the sumbido was stronger than the number 2 / ,KheuKhya,Female,Kheu
+R_R9OuCyvy2YWwYwh,masculino,25,English,Nunca,Nunca,Ninguno,No,No,No,hart,always select the number 1 because the sumbido was stronger than the number 2 / ,KhyaKheu,Male,Khya
+R_rcdPHZMA8FcOXqp,femenino,35,castellano,Nunca,Nunca,Ninguno,Quizás,Sí,No,hart,"Me parece más blanco el sonido de la ""s"" o ""sh"" y más duro el que parece ""k"".",KhyaKheu,Male,Kheu
+R_rcdPHZMA8FcOXqp,femenino,35,castellano,Nunca,Nunca,Ninguno,Quizás,Sí,No,hart,"Me parece más blanco el sonido de la ""s"" o ""sh"" y más duro el que parece ""k"".",KheuKhya,Female,Kheu
+R_RERxfIoqIe5jnxf,,,,,,,,,,hart,,KhyaKheu,Female,Khya
+R_RERxfIoqIe5jnxf,,,,,,,,,,hart,,KheuKhya,Male,Kheu
+R_RhmMtlj1gWPaaFH,masculino,24,Español,Nunca,Muy pocas veces,Ninguno,No,No,No,hart,"Mi resultado lo basaba en la solidez del sonido, lo compacto que me resultaba y una sensación de cortante que resultaba",KhyaKheu,Male,Kheu
+R_RhmMtlj1gWPaaFH,masculino,24,Español,Nunca,Muy pocas veces,Ninguno,No,No,No,hart,"Mi resultado lo basaba en la solidez del sonido, lo compacto que me resultaba y una sensación de cortante que resultaba",KheuKhya,Female,Kheu
+R_RxDxlPJWjrxAtYl,femenino,69,Español,Nunca,Nunca,Ninguno,No,No,Quizás,hart,No sé explicar qué ha podido influir.,KheuKhya,Male,Khya
+R_RxDxlPJWjrxAtYl,femenino,69,Español,Nunca,Nunca,Ninguno,No,No,Quizás,hart,No sé explicar qué ha podido influir.,KheuKhya,Male,Kheu
+R_SBqSvjBQL2JJZ6h,femenino,62,Español,Nunca,Nunca,Ninguno,No,No,No,hart,No lo sé,KhyaKheu,Male,Khya
+R_SBqSvjBQL2JJZ6h,femenino,62,Español,Nunca,Nunca,Ninguno,No,No,No,hart,No lo sé,KhyaKheu,Female,Kheu
+R_sZ5vLNqmPVDJrGx,masculino,39,Español,Nunca,Muy pocas veces,Ninguno,No,No,No,hart,En el primer caso el primer sonido suena a pedrada y el segundo chasquido hecho con la boca. En el segundo caso me suenan igual. Es un chasquido,KheuKhya,Female,Kheu
+R_sZ5vLNqmPVDJrGx,masculino,39,Español,Nunca,Muy pocas veces,Ninguno,No,No,No,hart,En el primer caso el primer sonido suena a pedrada y el segundo chasquido hecho con la boca. En el segundo caso me suenan igual. Es un chasquido,KhyaKheu,Male,Khya
+R_tFdKBzH6u7nC2D7,femenino,39,"Catalán, español",Nunca,Nunca,Ninguno,No,Quizás,No,weich,"Ha sido totalmente intuitivo, no tengo ni idea",KhyaKheu,Male,Khya
+R_tFdKBzH6u7nC2D7,femenino,39,"Catalán, español",Nunca,Nunca,Ninguno,No,Quizás,No,weich,"Ha sido totalmente intuitivo, no tengo ni idea",KheuKhya,Female,Khya
+R_tMVoMNRUAdsURhf,,,,,,,,,,weich,,KheuKhya,Male,Khya
+R_tMVoMNRUAdsURhf,,,,,,,,,,weich,,KheuKhya,Female,Kheu
+R_u35Xg07GlezNHeF,masculino,18,Español,Nunca,Ocasionalmente,Ninguno,No,Sí,No,hart,Lo determina la explosividad del sonido ,KhyaKheu,Female,Kheu
+R_u35Xg07GlezNHeF,masculino,18,Español,Nunca,Ocasionalmente,Ninguno,No,Sí,No,hart,Lo determina la explosividad del sonido ,KheuKhya,Male,Kheu
+R_ugC3UbUWdPuFxCN,otro,16,español,Nunca,Regularmente,Ninguno,No,No,No,weich,La fuerza en que se pronunció,KhyaKheu,Female,Khya
+R_ugC3UbUWdPuFxCN,otro,16,español,Nunca,Regularmente,Ninguno,No,No,No,weich,La fuerza en que se pronunció,KheuKhya,Male,Khya
+R_uhbPmvPds1KYsvf,femenino,45,SPANISH,Nunca,Nunca,Ninguno,No,No,No,hart,HARD WOMAN,KheuKhya,Female,Kheu
+R_uhbPmvPds1KYsvf,femenino,45,SPANISH,Nunca,Nunca,Ninguno,No,No,No,hart,HARD WOMAN,KhyaKheu,Male,Kheu
+R_ULox4R9cshTbK6Z,femenino,32,Castellano,Nunca,Nunca,Ninguno,No,Quizás,No,hart,Intensidad del sonido,KheuKhya,Female,Kheu
+R_ULox4R9cshTbK6Z,femenino,32,Castellano,Nunca,Nunca,Ninguno,No,Quizás,No,hart,Intensidad del sonido,KhyaKheu,Male,Kheu
+R_ULVOA3KqoZJ8zRf,masculino,37,español,Nunca,Nunca,Ninguno,Quizás,Sí,No,weich,simplemente por la primera impresión,KhyaKheu,Female,Khya
+R_ULVOA3KqoZJ8zRf,masculino,37,español,Nunca,Nunca,Ninguno,Quizás,Sí,No,weich,simplemente por la primera impresión,KheuKhya,Male,Khya
+R_Usf3v6xkmEDp3BT,masculino,3,Valenciano,Nunca,Nunca,Ninguno,No,No,No,weich,He considerado como más 'blando' el sonido que me parecía más agudo,KheuKhya,Female,Khya
+R_Usf3v6xkmEDp3BT,masculino,3,Valenciano,Nunca,Nunca,Ninguno,No,No,No,weich,He considerado como más 'blando' el sonido que me parecía más agudo,KheuKhya,Male,Khya
+R_UxXrceDox1nmdCp,masculino,21,Español,Nunca,Nunca,Ninguno,Quizás,No,No,weich,"El aspecto más importante era que el sonido nunca superara un pico de x decibelios derepente  (o eso creo), a partir de cierta intensidad, por muy ""flojo"" que pueda ser el tono si es muy alto lo asocio con algo duro. ",KhyaKheu,Female,Khya
+R_UxXrceDox1nmdCp,masculino,21,Español,Nunca,Nunca,Ninguno,Quizás,No,No,weich,"El aspecto más importante era que el sonido nunca superara un pico de x decibelios derepente  (o eso creo), a partir de cierta intensidad, por muy ""flojo"" que pueda ser el tono si es muy alto lo asocio con algo duro. ",KheuKhya,Male,Khya
+R_uzfLxUfixa3yl3P,masculino,34,"Castellano, gallego",Nunca,Muy pocas veces,Ninguno,Quizás,Sí,No,hart,"Sonidos como /k/ me suenan más duros que otros como /t/. La aspiración junto a /k/ me resulta aún más dura. La aspiración junto a /t/, em cambio, lo suaviza. ",KhyaKheu,Female,Kheu
+R_uzfLxUfixa3yl3P,masculino,34,"Castellano, gallego",Nunca,Muy pocas veces,Ninguno,Quizás,Sí,No,hart,"Sonidos como /k/ me suenan más duros que otros como /t/. La aspiración junto a /k/ me resulta aún más dura. La aspiración junto a /t/, em cambio, lo suaviza. ",KheuKhya,Male,Kheu
+R_vUn45VzQjZLxpF7,femenino,29,Castellano,Nunca,Nunca,Ninguno,No,No,No,hart,Los graves y la lentitud del sonido.,KhyaKheu,Female,Kheu
+R_vUn45VzQjZLxpF7,femenino,29,Castellano,Nunca,Nunca,Ninguno,No,No,No,hart,Los graves y la lentitud del sonido.,KhyaKheu,Male,Kheu
+R_w6lDwDHrX8HXhND,,,,,,,,,,weich,,KheuKhya,Male,Khya
+R_w6lDwDHrX8HXhND,,,,,,,,,,weich,,KhyaKheu,Female,Khya
+R_xaP8CpD5Ziz0lm9,femenino,24,Castellano,Nunca,Muy pocas veces,Ninguno,No,No,No,hart,"Los sonidos que me parecieron más duros fueron los que causaron más impacto acústico repentino. Si se pudieran ver como ondas en el Audacity, habría picos de volumen.",KheuKhya,Male,Kheu
+R_xaP8CpD5Ziz0lm9,femenino,24,Castellano,Nunca,Muy pocas veces,Ninguno,No,No,No,hart,"Los sonidos que me parecieron más duros fueron los que causaron más impacto acústico repentino. Si se pudieran ver como ondas en el Audacity, habría picos de volumen.",KhyaKheu,Female,Kheu
+R_XBTvawahgidRU0p,femenino,73,Español,Visitas cortas,Nunca,Ninguno,No,Sí,Sí,hart,El golpe seco. Más cortante en el primero,KhyaKheu,Male,Khya
+R_XBTvawahgidRU0p,femenino,73,Español,Visitas cortas,Nunca,Ninguno,No,Sí,Sí,hart,El golpe seco. Más cortante en el primero,KhyaKheu,Female,Khya
+R_XZJoS8BIn1UPbDX,masculino,42,Español,Nunca,Ocasionalmente,Ninguno,No,No,No,weich,El volumen o la intensidad del sonido,KhyaKheu,Female,Khya
+R_XZJoS8BIn1UPbDX,masculino,42,Español,Nunca,Ocasionalmente,Ninguno,No,No,No,weich,El volumen o la intensidad del sonido,KheuKhya,Male,Kheu
+R_yPg636Hnm5gs47v,masculino,57,Castellano,Nunca,Muy pocas veces,Ninguno,No,Sí,Sí,hart,Me ha parecido mas duro el sonido seguido de vocal,KhyaKheu,Male,Kheu
+R_yPg636Hnm5gs47v,masculino,57,Castellano,Nunca,Muy pocas veces,Ninguno,No,Sí,Sí,hart,Me ha parecido mas duro el sonido seguido de vocal,KheuKhya,Female,Kheu
+R_Zqlf6OEKpd5qy2Z,masculino,33,english,Nunca,Ocasionalmente,Ninguno,No,Sí,Sí,weich,very good audio to write,KhyaKheu,Male,Kheu
+R_Zqlf6OEKpd5qy2Z,masculino,33,english,Nunca,Ocasionalmente,Ninguno,No,Sí,Sí,weich,very good audio to write,KheuKhya,Female,Kheu
